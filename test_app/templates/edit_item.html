@@ -8,6 +8,13 @@
         <label for="paragraph">Content</label>
         <textarea name="paragraph" placeholder="Content"
                   class="form-control">{{ request.form['paragraph'] or item['paragraph'] }}</textarea>
+        <label for="exampleFormControlFile2">Typ:</label>
+        <paragraph></paragraph>
+        <select name="type">
+            {% for typ in types %}
+                <option value="{{typ['name']}}" {% if typ['name'] == item['type'] %} selected {% endif %}>{{typ['name']}}</option>
+            {% endfor %}     
+        </select>
     </div>
     <div class="form-group">
         <button type="submit" class="btn btn-primary">Speichern</button>

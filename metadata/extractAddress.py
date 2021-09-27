@@ -1,6 +1,6 @@
 # https://pyspellchecker.readthedocs.io/en/latest/
 # https://github.com/barrust/pyspellchecker
-from typing import List, Dict
+# from typing import List, Dict
 from spellchecker import SpellChecker
 import re
 import numpy as np
@@ -9,7 +9,7 @@ import schluesselregex as rex
 from pymongo.collection import Collection
 
 
-def getSpellcheck(lan: str, words: List[str]) -> SpellChecker:
+def getSpellcheck(lan: str, words: list[str]) -> SpellChecker:
     sp = SpellChecker(language=lan, distance=1)
     sp.word_frequency.load_words(words)
     return sp
@@ -34,7 +34,7 @@ def corrAdresseTypo(strName: str, typoSpellcheck: SpellChecker):
 
 
 def getAddress(textRaw: str, typoSpellcheck: SpellChecker, adcache: any, 
-                streets: List[str], newaddr: List[str], igAdr: List[str]):
+                streets: list[str], newaddr: list[str], igAdr: list[str]):
 
     textString: str = re.sub(
         "[a-zA-Z äÄöÖüÜß]+", lambda ele: " " + ele[0] + " ", textRaw)
@@ -177,8 +177,8 @@ def getAddress(textRaw: str, typoSpellcheck: SpellChecker, adcache: any,
 
 
 def findAddresses(col: Collection, supcol: Collection, lan: str):
-    sup: Dict = supcol.find_one()
-    slist: List[str] = sup["streetnames"]
+    sup: dict = supcol.find_one()
+    slist: list[str] = sup["streetnames"]
 
     slist = [s.lower() for s in slist]
 

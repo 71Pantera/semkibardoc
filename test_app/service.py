@@ -34,7 +34,7 @@ if uri == None:
     uri = "mongodb+srv://semtation:SemTalk3!@cluster0.pumvg.mongodb.net/kibardoc?retryWrites=true&w=majority"
 
 # uri = "mongodb+srv://semtation:SemTalk3!@cluster0.pumvg.mongodb.net/kibardoc?retryWrites=true&w=majority"
-# uri = "mongodb://localhost:27017"
+uri = "mongodb://localhost:27017"
 
 myclient = pymongo.MongoClient(uri,
                                maxPoolSize=50,
@@ -642,11 +642,23 @@ def editpatternlist(id):
     item = get_item("pattern", id)
     if request.method == 'POST':
         paragraph = request.form['paragraph']
+        typ = request.form['type']
         col = mydb["pattern"]
         col.update_one(
-            {'_id': ObjectId(id)}, {'$set': {'paragraph': paragraph}})
+            {'_id': ObjectId(id)}, {'$set': {'paragraph': paragraph, 'type': typ}})
         return redirect(url_for('showpattern'))
-    return render_template('edit_item.html', item=item, delete_item="deletepattern")
+    collist = mydb.list_collection_names()
+    vi = [{ "name": ""}]
+    if "doctypes" in collist:
+        list_col = mydb["doctypes"]
+    list = list_col.find()
+    for v in list:
+        v1 = {}
+        for a in v:
+            if a != "_id":
+                v1[a] = v[a]
+        vi.append(v1)
+    return render_template('edit_item.html', item=item, types=vi, delete_item="deletepattern")
 
 
 @ myapp.route('/pattern/<id>/delete', methods=('POST',))
@@ -658,6 +670,26 @@ def deletepattern(id):
     col.remove({'_id': ObjectId(id)})
     flash('"{}" was successfully deleted!'.format('Item'))
     return redirect(url_for('showpattern'))
+
+@ myapp.route("/doctypes")
+def alldoctypes():
+    if user == None:
+        return redirect(url_for('login'))
+    collist = mydb.list_collection_names()
+    vi = []
+    if "doctypes" in collist:
+        list_col = mydb["doctypes"]
+        list = list_col.find()
+        for v in list:
+            v1 = {}
+            for a in v:
+                if a != "_id":
+                    v1[a] = v[a]
+            vi.append(v1)
+    json_string = json.dumps(vi, ensure_ascii=False)
+    response = Response(
+        json_string, content_type="application/json; charset=utf-8")
+    return response
 
 @ myapp.route("/showdoctypes")
 def showdoctypes():
@@ -720,7 +752,7 @@ def editbadlist(id):
         col.update_one(
             {'_id': ObjectId(id)}, {'$set': {'paragraph': paragraph}})
         return redirect(url_for('showbadlist'))
-    return render_template('edit_item.html', item=item, delete_item="deletebadlist")
+    return render_template('edit_item.html', item=item, types=[], delete_item="deletebadlist")
 
 
 @ myapp.route('/badlist/<id>/delete', methods=('POST',))

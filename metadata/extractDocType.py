@@ -1,6 +1,6 @@
 # coding: utf-8
 import re
-from test_app.service import pattern
+# from test_app.service import pattern
 
 # Check regex: https://pythex.org/
 
