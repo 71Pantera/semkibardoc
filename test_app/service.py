@@ -45,6 +45,7 @@ collist = mydb.list_collection_names()
 
 # metadatatable = "resolved"
 metadatatable = "metadata"
+metadatatable = "koepenick"
 if tab:
     metadatatable = tab
 
@@ -132,6 +133,16 @@ def static_proxy(path):
     # send_static_file will guess the correct MIME type
     return myapp.send_static_file(path)
 
+@myapp.route("/selectmetadata", methods=(['GET']))
+def selectmetadata():
+    if user == None:
+        return redirect(url_for('login'))
+    query = request.args
+    if "collection" in query:
+        global metadatatable
+        metadatatable=query["collection"]
+        return myapp.send_static_file('index.html')
+    return "OK"
 
 _allcategories: List[str] = []
 _colors: Dict[str, str] = {}

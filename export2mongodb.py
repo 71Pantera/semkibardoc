@@ -24,7 +24,7 @@ from metadata.extractIntents import extractintents
 
 load_dotenv()
 uri = os.getenv("MONGO_CONNECTION")
-# uri = "mongodb://localhost:27017"
+uri = "mongodb://localhost:27017"
 # uri = "mongodb+srv://klsuser:Kb.JHQ-.HrCs6Fw@cluster0.7qi8s.mongodb.net/test?authSource=admin&replicaSet=atlas-o1jpuq-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
 # uri = "mongodb+srv://semtation:SemTalk3!@cluster0.pumvg.mongodb.net/kibardoc?retryWrites=true&w=majority"
 
@@ -458,6 +458,8 @@ def mongoExport(metadataname="metadata", hidaname="hida",
 
     if isfolders:
         loadArrayCollection("files.json", "folders")
+        loadArrayCollection("koepnick_files.json", "koepnick_folders")
+        # loadArrayCollection("files.json", "folders")
 
     if isbadlist:
         loadArrayCollection(r".\static\badlist.json", "badlist")
@@ -566,7 +568,8 @@ def extractMetaData(metadataname: str, district: str):
     hida = mydb["hida"]
     support = mydb["support"]
 
-    # extractText(district, "E:\Lichtenberg\Dokumentationen",
+    # extractText(district, "E:\\Lichtenberg\\Dokumentationen",
+    # extractText(district, "E:\\2_Köpenick",
     #             metadata, "http://localhost:9998")
     # initSupport(support, hida, district)
 
@@ -576,29 +579,30 @@ def extractMetaData(metadataname: str, district: str):
     # initSupport(support, hida, district)
  
     # findAddresses(metadata, support, "de")
-    # folders = mydb["folders"]
-    # folderAddress(folders, hida, "C:\\Data\\test\\KIbarDok\\Treptow", support, "de","Treptow-Köpenick")
+    # folders = mydb["koepnick_folders"]
+    # # folderAddress(folders, hida, "C:\\Data\\test\\KIbarDok\\Treptow", support, "de","Treptow-Köpenick")
+    # folderAddress(folders, hida, "E:\\2_Köpenick", support, "de","Treptow-Köpenick")
     # findMonuments(metadata, hida, support, folders, "de","Treptow-Köpenick")
     # mongoExport(metadataname=metadataname, ismetadatahida=True)
  
     doctypes = mydb["doctypes"]
     # initDocumentPattern(doctypes)
-    # findDocType(metadata, doctypes)
-    # findDates(metadata)
-    # findProject(metadata)
+    findDocType(metadata, doctypes)
+    findDates(metadata)
+    findProject(metadata)
 
-    # vorhabeninv_col = mydb["vorhaben_inv"]
-    # pattern_col = mydb["pattern"]
-    # badlist_col = mydb["badlist"]
-    # all_col = mydb["emblist"]
-    # no_col = mydb["noemblist"]
-    # extractintents(metadata, vorhabeninv_col, pattern_col,
-    #                badlist_col, all_col, no_col)
-    # mongoExport(metadataname=metadataname, ismetadatakeywords=True)
+    vorhabeninv_col = mydb["vorhaben_inv"]
+    pattern_col = mydb["pattern"]
+    badlist_col = mydb["badlist"]
+    all_col = mydb["emblist"]
+    no_col = mydb["noemblist"]
+    extractintents(metadata, vorhabeninv_col, pattern_col,
+                   badlist_col, all_col, no_col)
+    mongoExport(metadataname=metadataname, ismetadatakeywords=True)
 
 
 # extractMetaData("metadata2", "Lichtenberg")
-extractMetaData("metadata", "Treptow-Köpenick")
+extractMetaData("koepenick", "Treptow-Köpenick")
 # updateID("metadata2")
 # setMetaDataDistrict("metadata","Treptow-Köpenick")
 # mongoExport(ismetadatanokeywords=True)
