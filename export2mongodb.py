@@ -23,10 +23,11 @@ from metadata.extractIntents import extractintents
 
 
 load_dotenv()
-uri = os.getenv("MONGO_CONNECTION")
-uri = "mongodb://localhost:27017"
-# uri = "mongodb+srv://klsuser:Kb.JHQ-.HrCs6Fw@cluster0.7qi8s.mongodb.net/test?authSource=admin&replicaSet=atlas-o1jpuq-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
-# uri = "mongodb+srv://semtation:SemTalk3!@cluster0.pumvg.mongodb.net/kibardoc?retryWrites=true&w=majority"
+
+# uri = "mongodb://localhost:27017"
+# uri =  os.getenv("MONGO_CONNECTION_ATLAS")
+# uri =  os.getenv("MONGO_CONNECTION_KLS")
+uri =  os.getenv("MONGO_CONNECTION_AZURE")
 
 myclient = pymongo.MongoClient(uri)
 # myclient._topology_settings
@@ -185,22 +186,24 @@ def projectMetaDataHida(metadataname: str, hidaname: str):
                 hida[hidaid] = hidaobj
             metadata_col.update_one(
                 {"_id": doc["_id"]}, {
-                    "$set": {"hida": hida,
-                             "Sachbegriff": list(sachbegriff),
-                             "Denkmalart": list(denkmalart),
-                             "Denkmalname": list(denkmalname)}
+                    "$set": {
+                        # "hida": hida,
+                        "Sachbegriff": list(sachbegriff),
+                        "Denkmalart": list(denkmalart),
+                        "Denkmalname": list(denkmalname)}
                 })
         else:
-            hida = {}
+            # hida = {}
             sachbegriff = set([])
             denkmalart = set([])
             denkmalname = set([])
             metadata_col.update_one(
                 {"_id": doc["_id"]}, {
-                    "$set": {"hida": hida,
-                             "Sachbegriff": list(sachbegriff),
-                             "Denkmalart": list(denkmalart),
-                             "Denkmalname": list(denkmalname)}
+                    "$set": {
+                        # "hida": hida,
+                        "Sachbegriff": list(sachbegriff),
+                        "Denkmalart": list(denkmalart),
+                        "Denkmalname": list(denkmalname)}
                 })
 
 
@@ -544,49 +547,39 @@ def mongoExport(metadataname="metadata", hidaname="hida",
 # lookupAddress("Berlin Treptow", "moosdorfstrasse  7-9")
 
 
-def extractMetaData(metadataname: str, district: str):
+def extractMetaData(name: str, metadataname: str, district: str, path: str, folders: str, tika: str):
+    istaxo = (not "taxo" in collist)
+    isinvtaxo = (not "invtaxo" in collist)
+    isvorhaben = (not "vorhaben" in collist)
+    isvorhaben_inv = (not "vorhaben_inv" in collist)
+    ispattern = (not "pattern" in collist)
+    isbadlist = (not "badlist" in collist)
+    mongoExport(
+        istaxo=istaxo,
+        isinvtaxo=isinvtaxo,
+        isbadlist=isbadlist,
+        isvorhaben=isvorhaben,
+        isvorhabeninv=isvorhaben_inv,
+        ispattern=ispattern)
 
-    metadata = mydb[metadataname]
-
-    # istaxo = (not "taxo" in collist)
-    # isinvtaxo = (not "invtaxo" in collist)
-    # isvorhaben = (not "vorhaben" in collist)
-    # isvorhaben_inv = (not "vorhaben_inv" in collist)
-    # ispattern = (not "pattern" in collist)
-    # isbadlist = (not "badlist" in collist)
-    # mongoExport(
-    #             istaxo=istaxo,
-    #             isinvtaxo=isinvtaxo,
-    #             isbadlist=isbadlist,
-    #             isvorhaben=isvorhaben,
-    #             isvorhabeninv=isvorhaben_inv,
-    #             ispattern=ispattern)
-
-    # if not "hida" in collist:
-    #     mongoExport(ishida=True)
-    #     mongoExport(isupdatehidataxo=True)
+    if not "hida" in collist:
+        mongoExport(ishida=True)
+        mongoExport(isupdatehidataxo=True)
     hida = mydb["hida"]
     support = mydb["support"]
 
-    # extractText(district, "E:\\Lichtenberg\\Dokumentationen",
-    # extractText(district, "E:\\2_Köpenick",
-    #             metadata, "http://localhost:9998")
-    # initSupport(support, hida, district)
+    metadata = mydb[metadataname]
+    extractText(name, path, metadata, tika)
+    initSupport(support, hida, district)
 
-    # extractText("Treptow", "C:\\Data\\test\\KIbarDok\\Treptow\\1_Treptow",
-    #             metadata, "http://localhost:9998")
-    # initSupport(support, hida, "Treptow-Köpenick")
-    # initSupport(support, hida, district)
- 
-    # findAddresses(metadata, support, "de")
-    # folders = mydb["koepnick_folders"]
-    # # folderAddress(folders, hida, "C:\\Data\\test\\KIbarDok\\Treptow", support, "de","Treptow-Köpenick")
-    # folderAddress(folders, hida, "E:\\2_Köpenick", support, "de","Treptow-Köpenick")
-    # findMonuments(metadata, hida, support, folders, "de","Treptow-Köpenick")
-    # mongoExport(metadataname=metadataname, ismetadatahida=True)
- 
+    findAddresses(metadata, support, "de")
+    folders = mydb[folders]
+    folderAddress(folders, hida, path, support, "de", district)
+    findMonuments(metadata, hida, support, folders, "de", district)
+    mongoExport(metadataname=metadataname, ismetadatahida=True)
+
     doctypes = mydb["doctypes"]
-    # initDocumentPattern(doctypes)
+    initDocumentPattern(doctypes)
     findDocType(metadata, doctypes)
     findDates(metadata)
     findProject(metadata)
@@ -601,8 +594,16 @@ def extractMetaData(metadataname: str, district: str):
     mongoExport(metadataname=metadataname, ismetadatakeywords=True)
 
 
-# extractMetaData("metadata2", "Lichtenberg")
-extractMetaData("koepenick", "Treptow-Köpenick")
+# extractMetaData("Lichtenberg", "lichtenberg", "Lichtenberg",
+#                 "E:\\Lichtenberg\\Dokumentationen",
+#                 "lichtenberg_folders", "http://localhost:9998")
+extractMetaData("Treptow", "treptow", "Treptow-Köpenick",
+                "C:\\Data\\test\\KIbarDok\\Treptow\\1_Treptow",
+                "folders", "http://localhost:9998")
+# extractMetaData("Köpenick", "koepenick", "Treptow-Köpenick",
+#                "E:\\2_Köpenick", 
+#                 "koepnick_folders", "http://localhost:9998")
+
 # updateID("metadata2")
-# setMetaDataDistrict("metadata","Treptow-Köpenick")
+# setMetaDataDistrict("treptow","Treptow-Köpenick")
 # mongoExport(ismetadatanokeywords=True)

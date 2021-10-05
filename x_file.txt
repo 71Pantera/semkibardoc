@@ -1,5739 +1,3142 @@
-karl-schrader-str   6
-oderstrasse 67
-putzflächen hof 1
-der straße 130
-wernsdorfer straße 27
-falkenberg 1-3
-klosterstrasse 47
-des stra 0
-würtembergische straße 6
-kohlfurter straße 41-43
-hohenzollerndamm 120
-hohenzollerndamm 120
-krausenstrasse 38-39
-rostocker str   20
-kaulsdorfer straße 32-34
-bushalteplatz 2
-generalshof 3
-generalshof 1
-neckarsulmer str   7
-klosterstrasse 47
-zeulenrodaer str   1
-hohenzollerndamm 120
-ntariasation-krausenstrasse 38
-rheinsberger str   59
-ahornweg 9
-assmannstrasse 56
-assmannstrasse 63
-assmannstrasse 63
-klosterstrasse 47
-dudenstrasse 10
-klosterstrasse 47
-hausvogteiplatz 10
-tiegartenstrasse 6
-pablo-neruda-str   19247
-wiesengraben 12
-werndsdorfer str   10
-klosterstrasse 47
-kurfürstendamm 104-107
-chemnitzer straße 198-200
-klosterstrasse 47
-holzmarktstrasse 15-17
-klosterstrasse 47
-sportplatz 1
-danziger str   193
-hohenziatzer weg 1
-rigaerstrasse  35
-krugallee 4
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-trebbiner straße 6
-klosterstrasse 47
-warschauer straße 41-42
-frankfurter allee 73
-frankfurter allee 73
-holzmarktstrasse 15-17
-klosterstrasse 47
-holzmarktstrasse  15
-09-adlergestell 784
-holzmarktstrasse 15-17
-holzmarktstrasse 15-17
-holzmarktstrasse 15-17
-holzmarktstrasse 15-17
--brückner-str  10
-klosterstrasse 47
-holzmarktstrasse 15-17
-holzmarktstrasse 15-17
-holzmarktstrasse 15-17
-klosterstrasse 47
-klosterstrasse 47
-ahormnallee 43
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-klosterstrasse 47
-ahormallee 38
-ahrnallee 39-40
-tempelhof 1926
-wernsdorfer str   2
-wernsdorfer str   2
-warschauer str   41-42
-erkelenzdamm 59-61
-rinkartstrasse 13
-rinkartstrasse 13
-dahmestrasse 33
-rinkartstrasse 13
-rinkartstrasse 13
-siehe anlage 1
-pablo-neruda-str   2-4
-erkelenzdamm 59-61
-grunthalplatz 3-4
-schlosserstrasse 7
-caroline-michaelis-straße 5-11
-opac-arbeitsplatz 1
-falkenhagener straße 12
-erkelenzdamm 59-61
-behrenstrasse 42
-rinkartstrasse 13
-zimmerstrasse 30
--hoffmann-str  11
-klosterstrasse 47
-liegnitzer straße 20
-klosterstrasse 47
-klosterstrasse 47
-liegnitzer straße 20
-liegnitzer straße 20
-klosterstrasse 47
-teutonenstrasse  52
-klosterstrasse 47
-liegnitzer straße 20
-klosterstrasse 47
-hagenauer str   14
-dudenstrasse 10
-erkelenzdamm 59-61
-erkelenzdamm 59-61
-erkelenzdamm 59-61
-erkelenzdamm 59-61
-erkelenzdamm 59-61
-dahmestrasse 33
-rinkartstrasse 13
-belziger straße 25
-erkelenzdamm 59-61
-2006 anlage 1
-stadtentwicklung anlage 1
-rinkartstrasse 13
-zimmerstrasse 30
-geneststrasse 5
--hoffmann-str  11
-königsberger straße 10
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38
-klosterstrasse 47
-hagenauer str   14
-dudenstrasse 10
-ritterstrasse 38-40
-klosterstrasse 47
-bahnhof 12207
-bahnhof 12207
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-ferdinan-rhode-str   12
-bonner straße 37
-ferdinand-rhode-straße 12
-hans-schmidt-str   18
-hans-schmidt-str   18
-bonner straße 37
-ferdinand-rhode-straße 12
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-ehrenfelsstrasse 39
-ehrenfelsstrasse 39
-zobtener straße 10317
-bernauer str   63-67
-hoppendorfer str   10
-kaulsdorfer str   209
-zobtener straße 10317
-ehrenfelsstrasse 39
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-ehrenfelsstrasse 39
-ehrenfelsstrasse 39
-zobtener straße 10317
-bernauer str   63-67
-hoppendorfer str   10
-kaulsdorfer str   209
-zobtener straße 10317
-ehrenfelsstrasse 39
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-ehrenfelsstrasse 39
-ehrenfelsstrasse 39
-zobtener straße 10317
-bernauer str   63-67
-hoppendorfer str   10
-kaulsdorfer str   209
-zobtener straße 10317
-ehrenfelsstrasse 39
-rosenfelder str   15
-rosenfelder str   15
-carl-goerdeler-straße 17
-klosterstrasse 47
-stener berg 41
-carl-goerdeler-straße 17
-dudenstrasse 10
-carl-goerdeler-straße 17
-carl-goerdeler-straße 17
-treppendorfer weg 23
-seelenbinder str   99
-klosterstrasse 47
-klosterstrasse 47
-uhlandstrasse 28
-spinolastrasse 28
-rathenower straße 82
-maßnahmenübersicht anlage 1
-klosterstrasse 47
-wilhelm-herbst-straße 12
-klosterstrasse 47
-pablo-neruda-str   27
-breite str   3
-klosterstrasse 47
-klosterstrasse 47
--2-grünstrasse 4-6
-laurenstrasse 1-2
-potsdamer straße 35
-potsdamer straße 35
-potsdamer straße 35
-klosterstrasse 47
-laurenstrasse 1-2
-klosterstrasse 47
-brückenstrasse 14
-rinkartstrasse  13
-rhinstrasse 137
-rhinstrasse 137
-waldvogelweg 10
-rhinstrasse 137
-rhinstrasse 137
-rhinstrasse 137
-rhinstrasse 137
-treskowallee 68
-treskowallee 68
-byteweg 32
-karl-marx-allee 87
-mühlenberg 1837
-rhinstrasse 137
-rhinstrasse 137
-krugallee 4
-klosterstrasse 47
-friedhof 7
-rinkartstrasse  13
-rinkartstrasse  13
-der anlage 1
-der anlage 1
-waldvogelweg 10
--str  14
-genehmigung anlage 1
-treskowallee 68
-stuhlgestell 100
-100316 anlage 3
-borsigstrasse 30
-hans-schmidt-straße 6-8
-breite straße 9
-parsifalstrasse 66
-parsifalstrasse 66
-parsifalstrasse 66
-parsifalstrasse 66
-breite straße 9
-breite straße 9
-breite straße 9
-breite straße 9
-koblenzer str   75
-hans-schmidt-str   18
-hans-schmidt-straße 6-8
-hans-schmidt-str   18
-parsifalstrasse 66
-parsifalstrasse 66
-parsifalstrasse 66
-parsifalstrasse 66
-parsifalstrasse 66
-hans-schmidt-str   18
-parsifalstrasse 66
-parsifalstrasse 66
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-heilbronner straße 19
-klosterstrasse 47
-nagelsweg 27-35
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-und anlage 2
-und anlage 2
-und anlage 2
-und anlage 2
-und anlage 2
-otto-suhr-allee 94
-kantstrasse 54
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-landsberger allee 295
-grünnnauer str   210-216
-klosterstrasse 47
-klosterstrasse 47
-brunnenstrasse 111
-potsdamer platz 5
-brunnenstrasse 111
-brunnenstrasse 111
-klosterstrasse 47
-brunnenstrasse 111
-leipziger straße 10
-klosterstrasse 47
-brunnenstrasse 111
-konrad-wolf-str   45
-konrad-wolf-str   45
-august-bebel-strasse 32
-hagenstrasse 55
-konrad-wolf-str   45
-gehweg 2
-august-bebel-strasse 32
-august-bebel-strasse 32
-klosterstrasse 47
-august-bebel-straße 32
-august-bebel-straße 32
-august-begel-straße 32
-spinolastrasse 28
-klosterstrasse 47
-klosterstrasse 47
-marsstrasse 37
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-strelitzer straße 72
-pablo-neruda-str   9
-markstädter straße 12555
-pablo-neruda-str   9
-krugallee 4
-krugallee 4
-krugallee 4
-klosterstrasse 47
-j-nawrocki-str  16
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-der anlage 3
-raumbacher str   11
-gosener damm 1
-krugallee 4
-aachener straße 186
-friedrich-ebert-straße 35-37
-sobernheimer straße 1-6
-sobernheimer straße 1-6
-sobernheimer straße 1-6
-ordernheimer straße 1
-sobernheimer straße 1-6
-sobernheimer straße 1-6
-krugallee 4
-feldblumenweg 10
-sobernheimer straße 1-6
-brösener str   28
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-brösener straße 28
-brösener straße 28
-sobernheimer straße 1-6
-sobernheimer straße 1-6
-indira-gandhi-str   66-69
-klosterstrasse 47
-krugallee 4
-fasanenstrasse 87
-krausenstrasse 38-39
-ukonstruktion-goethestrasse 34
-krugallee 4
-torstrasse 93
-fasanenstrasse 87
-fasanenstrasse 87
-fasanenstrasse 87
-fasanenstrasse 87
-fasanenstrasse 87
-klosterstrasse 47
-fasanenstrasse 87
-in anlage 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-brösener straße 5
-sobernheimer straße 1-6
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-gartenanlage 198-13
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-müggelbergallee 10
-elisabethstrasse 74
-treskowallee 74
--2-odernheimer straße 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-potsdamer straße 188
-potsdamer straße 188
-klosterstrasse 47
-holzmarktstrasse 15-17
-klosterstrasse 47
-holzmarkstrasse 15-17
-holzmarktstrasse 15-17
-steifensandstrasse 7
-klosterstrasse 47
-rübelandstrasse 9
-klosterstrasse 47
-hans-böckler-allee 9
-königswinterstrasse 27
-hans-böckler-allee 9
-hans-böckler-allee 9
-klosterstrasse 47
-hans-böckler-allee 9
-hans-böckler-allee 9
-hans-böckler-allee 9
-manteuffelstrasse 59
-manteuffelstrasse 59
-rheinsberger str   59
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-manteuffelstrasse 59
-keller hof 14
-wassersportallee 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-flachsweg 11
-wittenberger straße 8
-herrenberg 9
-kaiser-wilhelm-platz 3
-klosterstrasse 47
-münstersche str   7
-klosterstrasse 47
-klosterstrasse 47
-flachsweg 11
-klosterstrasse 47
-flachsweg 11
-klosterstrasse 47
-krausenstrasse 38-39
-ludwig-behr-straße 14
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-gudrunstrasse 18
-gudrunstrasse 18
-krausenstrasse 38-39
-klosterstrasse 47
-ludwig-behr-straße 14
-klosterstrasse 47
-ludwig-behrstrasse  14
-klosterstrasse 47
-kloster-strasse 47
-kloster-strasse 47
-kloster-strasse 47
-kloster-strasse 47
-kloster-strasse 47
-klosterstrasse 47
-wittenberger straße 8
-0 straße 41
-0 straße 41
-0 straße 41
-kurfürstendamm 225
-kurfürstendamm 225
-wittenberger str   8
-lehrter straße 57
-wittenberger str   8
-wittenberger str   8
-wittenberger str   8
-wittenberger str   8
-wittenberger str   8
-der anlage 1
-klosterstrasse 47
-wittenberger str   8
-stralauer platz 34
-klosterstrasse 47
-wittenberger straße 8
-0 straße 41
-stralauer platz 34
-wittenberger straße 8
-klosterstrasse 47
-alte-wittenberger str   8
-alte-wittenberger str   8
-rheinsberger str   59
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-lehrter straße 57
-wittenberger straße 8
-wittenberger str   8
-wittenberger str   8
-klosterstrasse 47
-klosterstrasse 47
-kellerberg 6
-wittenberger str   8
-wittenberger str   8
-klosterstrasse 47
-wittenberger str   8
-wittenberger str   8
-ulmenallee 10
-klosterstrasse 47
-klosterstrasse 47
-wittenberger str   8
-wittenberger str   8
-alte-wittenberger str   8
-alte-wittenberger str   8
-alte-wittenberger str   8
-alte-wittenberger str   8
+dammweg 16
+pestalozzistrasse 57
+bachstrasse 14
 mecklenburgische straße 57
-amelcknerplatz 20-22
-generalshof 2-3
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-lindenallee 38
-generalshof 1
-lindenallee 38
-lindenallee 38
-lindenallee 38
-gerneralshof 1
-georgenkirchstrasse 69
-joachimsthaler straße 41
-generalshof 1-klä
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-lindenallee 38
-lindenallee 38
-fassade-generalshof 1
-generalshof 1
-generalshof 5
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-lindenallee 38
-generalshof 1
-joachimsthaler straße 41
-generalshof 1
-lindenallee 38
-georgenkirchstrasse 69
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-generalshof 1
-richard-sorge-straße 57
-klosterstrasse 47
-kurfürstendamm 104
-kurfürstendamm 104-107
-kurfürstendamm 104-107
-anemonenstrasse 52
-anemonenstrasse 52
-anemonenstrasse 52
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-unterberg 37
-klosterstrasse 47
-klosterstrasse 47
-präsidentenstrasse 3
-krausenstrasse 38-39
-cicerostrasse 28
-cicerostrasse 28
-parkplatz 4
-cicerostrasse 28
-berlin-oberschöneweide  1926
-weiskopffstrasse 14
-berlin-oberschöneweide  1926
-weiskopffstrasse 14
-berlin-oberschöneweide 2012
-lichtenberg 1900
-friedrichstrasse 8
-abortanlage 1
-berlin-oberschöneweide 2010
-berlin-oberschöneweide 2010
-spielplatz 09
-berlin-oberschöneweide 2016
-berlin-oberschöneweide 2010
-cöpenicker straße 3
-berlin-oberschöneweide 03
-spielplatz 09
-cöpenicker straße 3
-weiskopfstrasse 16
-parkplatz 4
-gartenanlage 1910
-kinderspielplatz  54
-königstrasse 18
-königstrasse 18
-dorotheastrasse 8
-roederstrasse 8-13
-rehefelder straße 70
-zeulenrodaer str   1
-fanny-zobel-straße 11
-roederstrasse 8-13
-klosterstrasse 47
-friedrich-engels-straße 144
-klosterstrasse 47
-dieststrasse 16
-roederstrasse 8-14
-roederstrasse 8-14
-pablo-neruda-str   19247
-kaßbergstrasse 26
-kaßbergstrasse 26
-eiselenweg 25
-klosterstrasse 47
-eiselenweg 25
-klosterstrasse 47
-kaßbergstrasse 16
-die anlage 1
-die anlage 1
-die anlage 1
-timmasper weg 28
-kaßburger straße 26
+mecklenburgische straße 57
+tiergartenstrasse 10
+falkenberg 1
+leberstrasse 11
 warschauer straße 41-42
-detnolder str   11
-osteingang tor 7
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-schlesische str   27
-treskowallee 211
-treskowallee 211
-treskowallee 211
-treskowallee 211
--treskowallee 211-som
-treskowallee 211
-treskowallee 211
-rinkartstrasse 13
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-kurfürstendamm 186
-august-horch-str   4
-kurfürstendamm 186
-klosterstrasse 47
-kurfürstendamm 186
-kurfürstendamm 186
-kurfürstendamm 186
-5 tor 7
-klosterstrasse 47
-sprosserweg 3
-um tor 7
-großgörschenstrasse 15
-großgörschenstrasse 15
-großgörschenstrasse 15
-großgörschenstrasse 15
-großgörschenstrasse 15
-klosterstrasse 47
-doc anlage 1
-krugallee 4
-doc anlage 1
-rühl allee 25
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-detmolder str   11
-detmolder str   11
-detmolder str   11
-klosterstrasse 47
-roederstrasse 8-14
-richtigen weg 22
-fasanenstrasse 7-8
-breer anlage 1
-großstrasse 24
-klosterstrasse 47
-ehrenbergstrasse 19
-friedenstrasse 82
-klosterstrasse 47
-beyerstrasse 28
-puchanstrasse 34
-sachtlebenstrasse 60
-wallgraben 9
-sprosserweg 3
-treskowallee 211
-treskowallee 211
-treskowallee 211
-treskowallee 209
-treskowallee 209
-treskowallee 209
-treskowallee 209
-friedhof 624-13
-klosterstrasse 47
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-é strasse 12
-doc anlage 1
-é strasse 12
-krugallee 4
-krugallee 12435
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-é strasse 12
-sprosserweg 3
-niederkirchner str   5
-klosterstrasse 47
-pablo-neruda-str   19247
-baumschulenweg 04
-sprosserweg 3
-bahnbrücke 110-13
-niederkirchner str   5
-zu weg 264-13
-sprosserweg 3
-krugallee 4
-nkmalstatus-kiefholzstrasse  390
-grundstücke-kiefholzstrasse 390
-1-kiefholzstrasse 390
-goldsternweg 32
-daheimstrasse 9
--howley-weg 22
-friedensallee 21
-clausewitzstrasse 2
-dudenstrasse 10
-krausenstrasse 38
-der anlage 1
-dudenstrasse 10
-geneststrasse 5
-dudenstrasse 10
-klosterstrasse 47
-pflasterweg 102
-grundstücken-grünstrasse 6-grü
-klosterstrasse 47
-klosterstrasse 47
-voltaireweg 4
-siehe anlage 1
-landjägerstrasse 1-5
-kietzgrabenbrücke 1
-gmbh-müggelheimer straße 1-125
-klosterstrasse 47
-bergweg 24-216
-biberpelzstrasse 51
-blossiner str   28
-bogenstrasse 23
-brigittenweg 13
-dudenstrasse 10
-immermannstrasse 10
-steinbrecherstrasse 23
-waldvogelweg 10
-bistrasse 283-12
-markise anlage 3
-waltharistrasse 26
-generalshof 5
-elbstrasse 47
-11-bahnhofstrasse 25-da
-klosterstrasse 47
-parisiustrasse  1
-klosterstrasse 47
-markomannenstrasse 10
-markomannenstrasse 10
-krausenstrasse 38-39
-markise anlage 3
-fundstellennachweis anlage 1-3
-lahnstrasse 3
-ritterstrasse 38-40
-henselweg 5
-klosterstrasse 47
-bahnhof  4-191
-bhfstrasse  48
-weskammstrasse 15
-klosterstrasse 47
-eichkampstrasse 52
-kinzer allee 16
-rothenburgstrasse  28
-brauweiler straße 14
-brauweiler straße 14
-rheinstrasse 45
-kölner str   30
-belziger straße 25
-kölner str   30
-klosterstrasse 47
-brauweiler straße 14
-klosterstrasse 47
-rothenburgstrasse  28
-belziger straße 25
-friedrichstrasse 186
-belziger straße 25
-saegenplatz 3
-bittenfelder str   19-1
-hohenzollerndamm 151
-friedrichstrasse 186
-kadiner straße 20
-belziger straße 25
-saegenplatz 3
-krausenstrasse 38-39
-waldvogelweg 10
-fraunhoferstrasse 10
-markgrafendamm 24
-mahlower str   20
-mahlower str   20
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-siehe anlage 1
-krausenstrasse 63
-faktor 3
-elbstrasse 164
-siehe anlage 1
-mahlower str   20
-martin-luther-str   1-1
-alstertor 21
-lg anlage 4
-6 anlage 7
-württembergische str   6
-qfactor 0
-qfactor 0
-bendigstrasse 9
-bendigstrasse 9
-bendigstrasse 9
-bendigstrasse  9
-klosterstrasse 47
-bohnsdofer str   25
-klosterstrasse 47
-klosterstrasse 47
-fasanenstrasse 77
-bormanstrasse 2-3
-oranienplatz 1
-krausenstrasse 38-39
-klosterstrasse 47
-paul-ehrlich-straße 17
-klosterstrasse 47
-klosterstrasse 47
-merowingerstrasse 20
-klosterstrasse 47
-karolinenstrasse 1-2
-klosterstrasse 47
-karolinenstrasse 1-2
-klosterstrasse 47
-oderstrasse 65
-assmannstrasse 44-46
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
-bölschstrasse 100
-klosterstrasse 47
-verwalter-bundesallee 199
-wernsdorferstr 27
-bundesallee 199
-fundstellennachweis anlage 1
-assmannstrasse 44-46
-assmannstrasse 44-46
-danziger str   60
-lindenallee 21
-zur brücke 154-13
-klosterstrasse 47
-lindenallee 21
-klosterstrasse 47
-klosterstrasse 47
-bölschstrasse  103
-grunowstrasse 70
-klosterstrasse 47
-klosterstrasse 47
-2015 anlage 4
-bölsche straße 103-bit
-bölschstrasse 103
-klosterstrasse 47
-klosterstrasse 47
-dudenstrasse 10
-zur straße 3
-zur straße 3
-zur straße 3
-keller hof 7
-klosterstrasse 47
-stephensonstrasse 20
-zur straße 3
-klosterstrasse 47
-klosterstrasse 47
-lassallestrasse  40-48
-klosterstrasse 47
-keller hof 7
-keller hof 7
-geneststrasse 5
-bekannt-bölschestrasse 105
-assmannstrasse 44-46
-warschauer str   85
-assmannstrasse 44-46
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
--bölschestrasse 126-böl
-assmannstrasse 55
--2-aßmannstrasse 44-46
-assmannstrasse 44
-wilhelm-von-siemens-straße 16-18
-klosterstrasse 47
-assmannstrasse 44-46
-assmannstrasse 55
-potsdamer str   60
-brehnaer straße 12
-klosterstrasse 47
-drontheimer str   37
-und anlage 2
-und anlage 2
-assmannstrasse 44-46
-hohenzollerndamm 27
-assmannstrasse 44-46
-assmannstrasse 44
-klosterstrasse 47
-klosterstrasse 47
-grünheider weg 18
-geneststrasse 5
-geneststrasse 5
-geneststrasse 5
-klosterstrasse 47
-klosterstrasse 47
-766-bölschestrasse  118
-klosterstrasse 47
-warschauer straße 41-42
-bismarckstrasse 94
-rubensstrasse 2
-rubensstrasse 2
-kantstrasse 150
-uhlandstrasse 20-25
-bismarckstrasse 94
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-gemäß anlage 2
-gemäß anlage 2
-bundesallee 28
-rubensstrasse 2
-lindenallee 18
-klosterstrasse 47
-klosterstrasse 47
--bebel-str   19
-karl-liebknecht-str   24
-dammsmühler str   67
-wilhelm-filchner-str   3
-mühlenstrasse 8
-helsdorfer str   19
-räcknitzer weg 3
-ludwig-richter-str   27
-clayallee 348
-schneeberger str   46
-clara-zetkin-str   1
--breitscheid-str   10
-krausenstrasse 38-39
--2-fürstenwalder damm 484
-klosterstrasse 47
-clayallee 348
-poetenweg 52
-hermsdorfer weg 2
-lindenweg 44
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38
-assmannstrasse 44-46
-waldowstrasse 10
-warschauer straße 41-42
-assmannstrasse 44-46
-warschauer straße 41-42
-assmannstrasse 44-46
-assmannstrasse 44-46
-assmannstrasse 44-46
-heinersdorfer str   39
-warschauer str   41-42
-klosterstrasse 47
-bölschstrasse 13
-klosterstrasse 47
-bölschstrasse 13
-klosterstrasse 47
-assmannstrasse 44-46
-assmannstrasse 44-46
-danziger strasse 52
-klosterstrasse 47
-klosterstrasse 47
-danziger str   52
-bölsche strasse 130
-hasenweg 11
-mädewalder weg 34
-danziger straße 52
-bölschenstrasse 130
-bölschenstrasse 130
-klosterstrasse 47
-klosterstrasse 47
-trabener str   71
-eitelsdorfer str   25
-gemäß anlage 2
-trabener straße 71
-lappiner str   46
-plutoweg 65
-weizenweg 7
-hultschiner damm 38
-bischofstaler str   10
-landjäger str   11
-mädewalder weg 34
-mädewalder weg 34
-mädewalder weg 34
-mädewalder weg 34
-klosterstrasse 47
-assmannstrasse 44-46
-klosterstrasse 47
-geneststrasse 5
-bernadottestrasse 13
-bernadottestrasse 13
-bernadottestrasse 13
-klosterstrasse 47
-lehrter straße 68
-lehrter straße 68
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-weiderichstrasse 21
-baugenehmigung anlage 2
-weichselstrasse 16
-kurfuerstendamm 92
-kurfürstendamm 92
-kurfürstendamm 92
-kurfuerstendamm 92
-klosterstrasse 47
-weichselstrasse 16
-weichselstrasse 16
-kurfürstendamm 92
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-kurfürstendamm 157
-assmannstrasse 44-46
-rinkartstrasse 13
-assmannstrasse 44-46
-leipziger platz 7
-geneststrasse 5
-gartenstrasse 10
-bölchestrasse 3
-assmannstrasse 44-46
-klosterstrasse 47
-siehe anlage 1
-klosterstrasse 47
-leipziger platz 7
-etzer str   21
-bqlschestrasse 21-22
-klosterstrasse 47
-chausseestrasse 101
-assmannstrasse 44-46
-chausseestrasse 101
-klosterstrasse 47
-gbr-auftritt-bölschestrasse 23
-dudenstrasse 10
-mahlsdorferstrasse 6
-potsdamer straße 60
-dudenstrasse 10
-dudenstrasse 10
-klatsch-bölschestrasse 25-zur
-klosterstrasse 47
-potsdamer straße 60
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-assmannstrasse 44-46
-hans-sachs-str   34
-hans-sachs-str   34
-krausenstrasse 38-39
-plattenweg 30
-grabbeallee 62
-grabbeallee 62
-grabbeallee 62
-grabbeallee 62
-leipziger platz 7
-georgenkirchstrasse 69
-inselstrasse 1
-inselstrasse 1
-georgenkirchstrasse 69
-leipziger platz 7
-inselstrasse 1
-inselstrasse 1
-inselstrasse 1
-klosterstrasse 47
-inselstrasse 1
-krausenstrasse 38-39
-klosterstrasse 47
-inselstrasse 1
-fundstellennachweis anlage 1
-klosterstrasse 47
-mehringdamm 33
-ingdamm 33
-mehringdamm 33
-französische straße 55
-ingdamm 33
-assmannstrasse 44-46
-karl-liebknecht-str   33
-mehringdamm 33
-karl-liebknecht-straße 33
-mehringdamm 33
-lilienthalstrasse 9
-klosterstrasse 47
-oranienplatz 5
-ud-scharnweberstrasse 40-40
-klosterstrasse 47
-mehringdamm 33
-mehringdamm 33
-torgauer straße 12-15
-mehringdamm 33
-mehringdamm 33
-karl-liebknecht-str   33
-klosterstrasse 47
-mehringdamm 33
-mehringdamm 33
-klosterstrasse 47
-mehringdamm 33
-klosterstrasse 47
-hofstrasse  83-85
-fundstellennachweis anlage 1
-klosterstrasse 47
-klosterstrasse 47
-ringstrasse 24
-klosterstrasse 47
-mehringdamm 33
-siehe anlage 1
-siehe anlage 1
-oranienplatz 5
-klosterstrasse 47
-klosterstrasse 47
-siehe anlage 1
-württembergische str   6
-württembergische str   6
-württembergische str   6
-klosterstrasse 47
-klosterstrasse 47
-karl-liebknecht-str   33
-leuschnerdamm 31
-mehringdamm 33
-mehringdamm 33
-klosterstrasse 47
-klosterstrasse 47
-württembergische str   6
-württembergische str   6
-sind anlage 1-4
-isenrietstrasse 9
-assmannstrasse 44-46
-assmannstrasse 44-46
-assmannstrasse 44-46
-torgauer straße 12-15
-hierzu anlage 1
-assmannstrasse 44-46
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-fasanenstrasse 35
-schneewittchenstrasse 3
-schneewittchenstrasse 3
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-schneewittchenstrasse 3
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
--2-aßmannstrasse 44-46
-tabbertstrasse 14-15
-schneewittchenstrasse 3
-schneewittchenstrasse 3
-krausenstrasse 38-39
-krausenstrasse 38-39
-schneewittchenstrasse 3
-bölschstrasse 5
-friedrichstrasse 235
-henkestrasse 10
-bölschstrasse 5
-klosterstrasse 47
-friedrichstrasse 235
-lindenweg 44
-klosterstrasse 47
-klosterstrasse 47
-böschestrasse 51
-klosterstrasse 47
-klosterstrasse 47
-potsdamer straße 60
-klosterstrasse 47
-klosterstrasse 47
-potsdamer straße 60
-09095690-bölschestrasse 54
-lindenallee 6
-assmannstrasse 55
-anklamer str  2
-krugallee 4
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-gartenstrasse 10
-küchenmeisterallee 32
-bölsche straße 59
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-mädewalder weg 43
-mädewalder weg 43
-artenlaube-ostritzer str   3
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-friedrich-engels-str   46
-gemäß anlage 2
-friesenstrasse 15
-klosterstrasse 47
-peter-anders-str  12
-purkshof 2
-anders str   12
-friesenstrasse 15
-friesenstrasse 15
-friesenstrasse 15
-klosterstrasse 47
-assmannstrasse 44-46
-assmannstrasse 44-46
-assmannstrasse 44-46
-assmannstrasse 44-46
-karlsruher straße 1
-kurfürstendamm 157-158
-assmannstrasse 44-46
-assmannstrasse 44-46
-assmannstrasse 44-46
--alpenstrasse 12
-gemäß anlage 2
-purkshof 2
-purkshof 2
-purkshof 2
-purkshof 2
-purkshof 2
-klosterstrasse 47
-krugallee 4
-königswinterstrasse 27
-klosterstrasse 47
-darmstädter str   63
-krugallee 4
-königswinterstrasse 27-103
-klosterstrasse 47
-siehe anlage 1
-krugallee 4
-klosterstrasse 47
-württembergische str   6
-gemäß anlage 2
-gemäß anlage 2
-krausenstrasse 38-39
--2-fürstenwalder damm 484
--2-fürstenwalder damm 484
-65-bölschestrasse 65
-65-bölschestrasse 65
-gerstenweg 53-126
-gerstenweg 53
-klosterstrasse 47
-lehderstrasse 16-19
-klosterstrasse 47
-pankstrasse 85
-klosterstrasse 47
-lehderstrasse 16-19
-bötzow-west-werkstrasse 10
-lehderstrasse 16-19
-klosterstrasse 47
-oppelner weg 2
-sybelstrasse 37
-klosterstrasse 47
-assmannstrasse 44-46
-panierstrasse 12
-panierstrasse 12
-klosterstrasse 47
-union-bölschestrasse 69
-7-rudower chaussee 4
-assmannstrasse 44-46
-assmannstrasse 44-46
--bölschestrasse 69-dir
-und anlage 2
-lindenallee 21
-lindower str   21-22
-lindower str   21-22
-lindower str   21-22
-lindower str   21-22
-lindower str   21-22
-lindower str   21-22
-lindower str   21-22
-klosterstrasse 47
-lindower straße 22
-lindower straße 22
-lindower straße 21
-seehofstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-eberswalder str   2
-bölschstrasse 69
-berliner straße 83
-klosterstrasse 47
-rheinstrasse 45
-klosterstrasse 47
-klosterstrasse 47
-seehofstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-bölchestrasse 72
-bölchestrasse 72
-bölchestrasse 72
-bäcker str   4
-hertendorfer str   3
-blankenfelder str   23
-ottomargeschkestr 22
-blschestrasse  74
-klosterstrasse 47
-klosterstrasse 47
-hans-schmidt-str   18
-siehe anlage 4
-meyer-spreckels-straße 13
-hans-schmidt-str   18
-siehe anlage 4
--meyer-spreckels-str   13
-klosterstrasse 47
-torstrasse 39
-siehe anlage 1
-dahmeufer 20
-hierzu anlage 1
-dahmeufer 20
-klosterstrasse 47
-fensteranlage 14
-budapester straße 31
-ekhofstrasse 14
-fundstellennachweis-anlage 1
-fensteranlage 19
-zeichnungen anlage 1
-bzstrasse  14
-09095729-bölschestrasse 3
-siehe anlage 1
-siehe anlage 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-edrichshagen-bölschestrasse 87-88
-edrichshagen-bölschestrasse 87-88
-edrichshagen-bölschestrasse 87-88
-warschauer straße 41-42
-ansicht straße 140822
-forstenwalder damm 47
-hans-schmidt-str   18
-klosterstrasse 47
-warschauer straße 41-42
-er damm 473
-hans-schmidt-str   18
-stellplatz 10
-klosterstrasse 47
-friedrichstrasse 85
-treskowallee 209
--damm 32
-klosterstrasse 59
-friedrichstrasse 85
-klosterstrasse 47
-klosterstrasse 47
--holzfenster-bölschestrasse 78
-ann-dietrich-möller-str   86
-lützenstrasse 10
-krausenstrasse 38-39
-lützenstrasse 10
-roßstrasse 20
-klosterstrasse 47
-roßstrasse 20
-kurfürstendamm 52
-kurfürstendamm 52
-kurfürstendamm 52
-kurfürstendamm 52
-kurfürstendamm 52
-kurfürstendamm 52
-lützenstrasse 10
-kurfürstendamm 52
-hitekturbüro-bölschestrasse 80
-klosterstrasse 47
-assmannstrasse 44-46
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-assmannstrasse 44-46
-klosterstrasse 47
-berlin-bölschestrasse 8
-oderstrasse 65
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-ernst-thälmann-straße 11
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-karl-pokern-straße 47
-lindenallee 18-flu
-assmannstrasse 44-46
-klosterstrasse 47
-rosenfelder str   15
-dudenstrasse 10
-assmannstrasse 44-46
-max-eyth-straße 38
-klosterstrasse 47
-dingolfinger str   1-15
-klosterstrasse 47
-bölsche str   86
-vorbild anlage 1
-bölsche str   86
-bölsche str   86
-rheinstrasse 45
-klosterstrasse 47
-rheinstrasse 45
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-frankfurter str   7
-frankfurter str   7
-klosterstrasse 47
-eingereicht-siehe anlage 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-falkenberg 32
-klosterstrasse 47
-greifswalder str   203
-friedrich-engels-str   46
-klosterstrasse 47
-schlossstrasse 48
-assmannstrasse 44-46
-schönecker weg 1
-schönecker weg 1
-schönecker weg 1
-rosenfelder str   15
-käthe-kollwitz-str   5
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-rosenfelder str   15
-balkonanlage 03
-klosterstrasse 47
-klosterstrasse 47
-mühlenstrasse 2
-bundesallee 220
-griebenowstrasse 23
-klosterstrasse 47
-bundesallee 220
-bundesallee 220
-assmannstrasse 44-46
-assmannstrasse 44-46
-riemenschneiderweg 44
-geneststrasse 5
-assmannstrasse 44-46
-geneststrasse 5
-frankfurter str   7
-assmannstrasse 44-46
-klosterstrasse 47
-klosterstrasse 47
-inselstrasse 1
-inselstrasse 1
-lehderstrasse 54
-klosterstrasse 47
-inselstrasse 1
-inselstrasse 1
-inselstrasse 1
-dem ufer 196-14
-klosterstrasse 47
-krugallee 4
-fahrleitungsanlage 310
-holzmarktstrasse 15
-fasanenstrasse 85
-holzmarktstrasse 15-17
-krugallee 4
-siegfriedstrasse 30-45
-der anlage 2
-hohenzollerndamm 150
-warschauer straße 41-42
-fahrleitungsanlage 310
-krausenstrasse 38
-riemenschneiderweg 14
-weitlingstrasse 22
-krugallee 4
-boxhagener straße 16
-siehe anlage 1
-holzmarktstrasse 15
-fahrleitungsanlage 310
-klosterstrasse 47
-09020211-semmelweisstrasse 10
-marktplatz 35
-klosterstrasse 47
-bühringstrasse 10
-fasanenstrasse 85
-brückenstrasse 6
-9-9 anlage 2
-schmaler weg 1
-schmaler weg 2
-schmaler weg 2
-dudenstrasse 10
-lindhorstweg 82
-lindhorstweg 82
-lindhorstweg 82
-wendenschlosstrasse 298
-kottbusser damm 79
-klosterstrasse 47
-deulstrasse 6
-2012 anlage 2-1
-babelsberger str   51
-klosterstrasse 47
-landstraße-71-02
-markgrafendamm 24
-dahlwitzerstr 109-13
-dahlwitzerstr 226-12
-klosterstrasse 47
-klosterstrasse 47
-dahlwitzerstr 388-13
-dahlwitzerstr 686-13
-dahlwitzerstr 707
-dahlwitzerstr 740-13
-bruno-baum-straße 36
-klosterstrasse 47
-klosterstrasse 47
-owi-dorstrasse  13
-stendaler straße 73
-owi-dorfstrasse 13
-owi-dorfstrasse  13
-wiesenstrasse 61
-wiesenstrasse 61
-wilmsstrasse 14
-auf platz 2
-zwieseler str   164
-kruggasse 3
-kruggasse 3
-zwieseler str   164
-hubertusstrasse 12-22
-hubertusstrasse 12-22
-müllplatz 60
-hubertusstrasse 12-22
-hubertusstrasse 12-22
-hubertusstrasse 12-22
-kruggasse 3
-kästner straße 29
-kästner straße 29
-dofrstrasse 15
-krausenstrasse 38-39
-erich-kästner-straße 29
-erich-kästner-straße 29
-erich-kästner-straße 29
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-stendaler straße 73
-siehe anlage 1
-wangenheimstrasse 6
-klosterstrasse 47
-schorlemerallee 21
-eichbergstrasse 16-18
-dudenstrasse 10
-klosterstrasse 47
-klosterstrasse 47
-gräztwalder straße 6
-krausenstrasse 38-39
-dorstrasse 4
-klosterstrasse 47
-krausenstrasse 38-39
-dorstrasse 4
-krausenstrasse 38
-dorstrasse 4
-krausenstrasse 38
-mühlenstrasse 15
-dorstrasse 5
-krausenstrasse 38
-klosterstrasse 47
-mühlenstrasse 15
-pasewaldtstrasse 15
-dofstrasse  6
-pasewaldtstrasse 15
-siehe anlage 1
-dudenstrasse 10
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-schorlemerallee 21
-krausenstrasse 38-39
-württembergische straße 6
-steg anlage 1
-rosenthaler str   40-41
-rosenthaler str   40-41
-rosenthaler str   40-41
-rosenthaler str   40-41
-rosenthaler str   40-41
-schorlemmer allee 21
-eichbergstrasse 18
-boltzmannstr   12
-georgenkirchstrasse 69
-eichbergstrasse 16-18
-boltzmannstr   12
-eichbergstrasse 18
-eichbergstrasse 16-18
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-treskowallee 124
-boltzmannstrasse 12
-großbeerenstrasse 169-171
-boltzmannstr   12
-eichbergstrasse 16-18
-friedenstrasse 82
-eichbergstrasse 18
-eichbergstrasse 18
-eichbergstrasse 16-18
-boltzmannstrasse 12
-petershagener straße 31
-klosterstrasse 47
-eichbergstrasse 16-18
-eichbergstrasse 16-18
-klosterstrasse 47
-klosterstrasse 47
-assmannstrasse 63
-doritheastrasse 30
-dreiser str   2
-dreiser str   2
-dreiser str   2
-dreiser str   2
-dreiser str   2
-putzflächen hof 1
-fuggerstrasse 26
-agnes-straub-weg 20
-eibseestrasse  19
-klosterstrasse 47
-eibseestrasse 17
-eibseestrasse 17-vor
-warschauer straße 41-42
-georg-fischer-str   40
-ud-anlage 1
-kriegsstrasse 25
-widerspruch anlage 2
-haydnstrasse 12
-haydnstrasse 12
-edsionstrasse 30-33
-haydnstrasse 12
-bistrasse 462-13
-klosterstrasse 47
-lindenallee 34
-oberschöneweide 1898
-oberschöneweide 1898
-2 hof 1
-schlesische straße 20
-leo-baeck-straße 33
-leo-baeck-straße 33
-erdisonstrasse 63
-klosterstrasse 47
-dessauer straße 3
-hofflügel hof 1
-hofflügel hof 1
-dessauer straße 3
-oberschöneweide 1898
-dessauer str   3-5
-dessauer str   3-5
-klosterstrasse 47
-klosterstrasse 47
-eg hof 1
-klosterstrasse 47
-baderseestrasse 8
-baderseestrasse 8
-eibseestrasse 19
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-leo-baeck-str   33
-nelkenstrasse 71
-nelkenstrasse 71
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-hauptstrasse 28
-greifswalder str   41
-klosterstrasse 47
-krugallee 4
-rinkartstrasse 13
-dahlwitzer straße 1921
-qfactor 0
-uhlenhorststrasse 29-36
-uhlenhorststrasse 29-36
-hei-dekrugstrasse 45-55
-krugallee 4
-krugallee 4
-krugallee 4
-krugallee 4
-krugallee 4
-krugallee 4
-krugallee 4
-krugallee 4
-krugallee 4
-oswald-boelcke-straße 3
-ernst-grube straße 46-50
-faber-du-faur-straße 1
-klosterstrasse 47
-grube strasse 60
-grube strasse 60
-grube strasse 60
-ernst-grube straße 60
-grube strasse 60
-max-beer-strasse 17
-grube strasse 60
-max-beer-strasse 17
-max-beer-strasse 17
-innenhof 1
-teltower damm 283
-ernst-grube str  16-20
-knesebeckstrasse 30
-fabrikstrasse 8
-klosterstrasse 47
-joseph-vollmer-straße 19
-dahlienstrasse 9
-dahlienstrasse 9
-teltower damm 283
-klosterstrasse 47
-teltower damm 283
-teltower damm 283
-ernst-grube str   38
-ernstgrubestr 26
-ernstgrubestr 26
-klosterstrasse 47
-klosterstrasse 47
-teltower damm 283
-faber-du-faur-str   1
-annenstrasse 13
-klosterstrasse 47
-teltower damm 283
-klosterstrasse 47
-essenstrasse 4
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-staudenweg 1
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-sebaldweg 11
-krausenstrasse 38-39
-krausenstrasse 38-39
-joachimstrasse 8
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-klosterstrasse 47
-rauener straße 47
-der anlage 3
-krausenstrasse 38
-frau-holle-straße 24
-frau-holle-straße 8
-frau-holle-straße 24
-frau-holle-straße 8
-jenaer straße 2
-brückenstrasse 2
-zwischen tor 3
-zwischen tor 3
-zwischen tor 3
-der anlage 3
-burgweg 7
-hohenzollerndamm 120
-fürstenwalderallee 326
-rheinstrasse 45
-sallendestr 2-8
-grenzbergweg 38
-enkmalpflege-krausenstrasse 38
-klosterstrasse 47
-pufendorfstrasse 11
-rinkartstrasse 11-13
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-landstrasse 22
-berlin straße 10
-dudenstrasse 10
-berlin-fontanestrasse 8-12
-stadtgasse 27
-klosterstrasse 47
-klosterstrasse 47
-roederstrasse 8-14
-klosterstrasse 47
-krugallee 4-124
-steganlage 2010
--023-13-müggelheimer str   1
-askanischer platz 3
-askanischer platz 3
-dudenstrasse 10
-klosterstrasse 47
-einfahrtstor  100
-brößnitzer straße 15
-klosterstrasse 47
-klosterstrasse 47
-siemens-straße 16-18
-tübinger str   5
-bayreuther str   35
-klosterstrasse 47
-eckermannstrasse 79
-schlossstrasse 12-auf
-donizettistrasse 9
-klosterstrasse 47
-klosterstrasse 47
-holzmarktstrasse 15-17
-klosterstrasse 47
-klosterstrasse 47
-lorenzweg 5
-lorenzweg 5
-hähnelstrasse  15
-klosterstrasse 47
-hähnelstrasse  15
-krausenstrasse 38-39
-hasenweg 11
-klosterstrasse 47
-adolfstrasse 18
-klosterstrasse 47
-lietzenburger straße 44
-klosterstrasse 47
-rinkartstrasse  13
-rinkartstrasse 13
-krugallee 4
-rinkartstrasse  13
-klosterstrasse 47
-klosterstrasse 47
-krugallee 4
-schurf anlage 021429
-oberfeldstrasse 1
-rinkartstrasse 13
-oberfeldstrasse 1
-chodowieckistrasse  12
-rinkartstrasse 13
-chodowieckistrasse 12-1
-rinkartstrasse 13
-oberfeldstrasse 1
-rinkartstrasse 13
-oberfeldstrasse 1
-rinkartstrasse 13
-poststrasse 48-50
-bayerische straße 30
-poststrasse 48-50
-fasanenstrasse 39
-helenauer weg 10
-wasunger weg 29
-bayerische straße 30
-poststrasse 48-50
-oberfeldstrasse 1
-klosterstrasse 47
-klosterstrasse 47
-hauptstrasse 9
-klosterstrasse 47
-finkeldeweg 92
-finkeldeweg 92
-spitzerstrasse 1
-finkeldeweg 92
-spitzer straße 1
-klosterstrasse 47
-klosterstrasse 47
-finkeldeweg 92
-finkeldeweg 92
-klosterstrasse 47
-finkeldeweg 92
-finkeldeweg 92
-finkeldeweg 92
-finkeldeweg 92
-finkeldeweg 92
-finkeldeweg 92
-finkeldeweg 92
-finkeldeweg 92
-uhlandstrasse 7-8
-jahlwitzer strasse 1
-rahnsdorferstrasse 29
-dorf-strasse 52
-rahnsdorferstrasse 29
-nawrocki-straße 32
-sprosserweg 3
-friedrichshagenerstrasse 9
-friedrichshagenerstrasse 9
-friedriechshagener str   9
-friedrichshagenerstrasse 9
-friedrichshagenerstrasse 9
-friedrichshagenerstrasse 9
-lindenallee 39
-toni-lessler str   23
-helene-lange-str   18
-helene-lange-straße 18
-zwischen tor 3
-pariser straße 44
-klosterstrasse 47
-feurigstrasse 59
-friedrichhagener str  9
-babelsberger straße 40
-in-friedrichshagener straße 9
-toni-lessler-straße 23
-toni-lessler-straße 23
-leuschnerdamm 31
-prenzlauer promenade 175
-anliegerweg 1
-babelsberger straße 40-41
-babelsberger straße 40
-margaretenstrasse 10
-kopfweide 13
-margaretenstrasse 10
-margaretenstrasse 10
-margaretenstrasse 10
-klosterstrasse 47
-margaretenstrasse 10
-klosterstrasse 47
-babelsberger straße 40
-babelsberger straße 40
-babelsberger straße 40
-friedrichshagenerstrasse 9
-friedrichshagenerstrasse 9
-krausenstrasse 38-39
-krausenstrasse 38-39
-lindenallee 39
-lindenallee 39
-klosterstrasse 47
-prenzlauer promenade 175
-klosterstrasse 47
-klosterstrasse 47
-heidestrasse 3
-pariser straße 44
-pariser straße 44
-klosterstrasse 47
-klosterstrasse 47
-freianlage 23
-friedrichshagner str   9
-prenzlauer promenade 175
-prenzlauer promenade 175
-hofstrasse  22
-helene-lange-str   18
-südringstrasse 6
-südringstrasse 6
-helene-lange-straße 18
-helene-lange-straße 18
-rettungsweg 2
-rettungsweg 2
-rettungsweg 2
-rettungsweg 2
-rettungsweg 2
-rettungsweg 2
-rettungsweg 2
-helene-lange-straße 18
-helene-lange-straße 18
-friedrichshagner str   9
-helene-lange-straße 18
-südringstrasse 6
-helene-lange-straße 18
-helene-lange-straße 18
-helene-lange-straße 18
-feurigstr   59
-8 anlage 25
-heidestrasse 3
-feurigstrasse 59
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-ilienbetreuung-wundtstrasse 48-50
-toni-lessler-straße 23
-19 anlage 2
-19 anlage 2
-taunusanlage 11
-feurigstr   59
-taunusanlage 11
-taunusanlage 11
-friedrichhagener str   9
-prenzlauer promenade 175
-toni-lessler-straße 23
-prenzlauer promenade 175
-prenzlauer promenade 175
-prenzlauer promenade 175
-feurigstr   59
-heidestrasse 3
-feurigstrasse 59
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-toni-lessler-straße 23
-feurigstr   59
-uhlandstrasse 165
-heidestrasse 3
-feurigstrasse 59
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-13-friedrichshagener str  9
-wundtstrasse 48-50
-ilienbetreuung-wundtstrasse 48-50
-toni-lessler-straße 23
-friedrichshagenerstrasse 9
-heidestrasse 3
-heidestrasse 3
-heidestrasse 3
-prenzlauer promenade 175
-prenzlauer promenade 175
-prenzlauer promenade 175
-prenzlauer promenade 175
-toni-lessler-straße 23
-toni-lessler-straße 23
-toni-lessler-straße 23
-toni-lessler-straße 23
-toni-lessler-straße 23
-toni-lessler-straße 23
-taunusanlage 11
-verwaltungsgerichtshof 2
-friedrichshagenerstrasse 9
-taunusanlage 11
-krausenstrasse 38
-krausenstrasse 38-39
-taunusanlage 11
-taunusanlage 11
-beinstrasse 17
-friedrichhagener str   10-12
-friedrichshagenerstrasse 10-12
-fhgstr   10-12
-friedrichshagenerstrasse 10-12
-friedrichshagenerstrasse 10-12
-hagenerstrasse  10
-fhgstr 10-12
-fhgstr 10-12
-friedrichshagenerstrasse 10-12
-friedrichshagenerstrasse 10-12
-friedrichshagenerstrasse 10-12
-tadtdez-wendenschloßstrasse 154-174
-prenzlauer promenade 175
-zwischen tor 3
-karl-liebknecht-straße 33
-karl-liebknecht-straße 33
-karl-liebknecht-straße 33
-karl-liebknecht-straße 33
-friedrichshagenerstr 10-12
-prenzlauer promenade 175
-leuschnerdamm 31
-landsberger allee 366
-landsberger allee 366
-landsberger allee 366
-landsberger allee 366
-friedrichshagenerstr 10-12
-friedrhg straße 10
-warschauer str   41-42
-klosterstrasse 47
-landsberger allee 366
-zwischen tor 3
-beinstrasse 17
-friedrichshagenerstrasse 11-12
-karl-liebknecht-straße 31
-friedrichshagenerstrasse 11-12
-karl-liebknecht-straße 33
-landsberger allee 366
-prenzlauer promenade 175
-friedrichshagenerstr  10-tlg
-friedrichshagenerstr 11-12
-friedrichgshagener str   11-12
-balzerstrasse 43
-balzerstrasse 43
-planstrasse 3
-bundesallee 22
-53 weg 340-15
-chausseestrasse 22
-klosterstrasse 47
-friedrichshagenerstrasse 40
-friedrichshagenerstrasse 42
-karl-schrader-straße 7-8
-friedrichshagenerstrasse 40
-klosterstrasse 47
-rinkartstrasse 13
-sennockstrasse 26
-parkweg 2
-krugallee 4
-krugallee 4
-rinkartstrasse 13
-rinkartstrasse 13
-krugallee 4
-sennockstrasse 26
-krausenstrasse 38
-klosterstrasse 47
-krugallee 4
-klosterstrasse 47
-parkstrasse  1
-krugallee 4
-krugallee 4
-krugallee 4
-klosterstrasse 47
-silberweide 21
-klosterstrasse 47
-silberweide 21
-krugallee 4
-freidrichshagener str   9
-frierichshagener str   9-abb
-freidrichshagener str   9
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-husumer straße 10
-klosterstrasse 47
-klosterstrasse 47
-husumer straße 10
-ter-außenseitig-fuststrasse 32
-klosterstrasse 47
-husumer straße 10
-husumer straße 10
-husumer straße 10
--edisonstrasse  36
-klosterstrasse 47
-verwalter-ekensunder weg 8
-schmöckwitzer damm 10-11
-wevelinghoverstrasse 78
-klosterstrasse 47
-nsdorf-fürstenwalder allee 93
-anzulegende straße 9
-krugallee 4
-krugallee 4
-nsdorf-fürstenwalder allee 93
-nsdorf-fürstenwalder allee 93
-fürstenwalder str   93
-brückenstrasse 2
-rinkartstrasse 13
-klosterstrasse 47
-fürstenwalderallee 26
-brandenburgische straße 27
-fürstenwalderallee 26
-beiersdorfer weg 8
-fürstenwalderdamm 407
-fürstenwalderdamm 407
-wohnanlage 1925
-füstenwalder damm 444-446
-fürstenwalderdamm 444-446
-lindenallee 9
-turmstrasse 70
-fürstenwalderdamm 474
-schmaler weg 3
-klosterstrasse 47
-fürstenwalderdamm 474
-berlin-fürstenwalder damm 474
-berlin-fürstenwalder damm 474
-geneststrasse 5
-klosterstrasse 47
-krausenstrasse 38-39
-hohenzollerndamm 150
-fürstenwalderdamm 484
-klosterstrasse 47
-klosterstrasse 47
-frankfurter tor 1
-lipezker straße 47
-birnbaumer str   3
-schlesische straße 12
-birnbaumer str   3
-brückenstrasse 6
-rinkartstrasse 13
-birnbaumer str   3
-krugallee 4
-petershagener weg 31
-fürstenwalderdamm 838
-sprosserweg 3
-ekkehardstrasse 1
-frankfurter tor 1
-württembergische str   6
-brückenstrasse 2
-frankfurter tor 1
-sommerstrasse 42
-frankfurter tor 1
-frankfurter tor 10243
-fürstenwalderdamm 838
-fürstenwalderdamm 838
-die anlage 177
-fürstenwalderdamm 838
-fürstenwalderdamm 838
-frankfurter tor 1
-steinstrasse 26
-petershagener weg 31
-der anlage 1929
-klosterstrasse 47
-rinkartstrasse 13
-der anlage 1
-petershagener weg 31
-fürstenwalderdamm 838
-frankfurter tor 1
-fürstenwalderdamm 838
-pdf anlage 1
-der anlage 1929
-13-württembergische str   6
-der anlage 1
-petershagener weg 31
-klosterstrasse 47
-klosterstrasse 47
-petershagener weg 31
-der anlage 1
-der anlage 1
-der anlage 1
-der anlage 1
-pdf anlage 1
-der anlage 1
-krugallee 4
-der anlage 3
-der anlage 1
-uferweg 1
-flatowallee 22
-kantstrasse 106
-petershagener weg 31
-beelitzhof 1987
-zur straße 538
-klosterstrasse 47
-warschauer straße 41-42
-thielplatz 1930
-thielplatz 1930
-pfuelstrasse 5
-saarbrücker straße 24
-sophie-charlotten-straße 113
-steinstrasse 26
-röblingstrasse 27
-investor 6
-rießerseestrasse 10
-rießerseestrasse 10
-schlesische strasse 12
-schlesische strasse 12
-müggelsee anlage 2
-schlesische strasse 12
-rinkartstrasse 13
-marienstrasse 19-20
-petershagener weg 31
-marienstrasse 19-20
-briesestrasse 28
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-hobrechtstrasse 64
-frankfurter allee 130
-caroline-michaelis-straße 5-11
-briesestrasse 28
-mieltschiner str   28
-klosterstrasse 47
-franz-mehring-platz 1
-klosterstrasse 47
-dudenstrasse 10
-gartenstrasse 27
-gartenstrasse 27
-gosener damm 1
-brückenstrasse 6
-neuendorfstrasse 16
-dudenstrasse 10
-grünauerstrasse 1
-gutenbergstrasse 14
-gartenstrasse  23
-gartenstrasse 23
-gosener damm 1
-gosener damm 1
-slabystrasse 17
-slabystrasse 17
-krausenstrasse 38
-wohnanlage 1929
-joachimstrasse 8
-klosterstrasse 47
-potsdamer straße 60
-restaurator 2
-friedhof 726-12
-klosterstrasse 47
-residenzstrasse 2
-klosterstrasse 47
-altbuchhorster str   43
-albertinenstrasse 20-23
-albertinenstrasse 20-23
-albertinenstrasse 20-23
-grenzberge weg 38
-grenzbergweg 38
-roederstrasse 1906
-roederstrasse 1906
-baseler straße 165
-klosterstrasse 47
-griechischen allee 9
-rberater-griechische allee 14
-boxhagener str   76-78
-klosterstrasse 47
-theresienstrasse 81
-hans-schmidt-str   18
-hans-schmidt-str   18
-hans-schmidt-str   18
-grichische allee 22
-griechischeallee 22
-rüttenschneider str   54
-griechischeallee 22
-sundgauer str   105
-tempelhofer damm 45
-grünauerstrasse 57
-klosterstrasse 44
-klosterstrasse 44
-dudenstrasse 10
-liebenwalder str   39
-krausenstrasse 38-39
-arabellastrasse 15
-klosterstrasse 47
-markgrafenstrasse 22
-grünnnauer str   210-216
-erbeten-grünstrasse 11
-theodor-althoff-str   7
-theodor-althoff-straße 7
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-dudenstrasse 10
-dudenstrasse 10
-dudenstrasse 10
-dudenstrasse 10
-dudenstrasse 10
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-herbert-baum-str   4-130
-treskowallee 26
-klosterstrasse 47
-josefnawrockistr 10
-brauerstrasse 7
-brauerstrasse 7
-arag platz 1
-blossiner str   40
-lindenallee 53
-rhienstrasse 14
-bremer str   43
-warmensteinacher str   21
-klosterstrasse 47
-klosterstrasse 47
-warmensteinacher str   21
-klosterstrasse 47
-gründstrasse 4
-klosterstrasse 47
-heilbronner str   19
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-berliner allee 51-53
-berliner allee 51-53
-hechtstrasse 31
-krausenstrasse 38
-heidelberger straße 1
-warschauer straße 41-42
-friedrichstrasse 79-80
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-cardinalplatz 1
-marienburger straße 8
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-werlseestrasse 1
-weberstrasse 21
-olzstrasse 1
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-grazer platz 16
-grazer platz 16
--2-lindenhof 1-12
-berlin-heidekrugstrasse 60
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-waldfriedhof 447-13
-olzstrasse 1
-olzstrasse 1
-klosterstrasse 47
-werlseestrasse 1
-klosterstrasse 47
-grunowstrasse 3
-olzstrasse 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-marienburger straße 8
-marienburger straße 8
--schappachstrasse 16-lau
-weberstrasse 21
-krausenstrasse 38-39
-brüderstrasse 13
-krausenstrasse 38-39
-krausenstrasse 38-39
-heidekurgstrasse 33
-heidekugstrasse 34
-krausenstrasse 38-39
-architekten-choriner str   3
-klosterstrasse 47
-sulzbacher straße 159
-lausitzer str   23
-bundesplatz 5
-rohrwallallee 5
-richardstrasse 112
-breite str   4
-frankfurter allee 73
-rohrwallallee 5
-rohrwallallee 5
-rohrwallallee 5
-helmholztstrasse 5
-ahornweg 10
-neuer weg 1
-hoher weg 5
-krausenstrasse 38
-krausenstrasse 38
-ahornweg 5
-imkerweg 1
--strasse  26-28
-nawrocki straße 32
-hutz-josef-nawrocki-straße 9
-josef-nawrocky straße 34
-josef-nawrocky straße 34
-josef-nawrocky straße 34
-josef-nawrocky straße 34
-emma-ihrer-straße 39
-nawrocki straße 16
-josef-nawrockistrasse 34-36
-steinweg 28
-rinkartstrasse 13
-treskowallee 209
-pündterplatz 6
-klosterstrasse 47
--str  9
-nawrocki straße 32
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38
-klosterstrasse 47
-schröderstrasse 9
-klosterstrasse 47
-schröderstrasse 9
-schröderstrasse 9
-alexandrinenstrasse 2-3
-klosterstrasse 47
-klosterstrasse 47
-eingangsbereich anlage 2
-eingangsbereich anlage 2
-weitzgründer str   49
-weitzgründer str   49
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-friedhof 423-13
-rinkartstrasse  13
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-klosterstrasse 47
-krausenstrasse 38-39
-krausenstrasse 38-39
-berlin-janitzkystrasse 73
-janitzkistrasse 38
-krausenstrasse 38-39
-krausenstrasse 38-39
-jantitzkystrasse 48-50
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-dahmestrasse 33
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-langenhansstrasse 24
-klosterstrasse 47
-klosterstrasse 47
-konkordiastrasse 13
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-hausburgstrasse 17
-uferpromenade 1
-jüdenstrasse 1
-eichborndamm 167-175
-krugallee 4
-parkweg 2
-klosterstrasse 47
-klosterstrasse 47
-eichborndamm 167-175
-werner-voß-damm 54
-f-damm 54
-hausburgstrasse 17
-krausenstrasse 38
-klosterstrasse 47
-sprosserweg 3
-prenzlauer allee 175
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-klosterstrasse 47
-württembergische str   6
-dudenstrasse 26
-dudenstrasse 26
-dudenstrasse 26
-oderstrasse 188
-kantstrasse 5
-prenzlauer allee 175
-202-brückenstrasse 6
-rinkartstrasse 13
-prenzlauer allee 175
-prenzlauer allee 175
-wilhelmstrasse 115
-falkenberg 19-14
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-scharnwberestrasse 21
-heerstrasse 16
-sprosserweg 3
-württembergische str   6
-prenzlauer allee 175
-prenzlauer allee 175
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-werner-voß-damm 54
-in anlage 6
-krugallee 4
-krugallee 4
-krugallee 4
-prenzlauer allee 175
-indicator 9
-prenzlauer allee 175
-indicator 9
-krugallee 4
-krugallee 4
-krugallee 4
-prenzlauer allee 175
-prenzlauer allee 175
-prenzlauer allee 175
-prenzlauer allee 175
-scharnweber str   105
-brückenstrasse 6
-202-brückenstrasse 6
-202-brückenstrasse 6
+stresemannstrasse 78
+warschauerstrasse 41-42
 kurfürstendamm 61
-württembergische straße 6
-württembergische straße 6
-hans-schmidt-str   18
-württembergische straße 6
-württembergische straße 6
-württembergische straße 6
-württembergische straße 6
-württembergische straße 6
-jonasstrasse 4
-eichborndamm 167-175
-greifswalder straße 80
-hans-schmidt-str   18
-württembergische straße 6
-dudenstrasse 26
-württembergische straße 6
-dudenstrasse 26
-jüdenstrasse 1
-hans-schmidt-str   18
-württembergische straße 6
-württembergische straße 6
-hans-schmidt-str   18
-joachim-friedrich-straße 34
-joachim-friedrich-straße 34
-joachim-friedrich-straße 34
-joachim-friedrich-straße 34
-württembergische straße 6
-württembergische straße 6
-württembergische straße 6
-klosterstrasse 47
-gmbh-birkenallee 2-4
-württembergische straße 6
-jonasstrasse 4
+krausenstrasse 38
+lövenicher weg 36
+mariendorfer damm 161
+mariendorfer damm 161
+mariendorfer damm 161
+adlegestell 133-149
+stresemannstrasse 78
+radicke str   67-75
+warschauer straße 41-42
+adlerstrasse 16
+adlerstrasse 16
+warschauer straße 41-42
+agnes-hacker-str   24
+warschauer straße 41-42
+akeleiweg 11
+-str  11
+-str   11
+isartorplatz 1
+warschauer straße 41-42
+warschauer straße 41-42
+altheider str  28-219
+altheider straße 1
+altheider str   11
+warschauerstrasse 41-42
+falkenberg 117
+falkenberg 110
+falkenberg 117
+warschauer str   41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer str   41-42
+kiesberg 72
+kiesberg 72
+warschauer str   41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
 krugallee 4
-württembergische straße 6
-dudenstrasse 26
-eichborndamm 167-175
-württembergische straße 6
-prenzlauer allee 175
-werlseestrasse 37
-brückenstrasse 6
-krugallee 4
-krugallee 4
-mueggelpark ufer 4
-württembergische str   6
-mueggelpark ufer 4
-theaterstrasse 16
-prenzlauer allee 175
-kantstrasse 5
-kantstrasse 5
-prenzlauer allee 175
-prenzlauer allee 175
-uferpromenade 5
-der anlage 5
-prenzlauer allee 175
-theaterstrasse 16
-spreetunnel ufer 201-14
-walter-klausch-straße 17
-walter-klausch-straße 17
-spreetunnel ufer 209-12
-theaterstrasse 16
-württembergische str   6
-der anlage 5
-der anlage 5
-prenzlauer allee 175
-kurfürstendamm 65
-kurfürstendamm 65
-kurfürstendamm 65
-kurfürstendamm 65
-klosterstrasse 47
--str  11-599
--str  11-599
--str  11-599
-ringbahnstrasse 101-107
-josef-nawrockistr 11
-ringbahnstrasse 101-107
-schmargendorfer str   5
-klosterstrasse 47
-klosterstrasse 47
-rubensstrasse 116
-josef-nawrockistr 32
-josef-nawrocky str   34
-josef-nawrocky straße 34
-josef-nawrockistr 32
-josef-nawrocki str  34
+warschauer straße 41-42
+arndstrasse 4
+warschauer str   41-42
+anne-frank-straße 1
+warschauer straße 41-42
+hallesche str   35
+kurfürstendamm 157-158
+tiergartenstrasse 10
+suevenstrasse 12
+behnisch anlage 2-beg
+brooke-tayler-str   10
+warschauer straße 41-42
+mühlenberger weg 59
+siehe anlage 1
+joachim-friedrich-str   15
+wallstrasse 61-101
+tiergartenstrasse 10
+warschauer straße 41-42
+warschauer straße 41-42
+karl-liebknechtstrasse 33
+krausenstrasse 38-39
+fanny-zobel-str   9
+stargarder str   61
+warschauer straße 41-42
+oranienplatz 5
+unbenannte anlage 100826
+bernstadter weg 27
+bernstadter weg 27
+bernstadter weg 29
+besenbinder str   1
+warschauer straße 41-42
+bohnsdorfer weg 79
+boucheestrasse  12
+é strasse 11-12
+é strasse 19
+é strasse 71
+boviststrasse 77
+boviststrasse 77
+bruno-taut-strasse 2
 warschauer straße 41-42
 klosterstrasse 47
-haubachstrasse 8
-heerstrasse 22
-schulze-delitzsch-str   24
-katharinenstrasse 19-20
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-mauerstrasse 22
-kalkbergeweg 26
-kalkseestrasse 17
-kurfürtsnedamm 65
-karl-pokern-straße 3
-karolinenhofweg 73
-und anlage 2
-potsdamer str   188
-warschauer str   41-42
-gartenanlage 1677
-königsseestrasse 10
-schönefelder weg 1
-zur brücke 154-13
-kietzgrabenbrücke 2
-königsseestrasse  1
-königsseestrasse 1
-klosterstrasse 47
-kalkseestrasse 17-19
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17-19
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-kalkseestrasse 17
-klosterstrasse 47
-grenzstrasse 3
-grenzstrasse 3
-müllroser chaussee 53
-karlpokernstrasse 1
-krausenstrasse 38-39
-krausenstrasse 38-39
-sennereiweg 15
-sennereiweg 15
-ausfahrtstor 3
-leibnizstrasse 60
-leibnizstrasse 60
-leibnizstrasse 60
-rungestrasse 29
-leibnizstrasse 60
-keibelstrasse 36
-schätzelbergstrasse 1-3
-leibnizstrasse 60
-hauptstrasse 92-93
-hauptstrasse 92-93
-hauptstrasse 92-93
-bv-katzengraben 11
-klosterstrasse 47
-kurfürstendamm 84
-garnisonkirchplatz 2
-hauptstrasse 92-93
-hauptstrasse 92-93
-bv-katzengraben 11
-hauptstrasse 92-93
-kurfürstendamm 84
-garnisonkirchplatz 2
-klosterstrasse 47
-klosterstrasse 47
-kurfürstendamm 84
-kurfüstendamm 182
-kurfürstendamm 84
--2-kietzer straße 3-7
-badenallee 1
-kurfürstendamm 84
-kurfürstendamm 182
-katharinenstrasse 19-20
-klosterstrasse 47
-klosterstrasse 47
-fenster anlage 1
-kepplerstrasse 10
-rinkartstrasse 13
-dudenstrasse 10
-dudenstrasse 10
-krugallee 4
-geneststrasse 5
-kepplerstrasse 10
-klosterstrasse 47
-franz-mehring-platz 1
-klosterstrasse 47
-klosterstrasse 47
-gartenstrasse 24
-gartenstrasse 24
-gartenstrasse 24
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-und anlage 2
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-luisenstrasse 16
-klosterstrasse 47
-krausenstrasse 38-39
-krausenstrasse 38-39
-hohenzollernstrasse 44
-dudenstrasse 10
-und anlage 2
-dudenstrasse 10
-katharinenstrasse 19-20
-bahnhofsplatz 96444
-bahnhofsplatz 96444
-fundstellennachweis anlage 1
-behrens str   80
-paster-behrens-str   80
-sperberstrasse 46
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-itz-von-der-lancken-straße 9
-itz-von-der-lancken-straße 9
-falkensteinstrasse 19
-klosterstrasse 47
-klosterstrasse 47
-fregestrasse 23
-fregestrasse 23
-fregestrasse 23
-fregestrasse 23
-landauer str   2
-fregestrasse 23
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-wernsdorferstr 27
-klosterstrasse 47
-theodor-althoff-str   7
-theodor-althoff-straße 7
-crellestrasse 33
-kietzerstrasse 12
-krausenstrasse 38-39
-tempelhofer damm 149
-kietzerstrasse  13-50
-kietzerstrasse  13-50
-kietzstr 13
-klosterstrasse 47
-tempelhofer damm 149
-klosterstrasse 47
-farbcode-kietzer straße 3
-kietzerstrasse 3
-klosterstrasse 47
-klosterstrasse 47
-groß-ziethener-chaussee 18
-groß-ziethener-chaussee 18
-kitzstrasse 3-381
-groß-ziethener-chaussee 18
-klosterstrasse 47
-groß-ziethener-chaussee 18
-kietzerstrasse 4
-groß-ziethener-chaussee 18
-rückerstrasse 4-101
-rückerstrasse 4-101
-rückerstrasse 4-101
-rückerstrasse 4
-rückerstrasse 4-101
-rückerstrasse 4-101
-klosterstrasse 47
-kietzerstrasse 4
-groß-ziethener-chaussee 18
-klosterstrasse 47
-klosterstrasse 47
-universitätsstrasse 104
-groß-ziethener-chaussee 18
-klosterstrasse 47
+kurfürstendamm 30
+britzer allee 3
+britzer allee 3-
+britzer allee 3
+britzer allee 3
+britzer allee 3
+britzer allee 3
+britzer allee 3
+britzer allee 3
+schlüterstrasse 37
+torstrasse 154
+brook-tyler-str   10
+brook-tyler-str   10
+brooke-tayler-str   10
+bruno-taut-straße 8
+warschauer straße 41-42
+bruno-taut-str   8
+bruno-taut-str   3
+bruno-taut-str   8
+brückenstrasse 12
+brückenstrasse 20
+brückenstrasse 1
+brückenstrasse 12
+brückenstrasse 12
+brückenstrasse 20
+sandbacher weg 65
+dahmestrasse 11
+dahmestrasse 11
+dammweg 153
+dammweg 56
+warschauer straße 41-42
+warschauer straße 41-42
 fehrbelliner platz 1
-klosterstrasse 47
-kietzerstrasse 6
-kietzerstrasse 6
-fregestrasse 23
-kg-su-kietzer str   6
-uhlandstrasse 66
-fregestrasse 23
-fregestrasse 23
-fregestrasse 23
-abhilfe-grünstrasse  9
-uhlandstrasse 66
-thrasoltstrasse 11
-tempelhofer berg 6
-uhlandstrasse 66
-fregestrasse 23
-fregestrasse 23
-kietzerstrasse 6
-rudolf-breitscheid-str   62
-intern-kietzer straße 6
-falkensteinstrasse 19
-fregestrasse 23
-uhlandstrasse 66
-fregestrasse 23
-fregestrasse 23
-thrasoltstrasse 11
-kietzerstrasse 6
-uhlandstrasse 66
-falckensteinstrasse 19
-uhlandstrasse 66
-1986-kietzer straße 6
-falkensteinstrasse 19
-falkensteinstrasse 19
-falkensteinstrasse 19
-kietzerstrasse 6
-uhlandstrasse 66
-uhlandstrasse 66
-faktor 10
-kietzerstrasse 6
-rudolf-breitscheid-str   62
-f-breitscheid-str   62
-falkensteinstrasse 19
-falckensteinstrasse  19
-uhlandstrasse 66
-uhlandstrasse 66
-uhlandstrasse 66
-uhlandstrasse 66
-rudolf-breitscheid-str   62
-falkensteinstrasse 19
-rudolf-breitscheid-str   62
-frankenstrasse 26
-kietzerstrasse 6
-kg-su-kietzer str   6
-fregestrasse 23
-falckensteinstrasse 19
-kietzerstrasse 7-85
-kietzerstrasse 7
-dudenstrasse 26
+falkenberg 1-3
+warschauer straße 41-42
+heidelberger straße 65-66
+leipziger platz 10
+heidelberger straße 65-66
+schützenallee 3
+kurfürstendamm 84
+landstrasse 223
+karl-liebknechtstrasse 33
+warschauer straße 41-42
+dörpfeldestrasse 8
+warschauer straße 41-42
 klosterstrasse 47
 klosterstrasse 47
-königswinterstrasse 19
+-eichbuschallee 13
+eichbuschallee 4
+eichbuschallee 8
+warschauer straße 41-42
+warschauer str   41-42
+klingelhöferstrasse  4
+klingerhöferstrasse 4
+reinerzstrasse 13
+reinerzstrasse 13
+warschauer straße 41-42
 klosterstrasse 47
-qfactor 0
 klosterstrasse 47
-kurth straße 244
-klosterstrasse 47
-brandenburgische str   94
-brandenburgische str   94
--2-rosenstrasse 15
-beusselstrasse 67
-baderseestrasse 8
-ugoletti platz 12527
-eibseestrasse 19
-klosterstrasse 47
-mittelstrasse 9
-sobernheimer straße 1-6
-sobernheimer straße 1-6
-krampenburgerweg 6
-krampenburger weg-1
-lagunenweg 313
-landjägerstrasse 39-41
-libboldallee 16
-klosterstrasse 47
-lindenallee 18
+forsthausstrasse 8
+forsthausstrasse 8
+-wendenschlossstrasse 277-283
+warschauer straße 41-42
+hohenzollerndamm 120
+fließstrasse 13-18
+fließstrasse 2-11
+blankenburger str   85-105
+flutstrasse 25
+flutstrasse 3-5
+warschauer straße 41-42
+friedlandere straße 158
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+geltower weg 24
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+ginkgoweg 5
+glieniker str   517
+kfz-werkstatt-dorfplatz 14
+büchner weg 7-17
+büchenweg 7-17
+warschauer straße 41-42
+warschauer straße 41-42
+goldsternweg 30
+goldsternweg 147
+goldsternweg 31
+warschauer straße 41-42
+grimaustrasse 74
+groß-berliner damm 80
+groß-berliner damm 82
+groß-berliner-damm 84
+grabenstrasse 45
+wassersportallee 19
+eisenacher straße 19-20
+hartriegelstrasse 130
+hasselwerder str   22
+warschauer straße 41-42
+warschauer straße 41-42
+heidekampweg 71-85
+-wendenschlossstrasse 277-283
+heidekampweg 47
+heidelberger str   90
+warschauer straße 41-42
+bürgerspitalgasse 10-2
+warschauer straße 41-42
+badensche str   41
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+salzufer 8
+johannisthaler chaussee 67
+kablower weg 69
+kablower weg 69
+karl-kunger-str   24
+adlerstrasse 9
+cimbernstrasse 19
 klingelhöferstrasse 4
-lassallestrasse 40-48
-klosterstrasse 47
-joachimstrasse  1-7
-kölln platz 26
-rinkartstrasse 11-13
-cialdusstrasse 6
-landjägerstrasse 4
-claudiusstrasse 6
-laurenz-strasse 1-1
-laurenstrasse 1-1
-laurenstrasse 1-1
-laurenstrasse 1-1
-rheinstrasse 45
-laurenstrasse  1-1
-schlesische strasse 26
-schlesische strasse 26
--schappachstrasse 16-lau
-cialdusstrasse 6
-bonner straße 37
-laurenzsstrasse 1-1
-laurenstrasse 1-1
-beweis anlage 5
-mädewalder weg 34
-laurenz-strasse 1-1
-laurenszstrasse 1
-barnimstrasse 18
-selchowstrasse 31
-barnimstrasse 18
-selchowstrasse 31
-der anlage 1
-laurenstrasse 2
-selchowstrasse 29
-kirchweg 5
-selchowstrasse 31
+warschauer str   41-42
+orionstrasse 20
+paradiesstrasse 202-208
+sandbacher weg 69
+warschauer str   41-42
+warschauer str   41-42
+warschauer str   41-42
+warschauer str   41-42
 warschauer straße 41-42
-selchowstrasse 29
-selchowstrasse 29
-barnimstrasse 18
-siehe anlage 1
+warschauer straße 41-42
+warschauer str   41-42
+warschauer straße 41-42
+warschauer straße 41-42
+landstrasse 2-4
+-kiefholzstrasse 412
+treptower straße 45-50
+warschauer str   41-42
 der anlage 1
-der anlage 1
-kirchweg 5
-kirchweg 5
-selchowstrasse 29
-barnimstrasse 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 18
-lindenallee 20
-lindhof 12-405
+warschauer straße 41-42
+falkenberg 118-120
+falkenberg 118-120
+warschauer straße 41-42
+kirschweg 8
+warschauer straße 41-42
+korkedamm 28
+korkedamm 28-30
+warschauer straße 41-42
+korkedamm 7
+kranichstrasse 3
+bitte anlage 1
+cicerostrasse 24
+landstrasse  244
+landstrasse 264
+landstrasse 270
+landstrasse 212
+leipziger platz 10
+warschauer straße 41-42
+warschauer straße 41-42
+mainzer straße 28
+fahrradabstellanlage 69
+leberblumenweg 76
+ritterstrasse 38-40
+hallerstrasse 6
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+lindhorstweg 55-
+lindhorstweg 50-56
+waldenburger str   19
+marientalerstrasse  11
+mehldornpfad 9
+-eichbuschallee 13
+bwa-rudower chaussee 32
+bwa-rudower chaussee 44
+mittelweg 80
+moosstrasse 56
+moritz-seeler-str   5-7
+moritz-seeler-str   5-7
+-wendenschlossstrasse 277-283
+warschauer straße 41-42
+neltestrasse 26
+krugallee 32-52
+krugallee 24-30
+krugallee 32
+krugallee 32
+krugallee 35
+warschauer straße 41-42
+wohnanlage 1936
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+paradiesstrasse 202-208
+warschauer straße 41-42
+warschauer straße 41-42
+parchwitzer straße 181
+rinkartstrasse 13
+fahrradabstellanlage 69
+porzer straße 15-85
+weißdornallee 21
+teutonenstrasse 74
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer str   41-42
+bruno-taut-str   30-54
+danziger str   56
+puschkinaallee 36-41
+spandauer damm 148
+holteistrasse 31
+rudolfplatz 3-4
+friedenstrasse 18
+riedgrasweg 91
+rollettweg 15
+warschauer straße 41-42
+warschauer str   41-42
+sachsenstrasse 15
+salierstrasse 13
+salierstrasse 13
+schachtelhalmweg 31
+schachtelhalmweg 31
+schachtelhalbweg 94
+schmollerplatz 27
+warschauer str   41-42
+willinghusener weg 3
+warschauer straße 41-42
+güterbahnhof 1902
+warschauer straße 41-42
+schnellestrasse 138
+friedrichstrasse 95
+warschauer straße 41-42
+karl-liebknechtstrasse 33
+badensche str   41
+warschauer str   41-42
+plauener str   163-165
+karl-liebknecht-str   9-05
+stubenrauchstrasse 52
+schraderstrasse 10
+hohenzollerndamm 120
+zwischen str   22
+schulzendorfer straße 108
+schulzendorfer str   22
+heilbronner strasse 10
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+warschauer straße 41-42
+schöntaler weg 15
+schützenstrasse 11
+schützenstrasse 11
+warschauer straße 41-42
+warschauer straße 41-42
+seidenbaustrasse 1-5
+hohenzollerndamm 120
+hohenzollerndamm 120
+warschauer straße 41-42
+hallerstrasse 6
+badensche str   41
 krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-erkelenzdamm 23
--schappachstrasse 16-lau
+krausenstrasse 38
+warschauer straße 41-42
+stresemannstrasse 78
+warschauer straße 41-42
+sportfliegerstrasse 17-19
+sportfliegerstrasse 3-7
+springbornstrasse 90
+späthsfelder weg 4
+müngersdorfer straße 32
+stechapfelweg 108
+sternblütenweg 2
+sternblütenweg 2
+warschauer straße 41-42
+warschauer straße 41-42
+yorckstrasse 19
+heuberger weg 4-ges
+warschauer straße 41-42
+bvsterndamm 90
 klosterstrasse 47
 klosterstrasse 47
+ecksteinweg 2
 klosterstrasse 47
-potsdamer str   188
-klosterstrasse 47
-littenstrasse 109
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-littenstrasse 109
-hönower str   95
-littenstrasse 109
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-lehderstrasse 16-19
-krausenstrasse 38-39
-klosterstrasse 47
-tivoliplatz 3
-qfactor 0
-hubertusallee 19
-tivoliplatz 3
-tivoliplatz 3
-tivoliplatz 3
-hubertusallee 19
-tivoliplatz 3
-tivoliplatz 3
-tivoliplatz 3
-klosterstrasse 47
-klosterstrasse 47
-tivoliplatz 3
-tivoliplatz 3
-rinkartstrasse  13
-rinkartstrasse  13
-rinkartstrasse  13
-tivoliplatz 3
-mittelstrasse 7
-rinkartstrasse  13
-tivoliplatz 3
-tivoliplatz 3
-ottomargeschkestr 22
-schöneweide 750-13
-klosterstrasse 47
-tivoliplatz 3
-tivoliplatz 3
-tivoliplatz 3
-tivoliplatz 3
-tivoliplatz 3
-tivoliplatz 3
-lindstrasse 35-23
-lietzensee-ufer 10
-klosterstrasse 47
-lindstrasse  35-427
-lindstrasse 35-345
-maria-merian-str   19
-menzelstrasse 17
-lindstrasse 35-127
-klosterstrasse 47
-koenigsallee 30-32
-klosterstrasse 47
-klosterstrasse 47
-uhlandstrasse 165
-uhlandstrasse 165
-linienstrasse 118
-klosterstrasse 47
-klosterstrasse 47
-linienstrasse 118
-linienstrasse 118
-linienstrasse 118
-swinemünder str   14
-linienstrasse 118
-swinemünder str   14
-linienstrasse 118
-linienstrasse 118
--brückner-str  1
-siehe anlage 1
-storkower str   140
-buchberger str   6
-prinzessinnenstrasse 30
-borsigstrasse 30
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-prinzessinnenstrasse 30
-thorwaldsenstrasse 12
-birkenallee 11-126
-klosterstrasse 47
-klosterstrasse 47
-kolberger platz 5
-kreuzstrasse 26
-kreuzstrasse 26
-kreuzstrasse 26
-luther str   1-3
-kreuzstrasse 26
-kreuzstrasse 26
-kreuzstrasse 26
-luther straße 1-3
-kreuzstrasse 26
-hauptstrasse 19
-john-schehr-straße 3
-hauptstrasse 19
-hauptstrasse 19
-klosterstrasse 47
-hauptstrasse 19
-karl-marx-str   27
-kreuzstrasse 26
-kreuzstrasse 26
-lutherestrasse 1-3
-kreuzstrasse 26
-kreuzstrasse 26
-kreuzstrasse 26
-luther str   1-3
-kreuzstrasse 26
-kreuzstrasse 26
-kreuzstrasse 26
-john-schehr-str   3
-klosterstrasse 47
-john-schehr-straße 3
-klosterstrasse 47
-john-schehr-straße 3
-klosterstrasse 47
-kreuzstrasse 26
-klosterstrasse 47
-klosterstrasse 47
-löbweg 3-157
-zur straße 2
-klosterstrasse 47
-klosterstrasse 47
+stienitzseestrasse 27-41
+falkenberg 1-3
+stubenrauchstrasse 52
+stubenrauchstrasse 52
+suevenstrasse 32
+thelenstrasse 1-5
+thujaweg 32
+tollkirschenweg 129
+tollkirschenweg 106
+tollkirschenweg 129
+tiergartenstrasse 10
+venusstrasse 38
+warschauer straße 41-42
+wachtelstrasse 13
+wachtelstrasse 15
+warschauer str   41-42
+warschauer straße 41-42
+warschauer straße 41-42
 fasanenstrasse 87
-nahmeersuchen-lüdersstrasse 12
-lüderstrasse 10
-lüderstrasse 12-12
-lüderstrasse 10
-lüderstrasse 10
-lüderstrasse 10
-lüderstrasse 10
-lüderstrasse 10
-skalitzer straße 49
-lüderstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-potsdamer straße 60
-markstädter straße 5
-2004 anlage 2
-13-martin-luther-straße 105
-bilstedter pfad 11
-müggelspreeweg 25-37
-geisbergstrasse 7-9
-mahlsdorfer str   1
-mahlsdorfer straße 1
-mahlsdorfer straße 1
-mahlsdorfer str   1
-die anlage 1
-die anlage 1
-die anlage 1
-die anlage 1
-mggelseedamm 170
-bräu-josef-nawrocki-straße 2-6
-marienstrasse 17
-klosterstrasse 47
-danckelmannstrasse 9
-köpenick-mandrellaplatz 6
-köpenick-mandrellaplatz 6
-köpenick-mandrellaplatz 6-mit
-köpenick-mandrellaplatz 6
-luckenwalder straße 75
-puchanstrasse 7
-köpenick-mandrellaplatz 6
-köpenick-mandrellaplatz 6
-luckenwalder straße 75
-puchanstrasse 7
-puchanstrasse 12
-klosterstrasse 47
-mandreallaplatz 6
-puchanstrasse 12
-keibelstrasse 36
-hubertusstrasse 21
-hubertusstrasse 21
-köpenick-mandrellaplatz 6
-puchanstrasse 14
-luckenwalder straße 75
-keibelstrasse 36
-keibelstrasse 36
-köpenick-mandrellaplatz 6
-luckenwalder straße 75
-puchanstrasse 7
-puchanstrasse 7
-köpenick-mandrellaplatz 6
-siehe anlage 3
-puchanstrasse 7
-klosterstrasse 47
-puchanstrasse 7
-köpenick-mandrellaplatz 6
-köpenick-mandrellaplatz 6
-hubertusstrasse 21
-puchanstrasse 7
-klosterstrasse 47
-markgrafenstrasse 44
-puchanstrasse 7
-nhof 639-13
-puchanstrasse 7
-radilostrasse 43
-radilostrasse 43
-radilostrasse 43
-seelbenbinderstrasse 27
-metzelstrasse 12-14
-wolfener str   36
-theodor-althoff-straße 7
-theodor-althoff-str   7
-crellestrasse 29
-crellestrasse 29
-kochstrasse 22
-klosterstrasse 47
-crellestrasse 29-30
-crellestrasse 29
-klosterstrasse 47
-crellestrasse 29
-klosterstrasse 47
-klosterstrasse 47
-gartenanlage 91-14
-der anlage 1
-klosterstrasse 47
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-der anlage 1
-wundtstrasse 48-50
-wundtstrasse 48-50
-wundtstrasse 48-50
-crellestrasse 29
-kochstrasse 22
-danckelmannstrasse 17
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-kochstrasse 22
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38
-klosterstrasse 47
-großbeerenstrasse 71
-großbeerenstrasse 71
-wundtstrasse 48-
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-2-eichenstrasse  4
-mahlsdorfer str   16-25
-leipziger platz 14
-leipziger platz 14
-mahlsdorfer str   16-25
-leipziger platz 14
-mahlsdorfer str   16-25
-mahlsdorfer str   16-25
-leipziger platz 14
-leipziger platz 14
-dornröschenstrasse 2
-dornröschenstrasse 2
-dornröschenstrasse 2
-leipziger platz 14
-leipziger platz 14
-leipziger platz 14
-leipziger platz 14
-mahlsdorfer str   16-25
-leipziger platz 14
-mahlsdorfer str   16-25
-klosterstrasse 47
-in anlage 1
-uhlhenhorster str   21
-crellestrasse 29
-roßdörfer straße 50
-kochstrasse 22
-klosterstrasse 47
-weberstrasse 21
-sterntaler straße 60
-klosterstrasse 47
-crellestrasse 29
-wundtstrasse 48-
-wundtstrasse 48
-klosterstrasse 47
-crellestrasse 29-30
-crellestrasse 29
-klosterstrasse 47
-sterntaler str   60
-wundtstrasse 48-50
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-kietzerstr 10
-schillerstrasse 11
-schillerstrasse 11
-fürstenwalderdamm 474
-klosterstrasse 47
-crellestrasse 29
-klosterstrasse 47
-sterntaler str   60
-berlin-uhlenhorsterstrasse 21
-klosterstrasse 47
-crellestrasse 29
-klosterstrasse 47
-crellestrasse 29-30
-sterntaler str   60
-crellestrasse 29-30
-crellestrasse 29-30
-klosterstrasse 47
-klosterstrasse 47
-uhlhenhorster str   21
-crellestrasse 29
-feurigstrasse 59
-sterntaler str   60
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-uhlenhorsterstrasse 22
-uhlhenhorster str   21
-crellestrasse 29
-sterntaler str   60
-klosterstrasse 47
-klosterstrasse 47
-uhlhenhorster str   21
-crellestrasse 29
-klosterstrasse 47
-sterntaler str   60
-klosterstrasse 47
-uhlhenhorster str   21
-crellestrasse 29
-sterntaler str   60
-sterntaler str   60
-klosterstrasse 47
-wundstrasse 48-50
-klosterstrasse 47
-wassertorstrasse 48
-uhlhenhorster str   21
-uhlehorster str   21-25
-spinolastrasse 28
-wundtstrasse 48-50
-wundtstrasse 48-50
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-crellestrasse 29
-wundtstrasse 48-50
-crellestrasse 29
-großbeerenstraße 71
-uhlenhorsterstrasse 21
-crellestrasse 29
-schillerstrasse 11
-crellestrasse 29
 warschauer straße 41-42
-großbeerenstrasse 71
-wundtstrasse 48-50
-wundtstrasse 48-50
-enkmalpflege-klosterstrasse 47
-crellestr   29130
-lehderstrasse 16-19
-wundtstrasse 48-50
-crellestr   29
-feurigstrasse 59
-wundtstrasse 48-
-wundtstrasse 48-
-großbeerenstrasse 71
-crellestrasse 29
-der anlage 1
-mahlsdorfer str   16-25
-mahlsdorfer str   16-25
-zimmerstrasse 79-80
-der anlage 1
-der anlage 1
-der anlage 1
-der anlage 1
-wundtstrasse 48-
-goldsternweg 34
-crellestrasse 29
-mügglseedamm 181
+waltersdorfer str   111-112
+schlüterstrasse 37
+hohenzollerndamm 120
+warschauer straße 41-42
+warschauer straße 41-42
+falkenberg 1
+weidenweg 4
 klosterstrasse 47
-cicerostrasse 24
-klosterstrasse 47
-und anlage 2
-der anlage 3
-sprosserweg 3
-storkower straße 207
-storkower straße 207
-storkower straße 207
-storkower straße 207
-sprosserweg 3
-karl-marx-allee 31
-karl-marx-allee 31
-sprosserweg 3
-karl-marx-allee 31
-krugallee 4-124
-é strasse 12
-é strasse 12
-krugallee 4-124
-é strasse 12
 pablo-neruda-str   19247
-müghstr-49-00
-riedemannweg 16-18
-riedemannweg 16-18
 klosterstrasse 47
-württembergische straße 6
-gartenanlage 1677
-riedemannweg 16-18
-gartenanlage 1677
-riedemannweg 16-18
-schreiben anlage 1
-klosterstrasse 47
-storkower straße 207
-storkower straße 207
-storkower straße 207
-kurfürstendamm 65
-kurfürstendamm 65
-karlstrasse 8
+suevenstrasse 12
+lerchenweg 4
 warschauer straße 41-42
-rosestrasse 52
-potsdamer straße 188
+adlershofer tor 16
+schöneberger ufer 71
+adlershofer tor 16
+schmollerplatz 12-22
 warschauer straße 41-42
-körnerstrasse 22
-körnerstrasse 22
-marienstrasse 25
+wunnibaldstrasse 51
+windmühlenberg 2
 warschauer straße 41-42
+falkenberg 119
+falkenberg 44
 klosterstrasse 47
-marienstrasse 25
-marienstrasse 25
-rosestrasse 52
-warschauer straße 41-42
-warschauer straße 41-42
-albrechtstrasse 35
-mehrower allee 522
+falkenberg 123
+falknerberg 123
+falknerberg 123
+falkenberg 123
 klosterstrasse 47
-gothaer straße 19
-klosterstrasse 47
-klosterstrasse 47
-gothaer straße 19
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-cicerostrasse 24
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-cicerostrasse 28
-cicerostrasse 28
-klosterstrasse 47
-klosterstrasse 47
-cicerostrasse 28
-klosterstrasse 47
-klosterstrasse 47
--geyer-str  50
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
+bruno-taut-str   2
+bruno-taut-straße 2
+abteibrücke 392-12
+abteibrücke 642-13
+-seghers-str  118
 fundstellennachweis anlage 1
-dürenstrasse 8
-jüdenstrasse 2
-schleiermacherstrasse 8
-karl-liebknecht-straße 31
-fasanenallee 6
-schleiermacherstrasse 8
+naunynstrasse  11
+karl-liebknecht-str   31
+gellerstrasse 16-30
+-seghers-str  114
+torellstrasse 7
+friedrichstrasse 185-190
+torellstrasse 7
+klosterstrasse 47
+leberstrasse 11
+leberstrasse 11
+behinderten-stellplatz 2
+behinderten-stellplatz 2
+behinderten-stellplatz 1
+behinderten-stellplatz 1
+leberstrasse 11
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+lautet-adlergestell 133-149
 württembergische str   6
-jüdenstrasse 1
-sielberg 30
+urt-georg-kiesinger-allee 2
+niederschöneweide 1926
+anckelmannsplatz 1
+mecklenburgische straße 57
 klosterstrasse 47
 klosterstrasse 47
 klosterstrasse 47
-klosterstrasse 47
-e-anlage 5
--müggelseedamm 132-vil
-klosterstrasse 47
-klosterstrasse 47
+bergstrasse 20
+bergstrasse 20
+lichtenberg 11920
 klosterstrasse 47
 klosterstrasse 47
+gartenstrasse  1
+klosterstrasse 47
+adlerrgestell 139
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+borsigwalder weg 2
+mariendorfer damm 161
+-adlergestell 137-plä
+treptow-adlergestell 133
+borsigwalder weg 2
+borsigwalder weg 2
+niederschöneweide-3
 klosterstrasse 47
 klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-zur straße 3
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-schreiner str   10
-wartburgstrasse 50
-wacholderweg 27
-udl-müggelseedamm 148
-brückenstrasse 13
-cicerostrasse 21
-klosterstrasse 47
-klosterstrasse 47
-badstrasse 40
-rhinstrasse 130
-marzahner chaussee 227
-rießerseestrasse 10
-rießerseestrasse 10
-bräu-josef-nawrocki-straße 2-6
-kollwitzstrasse 12
-rießerseestrasse 10
-bräu-josef-nawrocki-straße 2-6
-brückenstrasse 6
-klosterstrasse 47
-klosterstrasse 47
-grunewaldstrasse 3
-nawrockistrasse 2-6
-wittener straße 13
-rosenthaler straße 40-41
-emser straße 40-41
-birkbuschstrasse 35
-klosterstrasse 47
-strassmannstrasse 18
-klosterstrasse 47
-1-brauerei-müggelseedamm 164-166
-grunewaldstrasse 3
-kollwitzstrasse 12
-kollwitzstrasse 12
-warschauer str   41-42
-nawrocki str   3
-claire-waldoff-str   10
-claire-waldoff-str   10
-claire-waldoff-str   10
-klosterstrasse 47
-mügglseedamm 181
-mügglseedamm 181
-krausenstrasse 38-39
-schillerstrasse 100
-klosterstrasse 47
-scharnweber-str   2
-ockerwitzer allee 110
-schleiermacherstrasse 8
-friedrich-str   48
-humboldstrasse 26
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-mönchsheimer str   26
-mönchsheimer str   26
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-geneststrasse 5
-geneststrasse 5
-helmstedter straße 25
-helmstedter straße 25
-helmstedter straße 25
-pariser straße 3
-haubachstrasse 22
-klosterstrasse 47
-geneststrasse 5
-haubachstrasse 22
-klosterstrasse 47
-rheinsberger str   59
-berlin-müggelseedamm 237
-ruppiner chaussee 151
-geneststrasse 5
-haubachstrasse 22
-zillestrasse 105
-zillestrasse 105
-klosterstrasse 47
-geneststrasse 5
-helmstedter straße 25
-kmallisste-müggelseedamm 247
-klosterstrasse 47
-9 hof 2
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-zillestrasse 105
-zillestrasse 105
-zillestrasse 105
-esmarchstrasse 3
-esmarchstrasse 3
-die anlage 1
-die anlage 1
-foersterstrasse 12
-klosterstrasse 47
-wohnanlage 1-65
-haubachstrasse 22
-esmarchstrasse 3
-max-beer-straße 33
-helmstedter straße 25
-max-beer-straße 33
-widersprüche-bölschestrasse 32
-müggelssedamm 239
-müggelseeedamm 239
-wohnanlage 1-65
-helmstedter straße 25
-klosterstrasse 47
-motzener str   10
-62 tor 320
-friedrich-wilhelm-straße 46
-rhinstrasse 71
 fundstellennachweis anlage 1
-motzener str   10
+pdf anlage-1-04
+borsigwalder weg 2
 klosterstrasse 47
-marzahner chaussee 227
+leberstrasse 11
+leberstrasse 11
+buckower chaussee 62
+-seghers-strasse 114
 klosterstrasse 47
-klosterstrasse 47
-siehe anlage 1
-lassallestrasse 48
-lassallestrasse 48
-klosterstrasse 47
-waldfriedhof 447-13
-klosterstrasse 47
-klosterstrasse 47
-seestrasse  73
+seghers-str   134-136
+-seghers-strasse 114
+torellstrasse 7
+segitzdamm 2
+center-adlergestell 327
+center-adlergestell 327
+center-adlergestell 327
+kurfürstendamm 23
+leipziger platz 2
+-adlergestell 327-331
 krausenstrasse 38-39
-heinrich-mann-platz 15-19
+berlin-rudower str   48-50
+berlin-rudower str   48-50
+leipziger platz 2
+leipziger platz 2
+ad-lergestell 327-331
+leipziger platz 2
+leipziger platz 2
 klosterstrasse 47
-wendenschlossstrasse 298
+segitzdamm 2
+vorwerksgasse 1
+leipziger platz 2
+leipziger platz 2
+in anlage 65
+bundesstrasse 96
+der anlage 5
+bundesstrasse 96
+katharinenstrasse  19-20
+in anlage 65
+regerstrasse 60
+segitzdamm 2
+regerstrasse 60
+regerstrasse 60
+regerstrasse 60
+regerstrasse 60
+regerstrasse 60
+gellerstrasse 16-30
+bln-schöneweide 1
+bln-schöneweide 2
 klosterstrasse 47
-hans-schmidt-str   18
-mädewalder weg 24
-buchholzer straße 62-65
-klosterstrasse 47
-warschauer straße 41-42
-breite straße 30-36
-fensterananlage 25
-klosterstrasse 47
-sprosserweg 3
-krokusstrasse  6
-zwieseler str   164
-zwieseler str   164
-zwieseler str   164
-sprosserweg 3
-moerser str   252
-landstrasse 4
-hans-schmidt-str   18
-nesseufer 14
-warschauer straße 41-42
-warschauer str   41-42
-investor 2
-hans-schmidt-str   18
-warschauer straße 41-42
-max-beer-str   48
-sodener strasse 34
-die anlage 1
-hans-schmidt-str   18
-warschauer straße 41-42
-moerser str   252
-sprosserweg 3
-klosterstrasse 47
-stockkampstrasse 12
-stockkampstrasse 12
-stockkampstrasse 12
-stockkampstrasse 12
-stockkampstrasse 12
-stockkampstrasse 12
-stockkampstrasse 12
-stockkampstrasse 12
-investor 0
-schätzelberstrasse 1-3
-sprosserweg 3
-schätzelbergstrasse 1-3
-schätzelbergstrasse 1-3
-warschauer str   41-42
-moerser str   252
-moerser str   252
-moerser str   252
-warschauer str   41-42
-stockkampstrasse 12
-sprosserweg 3
-sprosserweg 3
-behrenstrasse 42-101
-warschauer str   41-42
-klosterstrasse 59
-krokusstrasse  6
-klosterstrasse 47
-klosterstrasse 47
-nesseufer 14
-warschauer str   41-42
-warschauer str   41-42
-warschauer str   41-42
-behrenstrasse 42
-krausenstrasse 38
-müggelberg-366-98
-warschauer str   41-42
-warschauer str   41-42
-siehe anlage 1
-siehe anlage 1
-siehe anlage 1
-siehe anlage 1
-klosterstrasse 47
-buchholzer straße 62-65
-wendenschlossstrasse 298
-klosterstrasse 47
-klosterstrasse 47
-moerser str   252
-moerser str   252
-zwieseler str   164
-klosterstrasse 47
-wittenberger straße 8
-neuer weg 8
-neuer weg 8
-wittenberger straße 8
-poggendorfweg 2
-09-nalepastrasse 10-50
-landstrasse 34-62
-joachim-friedrich-str   37
-joachim-friedrich-str   37
-poggendorfweg 2-12
-klosterstrasse 47
-poggendorfweg 2-12
-poggendorffweg 2
-max-wundel-straße 13
-max-wundel-straße 13
-klosterstrasse 47
-wundtstrasse 19
-rosenthaler str   36
-martin-luther-str   105
-siehe anlage 3
-joachim-friedrich-str   37
-poggendorfweg 2-12
-poggendorfweg 2-12
-halberstädter straße 2
-klosterstrasse 47
-warschauer straße 41-42
-poggendorfweg 2-12
-breite str   4
-klosterstrasse 47
-breite str   4
-klosterstrasse 47
-uferstrasse 5
-frankfurter str   16
-uferstrasse 5
-klosterstrasse 47
-oberschöneweide  7
-dietrich-bonhoeffer str   14
-frankfurter str   16
-frankfurter str   16
-uferstrasse 5
-klosterstrasse 47
-frankfurter str   16
-flinsberger platz 1
-orstendorfstrasse 62
-schöneweide 5
-helmhotzstrasse 9
-dammweg 5-117
 schöneweide 1
-gesamtanlage 3
-dudenstrasse 10
-pablo-neruda-str   19247
-hofstrasse  74-76
-dudenstrasse 10
-dudenstrasse 10
-dudenstrasse 10
-sobernheimer straße 1-6
-krugallee 4
-krugallee 4
-kurfürstendamm 184
-odernheimerstrasse 2
-kurfürstendamm 184
-odernheimerstrasse 2
-odernheimerstr 2
-odernheimerstr 2
+pfarrer-perabo-platz 2
+luxemburger str   10
+markgrafendamm 24
+markgrafendamm 24
+schöneweide 20-13
+schöneweide 378-13
+burgwalstrasse 65
+schöneweide 750-13
+groß-berliner damm 81-81
+nürnberg 24
+zur straße 11
+knobelsdorffstrasse 96
+falkenberg 118
+bzstr   16
+falkenberg 118
 klosterstrasse 47
-warschauer str   41-42
-flinsberger platz 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-vector 32
-kurfürstendamm 219
-tabbertstrasse 11-09
-landsberger allee 366
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-1031268-ostendstrasse 1
-gemäß anlage 2
-lettestrasse 7
-peterhillestr 36
-1031268-ostendstrasse 1
-ostendendstrasse 27
-ostendendstrasse 27
-slabystrasse 8
-slabystrasse 8
-alexanderplatz 1
--anlage 1
-claudiastrasse 13
-claudiastrasse 13
-planstrasse 3
-geschke straße 2-22
-ottomargeschkestrasse 22
-elsterstrasse 31
-innenhof 1
-friedrichshaller str   37
-ottomargeschkestrasse 22
-krausenstrasse 38-39
-krausenstrasse 38-39
-treskowallee 112
-treskowallee 112
-ottomar-geschke straße 2-22
-ottomar-geschke straße 2-22
-ottomargeschkestrasse 22
-elsterstrasse 31
-teltower damm 283
-teltower damm 283
-klosterstrasse 47
-lichthof 21
-lichthof 21
-teltower damm 283
-eiselenweg 1
-qfactor 0
-qfactor 0
-treskowallee 112
-sophienstrasse 22
-sophienstrasse 22
-sophienstrasse 22
-ottomargeschkestr 22
-sophienstrasse 22
-teltower damm 283
-sophienstrasse 22
-teltower damm 283
-klosterstrasse 47
-eiselenweg 1
-geschke straße 17
+der anlage 1
+falkenberg 119
+sandrainstrasse 3
+dahmestrasse 33
+lamellenreflektor 8120
+mecklenburgische straße 57
+der anlage-0166
+falkenberg 119
+lkenberg-gartenstadtweg 15-99
+falkenberg 119
+lkenberg-gartenstadtweg 15-99
+falkenberg 119
+falkenberg 119
+lkenberg-gartenstadtweg 15-99
+lkenberg-gartenstadtweg 15-99
+knobelsdorffstrasse 96
+knobelsdorffstrasse 96
+knobelsdorffstrasse 96
+falkenberg 118
+emser straße 40-41
 klosterstrasse 47
 emser str   40-41
-katharinenstrasse  19-20
-reichenberger straße 124
-treskowallee 112
-treskowallee 112
-treskowallee 112
-ottomargeschkestr 22
-eiselenweg 1
-treskowallee 56
-treskowallee 112
-planstrasse 3
-planstrasse 3
-treskowallee 112
-markgrafenstrasse 33
-planstrasse 3
-knesebeckstrasse 30
-knesebeckstrasse 30
-treskowallee 56
-planstrasse 3
-treskowallee 112
-knesebeckstrasse 30
-treskowallee 56
-planung straße 3
-planstrasse 1
-eiselenweg 1-6
-planstrasse 1
-planstrasse 3
-boxhagener str   76-78
+keibelstrasse 36
+klosterstrasse 47
+emser str   40-41
+klosterstrasse 47
+emser str   40-41
+schleiermacherstrasse 8
+klosterstrasse 47
+heerstrasse 90
+klosterstrasse 47
+heerstrasse 90
+heerstrasse 90
+klosterstrasse 47
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+klosterstrasse 47
+klosterstrasse 47
+heerstrasse 90
+dammweg 69
+bayernallee 10
+heidekampgraben 1
+falkenberg 1-3
+falkenberg 1-
 warschauer str   41-42
-löwenbrucher weg 47
-pretschener weg 10
-pretschener weg 27
-pretschener weg 27
-pablo-neruda-str   6-7
-pablo-neruda-straße 24
-pete-hille-str   38
--hille-str  38
-hille str   36
-theresienstrasse 81
--goethestrasse  7-17
-potsdamer straße 60
-cs-peter-hille-straße 128-134
-carlsplatz 18
-wartburgstrasse 50
-cs-peter-hille-straße 128-134
-cs-peter-hille-straße 128-134
-bredtschneiderstrasse 5
-gutenbergstrasse 19
-albert-schweitzer-straße 24
-königswinterstrasse 27-103
--str  36-490
--str  36-572
+falkenberg 3
+falkenberg 3
+falkenberg 3
+falkenberg 3
+falkenberg 3
+falkenberg 1-5
+krugallee 4
+flutgraben 2
+bevernstrasse 5
+bevernstrasse 5
+flutgraben 2
+bevernstrasse 5
+flutgraben 2
+fußgängerbrücke 1
+otto-suhr-allee 82
+leuschnerdamm 31
+adlershof 2020
+jüdenstrasse 1
+schirner str   34
+karl-heine-strasse 93
+jüdenstrasse 1
+falkenberg 44
+leuschnerdamm 31
+verkehrsanlagen anlage 3
+jüdenstrasse 2
+jüdenstrasse 2
+jüdenstrasse 2
+falkenberg 44-
+otto-suhr-allee 82
 klosterstrasse 47
-bredtschneiderstrasse 5
-königswinterstrasse 27-103
--str  36-490
-peter-hille straße 36
-hille straße 36
-klosterstrasse 47
-klosterstrasse 47
-gutenbergstrasse 19
-hille straße 36
-peterhillestr 36
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-schulgebäudes anlage 1
-peterhillestrasse 78
-peterhillestrasse 78
-cicerostrasse 28
-cicerostrasse 28
-klosterstrasse 47
-pfeiffergasse 170220
-prinzregentenstrasse 26-30
-klosterstrasse 47
-rinkartstrasse 13
-rinkartstrasse 13
-klosterstrasse 47
-buchholzer str   32
-generalshof 5
-luisenstrasse 16
-klarastrasse  7
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-puchanstrasse 12
-dudenstrasse 10
-mentelinstrasse 1-7
-klosterstrasse 47
-rathenaustrasse 30
-riebekeweg 36
-rotkäppchenstrasse 76
-klosterstrasse 47
-rotkäppchenstrasse  75-76
-rahnsdorferstrasse 1
-rahnsdorferstrasse 2
-fundstellennachweis anlage 1
-uslarer straße 31
-uslarer straße 31
-uslarer straße 31
-uslarer straße 31
-uslarer straße 31
-uslarer straße 31
-uslarer straße 31
-kurfürstendamm 66
-bernburger strasse 30-31
-regattstrasse 10
+jüdenstrasse 2
+frankfurter tor 8
 krausenstrasse 38
 krausenstrasse 38
-klosterstrasse 47
-und anlage 2
-98-werbung anlage 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-fehrbelliner platz 1
-hackenbergstrasse 10
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-hagenstrasse 30
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-hagenstrasse 30
-fehrbelliner platz 1
-masurenallee 8-14
-mehringdamm 129
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-libboldallee 4
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-klosterstrasse 47
-manteuffelstrasse 10
-liebknecht straße 33
-rudolf-breitscheid-str   180
-regierungsstrasse 73
-sprosserweg 3
-klosterstrasse 47
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-riedgrasweg 89
-rudolf-breitscheid-straße 180
-hagenstrasse 30
-hafengrenzweg 3-9
-karl-liebknecht-str   33
-rudolf-breitscheid-str   180
-hagenstrasse 30
-hagenstrasse 30
-friedrichstrasse 39
-ejseedamm 125
-kaiser-friedrich-str   28
-friedrichstrasse 39
-friedrichstrasse 39
-hagenstrasse 30
-der anlage 1
-breitscheid str   180
-linkstrasse 12
+frankfurter tor 8
 württembergische str   6
-rudolf-breitscheid-str   180
-hänselstrasse 47
-hagenstrasse 30
-rudolf-breitscheid-str   180
-breitscheidstrasse 27
-stücksteilen-regattastrasse 167-171
-rudolf-breitscheid-str   180
-rudolf-breitscheid straße 180
-rinkartstrasse 13
-hagenstrasse 30
-salzufer 13-14
-rinkartstrasse 13
-rinkartstrasse 11-13
-rudolf-breitscheid-str   180
-pfuelstrasse 5
-hagenstrasse 30
-wundtstrasse 48-50
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-hagenstrasse 30
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-straße 180
-rudolf-breitscheid-str   180
-rudolf-breitscheid-straße 180
-linkstrasse 12
-rudolf-breitscheid-str   180
-salzufer 13-14
-hagenstrasse 30
-breitscheid str   180
-hirschgartenstrasse 14
-der anlage 1
-rudolf-breitscheid-str   180
-hagenstrasse 30
-2014 anlage 1
-rudolf-breitscheid-str   180
-salzufer 13-14
-2014 anlage 1
-rechtsgrundlagen anlage 1
-2014 anlage 1
-hagenstrasse 30
-hagenstrasse 30
-pfuelstrasse 5-auf
-pfuelstrasse 5
-rudolf-breitscheid-str   180
-hagenstrasse 30
-pfuelstrasse 5-auf
-hagenstrasse 30
-rudolf-breitscheid-straße 180
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hänselstrasse 47
-rudolf-breitscheid-straße 180
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-fundstellennachweis anlage 1-ang
-fundstellennachweis anlage 1
-fundstellennachweis anlage 1
-rudolf-breitscheid-straße 180
-ejseedamm 125
-müggetseedamm 125
-ßelsccdamm 125
-jakobstrasse 88
-altejakobstrasse 88
-pestalozzistrasse 66
-altejakobstrasse 88
-seedamm 125
-rudolf-breitscheid-straße  180
-udl-regattastrasse 167
-mqggelseedamm 1
-moggelseedamm 1
-rudolf-breitscheid-str   180
-rudolf-breitscheid-straße  180
-müggetseedamm 125
-hagenstrasse 30
-hagenstrasse 30
-hagenstrasse 30
-rudolf-breitscheid-straße 180
-pfuelstrasse 5
-rudolf-breitscheid-straße 180
-hagenstrasse 30
-pfuelstrasse 5
-pfuelstrasse 5
-rudolf-breitscheid-str   180
-karlstrasse 8
-masurenallee 8-14
-masurenallee 8-14
-martin-luther-str   105
-rudolf-breitscheid-str   180
-rudolf-breitscheid-straße 180
-mehringdamm 129
-mehringdamm 129
-radduscher weg 7
-rudolf-breitscheid-str   180
-rudolf-breitscheid-str   180
-breitscheid-straße 180
-büxensteinallee 2
-hagenstrasse 30
-greifenhagener strasse 48
-greifenhagener strasse 48
-masurenallee 8-14
-greifenhagener strasse 48
-eibseestrasse  10
-masurenallee 8-14
-büxensteinallee 2
-hagenstrasse 30
-breitscheid str   180
-friedrich-ebert-str  79-81
-friedrich-ebert-str  79-81
-rudolf-breitscheid-straße 180
-rudolf-breitscheid-straße 180
-oderstrasse 67
-breitscheid str   180
-greifenhagener strasse 48
-masurenallee 8-14
-rudolf-breitscheid-str   180
-liebknecht straße 33
-hafengrenzweg 3-9
-friedrichstrasse 39
-reattastrasse 168
-rudolf-breitscheid-str   180
-breitscheid str   180
-klosterstrasse 47
-regatter straße 170
-regatter straße 170
-brandensteinweg 10
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-laskerstrasse 6-8
-ilsenburger straße 35
-laskenstrasse 6-8
-liebenwalder straße 2-3
-liebenwalder straße 2-3
-liebenwalder straße 2-3
-liebenwalder straße 2-3
-liebenwalder straße 2-3
-württembergische straße 6
-liebenwalder straße 2-3
-lützowstrasse 106
-liebenwalder straße 2-3
-liebenwalder straße 2-3
-klosterstrasse 47
-wc anlage 4
-klosterstrasse 47
-königstrasse 28
-klosterstrasse 47
-lützowstrasse 106
-warägerweg 8
-warägerweg 8
-riesserseestrasse 10
-riesserseestrasse 10
-neuköllnische allee 128-130
-klosterstrasse 47
-neuköllnische allee 128-130
-rothenbaumchaussee 54
-rothenbaumchaussee 54
-neuköllnische allee 112
-rothenbaumchaussee 54
-rothenbaumchaussee 54
-rothenbaumchaussee 54
-klosterstrasse 47
-klosterstrasse 47
-regatta-strasse 273-277
-befindet-regattastrasse 84
-bartschweg 14
-klosterstrasse 47
-methfesselstrasse 23
-methfesselstrasse 23
-hohenzollerndamm 120
-rostocker straße 41
-hermann-hesse str   55-57
-bartschweg 14
-objektüberg 222-12
-prignitzstrasse 3
-klosterstrasse 47
-rostocker straße 41
-haushofer str   23
-eichbuschstrasse 43
-sprosserweg 3
-floristik-birkenweg 18
-richtstrasse 1-3
-musteranlage 11-erf
-baseler str   165
-baseler str   165
-baseler str   165
-bethaniendamm 29
-baseler straße 165
-rehefelder straße 70
-rehefelder straße 70
-rehefelder straße 70
-lyoner str   14
-klosterstrasse 47
-bundesallee 192
-bennigsenstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-roederstrasse  8
-limbacher straße 193
-klosterstrasse 47
-uhlandstrasse 29
-fundstellennachweis anlage 1
--2-rosenstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-brandenburgische str   94
-brandenburgische straße 94
-brandenbutgische straße 94
--2-rosenstrasse 15
-klosterstrasse 47
-brandenbutgische straße 94
-klosterstrasse 47
-bruchgraben 24
-bruchgraben 24
-bruchgraben 24
-krausenstrasse 38-39
-bruchgraben 24
-bruchgraben 24
-bruchgraben 24
-klosterstrasse 47
-klosterstrasse 47
-katharina-heinroth-ufer 1
-klosterstrasse 47
-katharina-heinroth-ufer 1
-berlin-rosenstrasse 6
-berlin-rosenstrasse 6
-gutenberg str   71-72
-gutenbergstrasse 71-72
-frankenstrasse 26
-frankenstrasse 26
-klosterstrasse 47
-gemäß anlage 1
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-aurachweg 7
-rudowerstrasse 23
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-berghauser str   31
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-fsverwaltung-rudower straße 23
-fsverwaltung-rudower straße 23
-aurachweg 7
-schützenstrasse 3
-rudowerstrasse 23
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-friedhof 131
-klosterstrasse 47
-friedhof 132-13
-klosterstrasse 47
-klosterstrasse 47
-friedhof 133-13
-friedhof 133-13
-friedhof 133-13
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-rudowerstrasse 12557
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-friedhof-rudower str   23
-klosterstrasse 47
-friedhof 50-13
-klosterstrasse 47
-friedhof 51-13
-klosterstrasse 47
-friedhof 519-12
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-friedhof 52-13
-klosterstrasse 47
-klosterstrasse 47
-friedhof 53-13
-friedhof 54-13
-klosterstrasse 47
-friedhof 546-13
-klosterstrasse 47
-friedhof 547-13
-klosterstrasse 47
-friedhof 547-13
-klosterstrasse 47
-friedhof 548-13
-klosterstrasse 47
-friedhof 55-13
-klosterstrasse 47
-friedhof 549-13
-klosterstrasse 47
-friedhof 550-13
-klosterstrasse 47
-friedhof 551-13
-klosterstrasse 47
-friedhof 552-13
-klosterstrasse 47
-friedhof 553-13
-klosterstrasse 47
-friedhof 554-13
-klosterstrasse 47
-friedhof 556-13
-klosterstrasse 47
-friedhof 614-13
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-friedhof 84-12
-klosterstrasse 47
-landstrasse 1
-sieglindestrasse 10
-landstrasse 2
-kurfürstendamm 29
-landstrasse 2-12
-landstrasse 1
-sieglindestrasse 10
-landstrasse 2-12
-landstrasse 16
-landstrasse 2-12
-landstrasse 2
-landstrasse 2-12
-landstrasse 2-12
-landstrasse 2-12
-wallstrasse 16
-landstrasse 2-12
-landstrasse 2-12
-poggendorfweg 2-12
-landstrasse 54-62
-landstrasse 34-62
-slabystrasse 3
-klosterstrasse 47
-wlhof 76-77
-tabbertstrasse 38
-slabystrasse 17
-springbornstrasse 53
-bauvorhaben straße 235
-bauvorhaben straße 241
-bauvorhaben straße 34
-bauvorhaben straße 41
-bauvorhaben straße 538
-bauvorhaben straße 546
--hoffmann-str  11
-slabystrasse  17
-steinbindeweg 6
-schumannstrasse 17
-slabystrasse 17-21
-baumschulenweg 48
-2012 anlage 2-1
-bleicherufer 25
-bleicherufer 25
+35-würtembergische str   6
+frankfurter tor 8
+frankfurter tor 8
 württembergische str   6
-württembergische straße 6
-schönhauser allee 149
-schönhauser allee 149
-klosterstrasse 47
-hohenzollerndamm 125-126
-motzener str   10
-hohenzollerndamm 125-126
-paul-lincke-ufer 8
-klosterstrasse 47
-vorfahrtvorplatz 1
-pablo-neruda-str   19247
-klosterstrasse 47
-klosterstrasse 47
-sallendestr 2-8
-erwin-bock-str   5
-sallendestr 2-8
-dammweg 56
-bock str   5
--strasse  1
--allende-str   1
--schappachstrasse 16-lau
-schmalenbachstrasse 11
-krausenstrasse 38-39
-britzer damm 135
+frankfurter tor 8
+frankfurter tor 8
 krausenstrasse 38
-peitzer weg 2
-robert-siewert-straße 22
-robert-siewert-straße 22
-robert-siewert-straße 22
-robert-siewert-straße 22
-karl-pokern-straße 1
+krausenstrasse 38
+dorotheenstrasse 85
+fasanenstrasse 87
+fasanenstrasse 87
+fasanenstrasse 87
+é strasse 11
+é strasse 87-100
+beermannstrasse 3
+klosterstrasse 47
+fasanenstrasse 87
+fasanenstrasse 87
+fasanenstrasse 87
+fasanenstrasse 87
+fasanenstrasse 87
+kohlfurter straße 41-43
+kohlfurter straße 41-43
+kohlfurter straße 41-43
+westfälische str   37
+johann-sigismund-str   16-17
+johann-sigismund-str   16-17
+klosterstrasse 47
+westfälische str   37
+westfälische str   37
+westfälische str   37
+westfälische straße 37
+westfälische str   37
+westfälische str   37
+westfälische straße 37
+johann-sigismund-str   16-17
+johann-sigismund-str   16-17
+johann-sigismund-str   16-17
+westfälische straße 37
+klosterstrasse 47
+westfälische straße 37
+seeplatz 3
+klosterstrasse 47
+rosenheimer str   38
+rosenheimer str   38
+rosenheimer str   38
+klosterstrasse 47
+walther-rathenau-platz 3
+-rathenau-platz 3
+21-moosdorfstrasse 01-02
+walther-rathenau-platz 3
+walther-rathenau-platz 3
+-rathenau-platz 3
+-rathenau-platz 3
 klosterstrasse 47
 klosterstrasse 47
-fenstern-straße 2
-dudenstrasse 10
 klosterstrasse 47
-scharnweber str   104
-fürstenwalder straße 19
--siehe anlage 1
-swstrasse  105
-dudenstrasse 10
-dudenstrasse 10
-scharnweber str   108
-scharnweber str   108
-klosterstrasse 47
-spam-scharnweberstrasse 110-der
-assmannstrasse 63
-scharnwebstrasse 111
-scharnwberstrasse 111
-karl-pokern-straße 1
-karl-pokern-straße 1
-scharnwebstrasse 111
-assmannstrasse 63
-scharnwberstrasse 111
-scharnwberstrasse 111
-scharnwebstrasse 111
-scharnwebstrasse 111
-scharnwebstrasse 111
-scharnwebstrasse 111
-klosterstrasse 47
-assmannstrasse 63
-assmannstrasse 63
-gerstenweg 53
-gerstenweg 53
-gerstenweg 53
-otto-brahm-str   1
-brahm str   1
+thoma str   1
+thoma-str   3-5
 klosterstrasse 47
 klosterstrasse 47
-swstrasse  12-103
-assmannstrasse 63
-klosterstrasse 47
-krausenstrasse 38-39
-swstrasse  121-140
-otto straße 14
-swstrasse  121
-swstrasse  122-146
-assmannstrasse 63
-assmannstrasse 63
-karl-pokern-straße 1
-scharnweber straße 13
-grünheider weg 18
-kohlfurter str   41-43
-kohlfurter str   41-43
-assmannstrasse 63
-kohlfurter str   41-43
+hans-thoma str   1
+der stra 0
+hans-schmidt-str   18
+ba anlage 1-erl
+caspar-theyß-str   18
+thölauer straße 25
+pankstrasse  8-10
 klosterstrasse 47
 klosterstrasse 47
-kohlfurter str   41-43
-der anlage 2
-karl-pokern-str   1
-swstrasse  18
-swstrasse 18
-swstrasse  19-20
-swstrasse  19-20
-scharnweber str   2
+schumannstrasse 6
 klosterstrasse 47
 klosterstrasse 47
-schwanrweberstrasse 2
+friedrich-engels-str   39
+friedrich-engels-str   39
+klosterstrasse 47
+schumannstrasse  6
+innenhof 2
+klosterstrasse 47
+gmbh-schumannstrasse 6-d
 klosterstrasse 47
 klosterstrasse 47
-schwanrweberstrasse 2
-swstrasse  19-20
-swstrasse  19-20
-scharnwerberstrasse 62-63
-dudenstrasse 10
-glasberger str   52
-leipziger straße 118
 klosterstrasse 47
-treskowallee 92
-scharnwweberstrasse 30
 klosterstrasse 47
-swstrasse  31
-dudenstrasse 10
-dudenstrasse 10
-landsberger allee 357
 klosterstrasse 47
-krausenstrasse 38-39
-karl-pokern-straße 1
 klosterstrasse 47
-assmannstrasse 63
-bundestrasse 5-nr
-rheinsberger str   50
-kalkbergeweg 61
-esmarchstrasse 3
-klosterstrasse 47
--anlage 1
-esmarchstrasse 3
-württembergische straße 6
-württembergische straße 6
-württembergische straße 6
-gustav-schwannecke-straße 13
-esmarchstrasse 3
-esmarchstrasse 3
-scharnweber straße 40-41
-scharnweber str   40-41
-marienstrasse 25
-marienwerderweg 5
-esmarchstrasse 3
-siehe anlage 1
-marienstrasse 25
-scharnwebstrasse 111
-harnweberstrasse 40
-scharnweber-strasse 40
-ud-scharnweberstrasse 40-40
-klosterstrasse 47
-scharnweber straße 43
-klosterstrasse 47
-scharnweber str   44-sch
-potsdamer straße 60
-klutstrasse 2
-klutstrasse 2
-klutstrasse  2
-klutstrasse 2
-kluststrasse 2
-scharnweber str   47
-scharnweber straße 49
-droysenstrasse 5
-swstrasse  5-242
-brestpromenade 2
-brestpromenade 2
-assmannstrasse 63
-dammweg 150
-assmannstrasse 63
-scharnwebestrasse 55-56
-heinersdorfer straße 11
-07-scharnweberstrasse 56
-scharnwebestrasse 55-56
-heinersdorfer straße 11
-scharnweber str   57
-scharnweber str   57
-scharnweber str   57
-scharnweber str   57
-scharnweber str   57
-krausenstrasse 38-39
-büxensteinallee 24
-aachener straße 186
-carlsplatz 18
-wartburgstrasse 50
-hortensienstrasse 9
-klingelhöferstrasse 4
-assmannstrasse 63
-motzener str   13-15
-klosterstrasse 47
-scharnweber str   65
-scharnweber str   65
-crellestrasse 26
-sendlinger straße 7
-markgrafenstrasse 32
+5 tor 1
+schumannstrasse 6
+glasmeisterstrasse 5
+französische str   24
+warschauer straße 41-42
 geneststrasse 5
 klosterstrasse 47
-scharnweber str   73-fen
-assmannstrasse 63
-stadthaus-klosterstrasse 47
-swstrasse  75-485
-waldowallee 87
-waldowallee 87
 klosterstrasse 47
-79-scharnweberstrasse 79
-seeburger chaussee 2
+kurfürstendamm 157-158
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+putz hof 01
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+putz hof 01
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+bürgerspitalgasse 10-2
+defreggerstrasse 4
+naunynstrasse 72
+klosterstrasse 47
+klosterstrasse 47
+naunynstrasse 72
+klosterstrasse 47
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72-109
+stiegstrasse 88
+waldweg 6
+naunynstrasse 72
+naunynstrasse 72
+naunynstrasse 72
+klosterstrasse 47
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72
+naunynstrasse 72-109
+naunynstrasse 72-109
+naunynstrasse 72
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+großbeerenstrasse 21
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+großbeerenstrasse 21
+gregor-mendel-str   2
+großbeerenstrasse 21
+großbeerenstrasse 21
+klosterstrasse 47
+großbeerenstrasse 21
+rousseaustrasse 34
+zimmerstrasse 90
+klosterstrasse 47
+kurfürstendamm 58
+greifswalder str   212-213
+greifswalder str   212-213
+bessemer straße 24126
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+greifswalder str   212-213
+greifswalder str   212-213
+retelstrasse  1
+taubenstrasse 23
+kurfürstendamm 38-39
+taubenstrasse 23
+taubenstrasse 23
+taubenstrasse 23
+taubenstrasse 23
+taubenstrasse 23
+taubenstrasse 23
+taubenstrasse 23
+taubenstrasse 23
+kolonnenstrasse 27
+kolonnenstrasse 27
+ettaler straße 10
+liststrasse 45
+ettaler straße 10
+klosterstrasse 47
+hohenzollerndamm 125-126
+klosterstrasse 47
+liststrasse 45
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+clayallee 333
+klosterstrasse 47
+belforter straße 29
+großbeerenstrasse 21
 klosterstrasse 47
-karl-pokern-straße 1
-assmannstrasse 63
-albert-schweitzer-str   62
-scharnweber str   85
-assmannstrasse 63
-assmannstrasse 63
-karl-pokern-straße 1
-scharweberstrasse 89
-assmannstrasse 63
-scharnwerberstrasse 62-63
-niederwallstrasse  8-9
-scharnwerberstrasse 62-63
-klosterstrasse 47
-swstrasse  90-586
-assmannstrasse 63
-karl-pokern-straße 1
-klosterstrasse 47
-klosterstrasse 47
-karl-pokern-straße 1
-assmannstrasse 63
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-spinolastrasse 28
-friedenstrasse 82
-von-der-heydt-straße 16-18
-industriestrasse 6-10
-hessenwinkler straße 3
-klosterstrasse 47
-klosterstrasse 47
-babelsberger str   51
-babelsberger str   51
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-friedenstrasse 82
-industriestrasse 6-10
-schloßplatz 373-99
-dudenstrasse 10
-schloßplatz 112-12
-fahrradbügel anlage 1
-klosterstrasse 47
-holzmarktstrasse 15-17
-blatt anlage 1
-berliner allee 18
-parkweg 2
-krausenstrasse 38
-klosterstrasse 47
-schmaustrasse 1
-zillertalstrasse 19
-klosterstrasse 47
-frankfurter allee 34
-frankfurter allee 34
-frankfurter allee 34
--schmausstrasse 13
--schmausstrasse 13
-käßner-schmausstrasse 13
--schmausstrasse 13
-klosterstrasse 47
--schmausstrasse 13
-käßner-schmausstrasse 13
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-gemäß anlage 2
-klosterstrasse 47
-schulstrasse 16
-krausenstrasse 38-39
-schmaustrasse 4-dac
-klosterstrasse 47
-klosterstrasse 47
-burghardweg 41
-burghardweg 41
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-berliner straße 29
-klosterstrasse 47
-klosterstrasse 47
-siehe anlage 3
-berliner straße 29
-klosterstrasse 47
-trollblumenweg 15
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-mahlsdorfer str   33
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-smsstrasse  67-526
-gesamtanlage-3
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-heizungsanlage 2
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-dahmestrasse 33
-klosterstrasse 47
-schmaußstrasse 77
-schmaußstrasse 77
-annemariestrasse 17
-wisslerstrasse 17
-krausenstrasse 38-39
-dahmestrasse 33
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-angersteinweg 2
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-kirchweg 5
-schmaussstrasse 80
-klosterstrasse 47
-schmaussstrasse 81
-t-com-schmausstrasse 85-ste
-krausenstrasse 38-39
-krausenstrasse 38-39
-berghofer weg 24
-bergweg 24-216
-berghofer weg 24
-bergweg 24-216
-berghofer weg 24
-rheinstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-freiburger strasse 20
-krausenstrasse 38
-krausenstrasse 38-39
-eichbergstrasse 16-18
-eichbergstrasse 16-18
-klosterstrasse 47
-klosterstrasse 47
-schlesische straße 12
-klosterstrasse 47
-klosterstrasse 47
-schönerlinderstrasse  11
-schönerlinderstrasse 11
-schönerlinderstrasse 11
-schönerlinderstrasse  11
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-schönerlinderstrasse 8
-klosterstrasse 47
-seelenbinder straße 21
-warschauer straße 41-42
-münzstrasse 15
-ntation-seelenbinder straße 99
-ntation-seelenbinder straße 99
-kurfürstendamm 193-194
-seelenbinder straße 99
-klosterstrasse 47
-schätzelbergstrasse 1-3
-s-bahnhof-129-98
-kaiserdamm 20
-münzstrasse 15
-münzstrasse 15
-köpnicker str   325
-kürfürstendamm 193-194
-kaiserdamm 20
-kaiserdamm 20
-seelenbinder straße 99
-kaiserdamm 20
-münzstrasse 15
-schätzelbergstrasse 1-3
--bürgel-weg 9
-münzstrasse 15
-klosterstrasse 47
-münzstrasse 15
-seelenbinder str   99
-klosterstrasse 47
-klosterstrasse 47
-münzstrasse 15
-klosterstrasse 47
-ottomargeschkestr 22
-keibelstrasse 36
-keibelstrasse 36
-klosterstrasse 47
-münzstrasse 15
-seelenbinder str   99
-klosterstrasse 47
-klosterstrasse 47
-münzstrasse 15
-schätzelbergstrasse 1-3
-schätzelbergstrasse 1
-klosterstrasse 47
-münzstrasse 15
-klosterstrasse 47
-klosterstrasse 47
-kurfürtsendamm 65
-buchholzer strasse 8
-rathausstrasse 70
-buchholzer strasse 8
-siemenstrasse 21
-keibelstrasse 36
-keibelstrasse 36
-frankfurter allee 216
-tabbertstrasse 38
-pettenhofer straße 48
-klosterstrasse 47
-krausenstrasse 38-39
-klosterstrasse 47
-springberber weg 10
-klosterstrasse 47
-springebergerweg 10
-springebergeweg 10
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-ringbahnstrasse 7
-berlin-stellingdamm 25
-berlin-stellingdamm 25
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-wegedornstrasse  271
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-zoschke str   2
-abwasseranlage 7
-reichsstrasse 12
-hirtestrasse 9
-cicerostrasse 28
-fehrbelliner platz 1
-gipsstrasse 6
-klosterstrasse 47
-wahnfriedstrasse  12
-hirtestrasse 9
-cicerostrasse 28
-cicerostrasse 28
-hirtestrasse 7
-hirtestrasse 8
-pettendorfer straße 48
-klosterstrasse 47
-klosterstrasse 47
-heinrich-heine-str   51
-hirtestrasse 9
-ringbahnstrasse 96
-gipsstrasse 6
-lützowstrasse 102-104
-cicerostrasse 28
-hirtestrasse 9
-fehrbelliner platz 1
-hirtestrasse 18
-hirtestrasse 9
-hirtestrasse 18
-ringbahnstrasse 76-80
-ringbahnstrasse 56
--2-lindenhof 1-12
--2-lindenhof 1-12
-klosterstrasse 47
--2-lindenhof 1-12
-zwieseler str   164
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-t-com-schmausstrasse 85-ste
-reichensteiner weg 19
-klosterstrasse 47
-klosterstrasse 47
-oberseestrasse 65
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-neue promenade 8
-klosterstrasse 47
-neue promenade 8
-krausenstrasse 38-39
-neue promenade 8
-neue promenade 8
-neue promenade 8
-neue promenade 8
-kiefernallee 18
-t-com-schmausstrasse 85-ste
-klosterstrasse 47
-roline-von-humboldt-weg 38
-roline-von-humboldt-weg 38
-weskammstrasse 15
-robert-siewert-straße 22
-robert-siewert-straße 22
-robert-siewert-straße 22
-köpeni-cker straße 152
-gartenanlage 1677
-berlin-triglawstrasse 12
-tabbertstrasse 8
-triglawstrasse 22-24
-triglawstrasse 36
-triglawstrasse 6
-triglawstrasse 8
-krausenstrasse 38-39
-roederstrasse 8-14
-crellestrasse 29
-uhlenhorsterstrasse 29-62
-krausenstrasse 38-39
-krausenstrasse 38-39
-uhlenhortsre straße 32
-uhlenhorsterstrasse 29-62
-uhlenhorsterstrasse 29-62
-klosterstrasse 47
-uhlenhorsterstrasse 41
-klosterstrasse 47
-uhlenhorsterstrasse 29-62
-krausenstrasse 38-39
-klosterstrasse 47
-klosterstrasse 47
-elsengrund-gesamtanlage 3
-klosterstrasse 47
-klosterstrasse 47
-uhlenhorsterstr 56
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-mahlsdorfer str   84
-rathenau str   12459
-rathenau str   12459
-schöneweide-1
-katharinenstrasse 19-20
-klosterstrasse 47
-markgrafenstrasse 44
-markgrafenstrasse 44
-wendenschlossstrasse 334
-wlhof-521-98
-ottomargeschkestr 22
-oberschöneweide 1898
-hofstrasse  93
-klosterstrasse 47
-krausenstrasse 38-39
-reuchlinstrasse 10-11
-klosterstrasse 47
-weberstrasse 21
-enkmalpflege-krausenstrasse 38
-krausenstrasse 38-39
-holzmarktstrasse 15-17
-klosterstrasse 47
-klosterstrasse 47
--2-lindenhof 1-12
-walburgweg 11
-kiefernallee 118
-asseburgpfad 30
-motzener straße 10
-krausenstrasse 38-39
-watzmannstrasse 37
-kiefernallee 118
-krausenstrasse 38-39
-krausenstrasse 38-39
-krausenstrasse 38-39
-weberstrasse 21
-weberstrasse 21
-weberstrasse 21
-klosterstrasse 47
-krausenstrasse 38-39
-weberstrasse 21
-weberstrasse 21
-weberstrasse 21
-klosterstrasse 47
-gemäß anlage 2
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-waldpromenade 4
-waldpromenade 4
-waldpromenade 4
-leipziger straße 16
-krausenstrasse 38
-waldpromenade 4
-waldpromenade 4
-waldpromenade 4
-waldpromenade 4
-waldpromenade 4
-waldkapelle-eichbergstrasse 16-18
-eichbergstrasse 18
-friedrich-karl-ufer 5
-friedrich-karl-ufer 5
-warschauer straße 41-42
-klosterstrasse 47
-eichbergstrasse 18
-eichbergstrasse 18
-chemnitzer straße 198-200
-klosterstrasse 47
-chemnitzer straße 198-200
-cuvrystrasse 25
-müggelbergallee 30
-falkendamm 5
-ekhofstrasse 1
-wendenschlossstrasse 138
-wendenschlossstrasse 138
-wendenschlossstrasse 138
-wendenschlossstrasse 131-133
-holzmarktstrasse 15-17
-zeughofstrasse 1
-potsdamer straße 188
-wendenschlossstrasse 129
-wendenschlossstrasse 131-133
-klosterstrasse 47
-karlstrasse 43
-karlstrasse 43
-wendenschlossstrasse 131-gz
-wendenschlossstrasse 131-gz
-wendenschlossstrasse 131-gz
-wendenschlossstrasse 131-gz
-stresemannallee 61
-dahmeufer 7
-dahmeufer 9
-rosenheimer straße 40
-dianastrasse 20
-bogenstrasse 1
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-stresemannallee 61
-wendenschlossstrasse 254
-grolmanstrasse 40
-wendenschlossstrasse 254
-joachim-friedrich-strasse 37
-grolmanstrasse 40
-kadettenweg 3-5
-kadettenweg 3-5
-joachim-friedrich-strasse 37
--müggelseedamm 132-vil
-wendenschlossstrasse 245
-wendenschlossstrasse 254
-der anlage 1
-grolmanstrasse 40
-kadettenweg 3-5
-eichwalder straße 4
-klosterstrasse 47
-joachim-friedrich-str   37
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-klosterstrasse 47
-joachim-friedrich-str   37
-wendenschlossstrasse 254
-klosterstrasse 47
-hauptweg 2
-hauptweg 5
-hauptweg 5
-klosterstrasse 47
-11 anlage 2
-klosterstrasse 47
-joachim-friedrich-str   37
-klosterstrasse 47
-wendenschlossstrasse 254
-klosterstrasse 47
-taunusanlage 1
-klosterstrasse 47
-joachim-friedrich-str   37
-kadettenweg 3-5
-kadettenweg 3-5
-klosterstrasse 47
-potsdamer platz 1
-aufstellung anlage 2
-die anlage 9
-potsdamer platz 1
-nach anlage 4
-feldbergstrasse 17
-wendenschlossstrasse 254
-planstrasse 3
--anlage 11
--anlage 11
-die anlage 7
-realisierungsplan anlage 11
-planstrasse 3
-planstrasse 3
-2013 anlage 14
-potsdamer platz 1
-potsdamer platz 1
-potsdamer platz 1
-in anlage 9
-in anlage 9
-der anlage 9
-heesestrasse 35
-klosterstrasse 47
-feldbergstrasse 17
-wendenschlossstrasse 254
-feldbergstrasse 17
-joachim-friedrich-strasse 37
-feldbergstrasse 17
-feldbergstrasse 17
-zur anlage 11
-wendenschlossstrasse 254
-die anlage 11
-leipziger platz 15
-kadettenweg 3-5
-feldbergstrasse 17
-der anlage 9
-klosterstrasse 47
-wichtige anlage 14
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-landstrasse 4
-potsdamer platz 1
-schmiljanstrasse 7
-wendenschlossstrasse 254
-potsdamer platz 1
-heesestrasse 35
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-gemäß anlage 4
-2013 anlage 11
-planstrasse 3
-baustrasse 1
-feldbergstrasse 17
-feldbergstrasse 17
-die anlage 11
-die anlage 11
-potsdamer platz 1
-der anlage 9
-feldbergstrasse 17
-der anlage 9
-feldbergstrasse 17
-feldbergstrasse 17
-joachim-friedrich-strasse 37
-der anlage 9
-feldbergstrasse 17
-feldbergstrasse 17
-die anlage 9
-feldbergstrasse 17
-feldbergstrasse 17
-in anlage 9
-denkmalplan anlage 7
--baustrasse 1
-planstrasse 3
-planstrasse 3
-gemäß anlage 11
-projektplan anlage 8
-feldbergstrasse 17
-gutshof 9
-potsdamer platz 1
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-wendenschlossstrasse 254
-feldbergstrasse 17
-planstrasse 2
-planstrasse 3
-gemäß anlage 11
-denkmalplan anlage 7
-potsdamer platz 1
-die anlage 9
-bockmühlenweg 13
-bockmühlenweg 13
-marienhütter weg 18
--einstein-str  5
-wendenschlossstrasse 292
-wendenschlossstrasse 292
-wendenschlossstrasse 464
-klosterstrasse 47
-jüdenstrasse 1
-jüdenstrasse 1
-priebornerstrasse 42
-wendenschlossstrasse 93
-wendenschlossstrasse 93
-jüdenstrasse 1
-zum hof 9
-wendenschlossstrasse 91-93
-wendenschlossstrasse 93
-wendenschlossstrasse 19
-wendenschlossstrasse 93-gen
-jüdenstrasse 1
-jüdenstrasse 1
-gustav-adolf-str   130
-wendenschlossstrasse 95
-salzufer 13
-wernsdorfer straße 27
-albrechtstrasse 26
-wernsdorferstrasse  27
-thaler straße 27
-wernsdorferstrasse  27
-carstennstrasse 34
-wernsdorfer str   27
-wernsdorfer str   27
-wernsdorfer straße 27
-wernsdorfer str   27
-wernsdorfer str   27
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorferstrasse 27
-wernsdorfer straße 27-hat
-wernsdorfer straße 27
-wernsdorfer str   27
-wernsdorferstrasse 27
-wernsdorfer str   27
-wernsdorfer str   27
-wernsdorfer str   27
-carstennstrasse  34
-carstennstrasse  34
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorfer straße 27
-talberger straße 8
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorfer str   27
-wernsdorfer straße 27
-wernsdorfer str   27
-wernsdorfer straße 27
-wernsdorfer str   27
-wernsdorfer str   27
-wernsdorfer straße 27
-klosterstrasse 47
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorfer straße 27
-wernsdorder str   27
-wernsdorfer str   27
-wernsdorfer str   27-jag
-wernsdorfer straße 27
-wernsdorfer straße 27
+karpfenteichstrasse 2
 13-martin-luther-straße 105
-06-westendstrasse 4
-westdstrasse  4-481
-lietzenburger str   91
-raumerstrasse 18
-lietzenburger str   91
-lietzenburger str   91
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-06-westendstrasse 4
-klosterstrasse 47
-wiebelskircher straße 66
-klosterstrasse 47
-klosterstrasse 47
-fehrbelliner platz 1
-klosterstrasse 47
-klosterstrasse 47
-krausenstrasse 38-39
-lindenallee 34
-klosterstrasse 47
-lindenallee 34
-oberschöneweide 1898
-lindenallee 34
-lindenallee 34
-whof 11
-wlhof 21-146
-hofstrasse  21-544
-und anlage 2
-wlhof 21
-klosterstrasse 47
-wilhof 21-277
-oberschöneweide 1898
-hofstrasse  22
-oberschöneweide 1898
-wlhof 23-16
-wlhof 23-463
-wlhof 23-440
-wlhof 46-475
-wilhelmiunenhofstrasse 48-mar
-klosterstrasse 47
-klosterstrasse 47
-jacobsenweg 41
-saalburgstrasse  1
-saalburgstrasse  1
-vahrenwalder strasse 265
-jacobsenweg 41
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-saalburgstrasse  1
-vahrenwalder strasse 265
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-vahrenwalder strasse 265
-jacobsenweg 41
-vahrenwalder strasse 265
-saalburgstrasse  1
-saalburgstrasse  1
-jacobsenweg 41
-saalburgstrasse  1
-saalburgstrasse  1
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-podbielskistrasse 30
-vahrenwalder strasse 265
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-jacobsenweg 41
-pariser straße 1
-wilhelminenhof 6-blo
-wilhelminenhof 6
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-klosterstrasse 47
-klosterstrasse 47
--bürgel-weg 9
-klosterstrasse 47
-saalburgstrasse  1
-saalburgstrasse  1
-saalburgstrasse  1
-hofstrasse  6
-vahrenwalder strasse 265
-saalburgstrasse  1
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-vahrenwalder strasse 265
-hofstrasse  6-12
-hofstrasse  7
-hofstrasse  6
-stephaniestrasse 30
-stephaniestrasse 30
-klosterstrasse 47
-vahrenwalder strasse 265
-oberschöneweide 3
-klosterstrasse 47
-wlhof 66-67
-steinweg 28
-oberschöneweide 1
-oberschöneweide 2
-oberschöneweide 4
-steinweg 28
-mittenwalder str 20
-steinweg 28
-mittenwalder str 20
-steinweg 28
-steinweg 28
-hardenbergstrasse 10-gar
-hardenbergstrasse 10-gar
-hardenbergstrasse 10-gar
-wlhof 54-360
--2-wilhelminenhofstrasse 68
-fehrbelliner platz 1
-gesamtanlage 2
-klingelhöferstrasse 4
-wlhof 69
-brückenstrasse 6
-rheinstrasse 45
-brunnenstrasse 188-190
-markgrafenstrasse 44
-roederstrasse 8-14
-markgrafenstrasse 44
-wlhof 76-77
-schwenkbrücke 1996
-berliner str   55
-wlhof 76-77
-markgrafenstrasse 44
-oderstrasse 20
-warschauer str   41-42
-whof 76-77
-klosterstrasse 47
-whof 76-77
-klosterstrasse 47
-markgrafenstrasse 44
-brunnenstrasse 196
-rudolfplatz 3-4
-wlhof 76-77
-wlhof 76
-krausenstrasse 38-39
-und platz 10
-bundesratufer 4
-bundesratufer 4
-hofstrasse  76-77
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-hofstrasse  76-78
-klosterstrasse 47
-rudolfplatz 3-4
-klosterstrasse 47
-treskowallee 8
-am tor 7
-am tor 7
-11-wilhelminenhofstrasse 76-78
-hofstrasse  76-78
-warschauer straße 41-42
-bayreuther straße 8
-klosterstrasse 47
-treskowallee 8
-bayreuther straße 8
-klosterstrasse 47
-klosterstrasse 47
-zugang tor 5-ein
-das tor 5
-hofstrasse  76
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-hofstrasse  75
-hofstrasse  75
-hofstrasse  76-78
-berliner str   55
-berliner str   55
-berliner str   55
-rheinstrasse 45
-kurfürstendamm 178-179
-württembergische str   6
-kaiserin-augusta-allee 5
-kaiserin-augusta-allee 5
-markgrafenstrasse 44
-kaiserin-augusta-allee 5
-treskowallee 8
-rheinstrasse 45
-rheinstrasse 45
-rheinstrasse 45
-württembergische str   6
-lübbener straße 22
-enschardt-stresemann str  27
-gropiusallee 38
-pflasterweg 102
-niederkirchnerstrasse 5
-brunnenstrasse 188-190
-sprosserweg 3
-sprosserweg 3
-berliner str   55
-berliner str   55
-siehe anlage 1
-revaler str   9
-revaler str   9
-fehrbelliner platz 2
-revaler str   9
-rudolfplatz 3-4
-hofstrasse  78
-klosterstrasse 47
-markgrafenstrasse 44
-erkelenzdamm 11-13
-klosterstrasse 47
-lobitzweg 67
-erkelenzdamm 11-13
-behrenstrasse 42
-markgrafenstrasse 44
-berliner str   55
-rheinstrasse 45
-markgrafenstrasse 44
-der anlage 3
-paul-tropp-straße 11
-paul-tropp-straße 11
-paul-tropp-str   11
-paul-tropp-str   11
-paul-tropp-str   11
-paul-tropp-str   11
-paul-tropp-str   11
-wilhleminenhofstrasse 76-77
-sprosserweg 3
-sprosserweg 3
-wilheliminenhofstrasse 76-77
-enster straße 15
-wilheminenhofstrasse 76-77
-brückenstrasse 6
-brückenstrasse 6
-brückenstrasse 6
-oberschöneweide 97
-franz-von-reber-straße 2
-oberschöneweide 97
-oberschöneweide 97
-wlhof 83-85
-klosterstrasse 47
-rungestrasse 29
-schönhauser allee 182
-angrenzenden straße-2-
-scharnauer straße 21
-oranienplatz 5
-klosterstrasse 47
-schmargendorfer str   13
-wilhelminnhofstrasse 83-85
-whof 83-86
-wlhof 83-86
-oranienplatz 5
-wlhof 83-85
-wlhof 83-85
-wlhof 83-86
-wilhelminenhof str   83-85
-whof 83-85
-kollwitzstrasse 38
-wlhof 83-86
-winsstrasse 12
-wlhof 83-85
-wlhof 83-85
-drakestrasse 48
-wächtersbacher str   89
-wlhof 83-85
-wlhof 83-85
-schönhauser allee 182
-schönhauser allee 182
-martin-luther-str   105
-friedrichstrasse 206
-eislebener straße 6
-schönhauser allee 182
-schönhauser allee 182
-wlhof 83-86
-wlhof 83-85
-berliner straße 71
-helene-lange-straße 18
-kollwitzstrasse 38
-leipziger platz 7
-mühlenstrasse 34
-jüdenstrasse 1
-reinbeckstrasse 4-9
-nach anlage 1
-nach anlage 1
-schönhauser allee 182
-königsallee 43
-schanzenstrasse 6-20
-harffstrasse 110
-drygalskiallee 15
-martin-luther-str   105
-martin-luther-str   105
-martin-luther-str   105
-klosterstrasse 47
-friedrichstrasse 206
-erlin-wilhelminenhofstrasse 83
-hofstrasse  83
-hofstrasse  83
-hofstrasse  83
-rolltor 34
-springleranlage 4
-springleranlage 4
-schönhauser allee 182
-schönhauser allee 182
-parsifalstrasse 66
-schönhauser allee 182
-schönhauser allee 182
-allen-wilhelminenhofstrasse 83-85
-wilhelmienhofstrasse 83-54
-kurfürstendamm 184
-querstrasse 25
-klosterstrasse 47
-hofstrasse  87
-klosterstrasse 47
-hofstrasse  87
-birkenallee 10
-wlhof 89
-herzogstrasse 39
-whof 88-80
-wlhof 88-117
-erlin-wilhelminenhofstrasse 89
-wlhof 91-564
-berlin-kaunstrasse 21
-bamberger str   4-6
-kaunstrasse 21
-sonnenhof 1
-landsberger allee 545
-thürnagelstrasse 16
-naugarder str   40
-krausenstrasse  38-39
-wolfgartenstrasse 1-44
-wofgstrasse  30-261
-klosterstrasse 47
-große-leege-str   13
-klosterstrasse 47
-wolfgartenstrasse 8
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-klosterstrasse 47
-wolfgartenstrasse 1-44
-klosterstrasse 47
-wolfgartenstrasse 1-44
-klosterstrasse 47
-klosterstrasse 47
-wolfgartenstrasse 1-44
-klosterstrasse 47
-klosterstrasse 47
-mahlsdorfer straße 97
-klosterstrasse 47
-beyerstrasse 28
-fehrbelliner platz 1
-rehefelder straße 70
-lyoner str   14
+frankfurter tor 8
 krausenstrasse 38
-krausenstrasse 38-39
-roederstrasse  8
-limbacher straße 193
-köthener str   30
-köthener str   30
-roederstrasse 8-13
-köthener straße 30
-köthener str   30
-zplstrasse  19-161
-krausenstrasse 38-39
+krausenstrasse 38
+frankfurter tor 8
+württembergische str   6
+35-würtembergische str   6
+frankfurter tor 8
+frankfurter tor 8
+württembergische str   6
+frankfurter tor 8
+frankfurter tor 8
+krausenstrasse 38
+krausenstrasse 38
+maarweg 165
+belforter straße 29
+maarweg 165
 klosterstrasse 47
-zplstrasse  25
-zplstrasse  25
+seghers-str   134-136
+-seghers-str  110
+berlin-anna-seghers-straße 110
+torellstrasse 7
+-seghers-str  114
+der anlage 1
+-seghersstrasse  110
+torellstrasse 7
+karl-liebknecht-str   31
+-str  134
+der anlage 1
+heidelberger str   64
+heidelberger str   64
+entarisation-krausenstrasse 38
+-str  149-513
+-seghers-str  118
+der anlage 1
+-str  123-474
+hohenzollerndamm 35-36
+heinrich-roller-str   17
+kurfürstendamm 61
+-str  81-526
+-seghers-str   81-
+kurfürstendamm 61
+mainzer str   19
+anna-sehers-str   144
+-str   1140
+klosterstrasse 47
+anna-sehgers-str  144
+klosterstrasse 47
+klosterstrasse 47
+föhse straße 10
+föhse straße 10
+tiergartenstrasse 46
+prinzregentenstrasse 26-30
+prinzregentenstrasse 26-30
+adlershof 1879
+brandenburgische str   51
+brückner straße 9
+rinkartstrasse 13
+13-württembergische str   6
+13-württembergische str   6
+rinkartstrasse 13
+13-württembergische str   6
+klosterstrasse 47
+klosterstrasse 47
+buckower damm 114
+asternplatz 2
+rheinstrasse 15
+baumschulenweg 82
+klosterstrasse 47
+krugallee 4
+bachstrasse 14
+tiergartenstrasse 10
+unbenannte anlage 100601
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+bachstrasse 14
+klosterstrasse 47
+klosterstrasse 47
+tiergartenstrasse 10
+die anlage 2
+hallesches ufer 74-76
+lautet-adlergestell 133-149
+mecklenburgische str   57
+klosterstrasse 47
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+heidekampweg 2
+frankenallee 2-4
+hallesches ufer 74-76
+frankenhäuser straße 64
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+hallesches ufer 74-76
+kreuzbergstrasse 42
+mecklenburgische str   57
+mecklenburgische str   57
+mecklenburgische str   57
+mecklenburgische straße 57
+mecklenburgische straße 57
+rheinstrasse 45
+mecklenburgische str   57
+mecklenburgische str   57
+mecklenburgische straße 57
+mecklenburgische straße 57
+mecklenburgische straße 57
+mecklenburgische straße 57
+reichenberger straße 124
+reichenberger straße 124
+reichenberger straße 124
+schraderstrasse 1
+mecklenburgische straße 57
+süd-ostallee 3
+schützenallee 3
+ulzburger straße 304
+rothenbaumchaussee 78
+treskowallee 109
+treskowallee 109
+treskowallee 109
+spangerstrasse 38
+baumchulenstrasse 92
+brandenburger str   25
+ferdinand-schultze-straße 71
+baumschulenweg 92
+ferdinand-schulze-straße 71
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+grolmanstrasse 40
+klosterstrasse 47
+klosterstrasse 47
+berlinbehringstrasse 38
+gondeker straße 7
+hallesches ufer 74-76
+fabeckstrasse 38
+neuköllnische allee 154
+fabeckstrasse 38
+neuköllnische allee 154
+neuköllnische allee 154
+motzener str   10
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+gondeker straße 7-tel
+gondeker str   7
+karl-marx-str  84-86
+klosterstrasse 47
+gondeker str   7
+gondecker straße 7
+gondeker straße 7
+gondeker str   7
+gondeker str   7
+gondeker str   7
+gondeker straße 7
+berlin-gondeker straße 7
+gondeker str   7
+gondeker str   7
+gondeker str   7
+mankhauser str   1
+gondeker str   7
+gondeker str   7
+gondeker str   7
+gondeker str   7
+württembergischer straße 6
+gondeker str   7
+gondeker str   7
+gondeker str   7
+karl-marx-str  84-86
+gondeker str 2
+mankhauser str   1
+klosterstrasse 47
+warschauer str   41-42
+warschauer str   41-42
+klosterstrasse 47
+seestrasse 64
+steglitzer damm 117
+caroline-michaelis-straße 5-11
+seestrasse 64
+seestrasse 64
+seestrasse 64
+seestrasse 64
+seestrasse 64
+steglitzer damm 117
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+caroline-michaelis-straße 5-11
+klosterstrasse 47
+caroline-michaelis-straße 5-11
+caroline-michaelis-straße 5-11
+dieselstrasse 58
+klosterstrasse 47
+dieselstrasse 58
+klosterstrasse 47
+kaiserin-augusta-str  67
+é strasse 74
+fluchtweg 0004
+karl-kunger-straße 19-20
+é strasse 24
+é strasse 74
+heidelberger straße 91
+é strasse 75-76
+klosterstrasse 47
+jonasstrasse 52
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+kammer-kirchstrasse 7
+breiten weg 11-19
+kammer-kirchstrasse 7
+bansiner str   27
+düsseldorfer straße 12
+hackenbergstrasse  8
+klosterstrasse 47
+hackenbergstrasse 8
+hackenbergstrasse  8
+klosterstrasse 47
+klosterstrasse 47
+kopenhagener str   96
+klosterstrasse 47
+pohlstrasse 20
+azzam straße 614
+azzam straße 614
+pohlstrasse 20
+pohlstrasse 20
+torstrasse 157
+torstrasse 157
+ackerstr   157
+samariterstrasse 10
+birtzer straße 9
+birtzer straße 9
+birtzer straße 9
+klosterstrasse 47
+bruno-bürgelweg 13
+bruno-bürgel weg 9-11
+heiligenberger str   23
+bürgel-weg 9-11
+heiligenberger str   23
+siegertweg 15
+siegertweg 15
+anlage-bruno-bürgel-weg 9
+-bürgel-weg 9-11
+münzstrasse 13
+münzstrasse 13
+bruno-bürgel weg 23-27
+münzstrasse 13
+klosterstrasse 47
+siegertweg 15
+siegertweg 15
+siegertweg 15
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+mainzer straße 19
+kurfürstendamm 61
+klosterstrasse 47
+toebanlage 4
+greifenhagener str   49
+schloßstrasse 48
+schloßstrasse 48
+luchsweg 21
+rheinstrasse 8
+klosterstrasse 47
+klosterstrasse 47
+karl-marx-str   8
+fiduciastrasse 12
+fiduciastrasse 12
+fiduciastrasse 12
+fiduciastrasse 12
+klosterstrasse 47
+hofstrasse  15
+klosterstrasse 47
+grafiksicht-gesims-strasse 16
+fiduciastrasse 12
+fiduciastrasse 12
+waltersdorfer str   1
+klosterstrasse 47
+prieborner str   27
+klosterstrasse  47
+klosterstrasse 47
+waltersdorfer str   1
+waltersdorfer str   1
+waltersdorfer str   1
+zaunanlage 372-13
+klosterstrasse 47
+klosterstrasse 47
+denninger str 15
+thulestrasse  22
+klosterstrasse 47
+denninger str 15
+denninger str 15
+denninger str 15
+pan hof 09
+georg-muche-str   1
+georg-muche-str   1
+seesener straße 33
+klosterstrasse 47
+seesener str   33
+denninger str 15
+denninger str 15
+waltersdorfer str   96
+hackenbergstrasse  8
+grünbergallee 310
+4-seitenhof-1870
+klosterstrasse 47
+deornbrunner str   22-38
+falkenberg 1
+klosterstrasse 47
+prenzlauer allee 175
+hans-schmidt-str   18
+moorfuhrtweg 17
+selchowstrasse 1
+torstrasse 107
+huttenweg 31
+humboldtstrasse 34
+gallwitzallee 87
+krausenstrasse 38
+schönfließer straße 84
+schönfließer straße 84
+schönfließer straße 84
+schönfließer straße 84
+schönfließer straße 84
+eisenacher straße 99
+eisenacher straße 99
+columbiadamm 10
+columbiadamm 10
+gallwitzallee 87
+klosterstrasse 47
+columbiadamm 10
+columbiadamm 10
+humboldtstrasse 34
+schönfließer straße 84
+schönfließer straße 84
+schönfließer straße 84
+kulturverein brücke 7
+kulturverein brücke 7
+klosterstrasse 47
+eibnweg 28
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+sophie-charlotten-str   9-10
+klosterstrasse 47
+sophie-charlotten-str   9-10
+sophie-charlotten-str   9-10
+sophie-charlotten-str   9-10
+sophie-charlotten-str   9-10
+sophie-charlotten-str   9-10
+sophie-charlotten-str   9-10
+württembergische straße 6
+württembergische straße 6
+karolinenhofweg 15
+berliner straße 148
+klosterstrasse 47
+friedrich-list-str   27
+klosterstrasse 47
+treskowallee 26
+hochwaldallee 49
+eigenweg 68
+der anlage 2
+klosterstrasse 47
+klosterstrasse 47
+flutgraben 2
+flutgraben 2
+klosterstrasse 47
+glogauer str   21
+klosterstrasse 47
+flutgraben 2
+glogauer straße 21
+flutgraben 2
+schlesische strasse 12
+glogauer straße 21
+glogauer straße 21
+mühlgraben 70
+mühlgraben 70
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+schlesische strasse 12
+klosterstrasse 47
+schlesische strasse 12
+salzufer 13
+gesamtanlage-eichenstrasse 4
+schlesische strasse 12
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+schlesische strasse 12
+schlesische strasse 12
+flutgraben 2
+schlesische straße 12
+flutgraben 2
+schlesische strasse 12
+flutgraben 2
+klosterstrasse 47
+beermannstrasse  2
+flutgraben 2
+flutgraben 2
+flutgraben 2
+director 40
+director 40
+director 40
+director 40
+director 40
+flutgraben 1
+flutgraben 1
+warschauer str   41-42
+fanny-zobel-straße 12-20
+fanny-zobel-straße 12
+fanny-zobel-straße 12
+beratungskontor 13053
+konstanzer str   31
+klosterstrasse 47
+-str  14
+martin-hoffmann-straße 14
+martin-hoffmann-str   14
+martin-hoffmann-straße 14
+klosterstrasse 47
+klosterstrasse 47
+marx straße 16
+marx straße 16
+marx straße 16
+marx straße 16
+marx straße 16
+ernstrasse 23
+ernstrasse 23-
+ernstrasse 23-
+ernstrasse 23
+ernstrasse 23
+klosterstrasse 47
+ernstrasse 23
+ernstrasse 23
+karl-marx-str   16
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23-
+ernstrasse 23-
+klosterstrasse 47
+klosterstrasse 47
+karl-marx-straße 16
+ernstrasse 25
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+ernstrasse 23
+karl-marx-straße 16
+ernst-strasse 11-23
+klosterstrasse 47
+ernstrasse 23-
+klosterstrasse 47
+behringstrasse-12437
+falkenberg 2
+warschauer straße 41-42
+warschauer straße 41-42
+gerichtstrasse 23
+bruno-taut-straße 30-54
+knobelsdorffstrasse 96
+rheinstrasse 45
+falkenberg 1
+leuschnerdamm 31
+falkenberg 390-12
+knobelsdorffstrasse 96
+knobelsdorffstrasse 96
+knobelsdorffstrasse 96
+falkenberg 559-12
+falkenberg 604-12
+falkenberg 697-12
+brückner str   1
+knobelsdorffstrasse 96
+knobelsdorffstrasse 96
+falkenberg 118-120
+falkenberg 118-120
+falkenberg 118-120
+leuschnerdamm 31
+bruno-taut-straße 8
+falkenberg 123
+bruno-taut-str   2
+bruno-taut-str   2
+bruno-taut-str   6
+bruno-taut-str   8
+bruno-taut-str   8
+warschauer str   41-42
+klosterstrasse 47
+bruno-taut-straße 6
+bruno-taut-straße 6
+bruno-taut-straße 6
+chausseestrasse 29
+chausseestrasse 29
+cuxhavener str   12-13
+cuxhavener str   12-13
+bruno-taut-straße 6
+bruno-taut-str   6
+bruno-taut-str   6
+bruno-taut-str   6
+bruno-taut-str   6
+parchimer allee 81
+parchimer allee 81
+parchimer allee 81
+ohlauer strasse 43
+bruno-taut-str   4
+bruno-taut-str   4
+bruno-taut-straße 8-geä
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-str   8
+bruno-taut-straße 8
+cuxhavener str   12-13
+cuxhavener str   12-13
+und anlage 9
+oranienstrasse 42
+-fennstrasse 9-11
+-fennstrasse 9-11
+-fennstrasse 9-11
+fehrbelliner platz 1
+unbenannte anlage 10-07
+unbenannte anlage 10-07
+unbenannte anlage 10-07
+greifenhagener strasse 39
+-geyer-str   109
+-geyer-str  109
+lindenberger str   2
+florian-gey-str 109
+-geyer-str  109
+esellschaft-köthener straße 44
+619-florian-geyer-str  109
+florian-geyer straße 50
+-geyer-str  50
+kulbeweg 14
+kulbeweg 14
+klosterstrasse 47
+florian-geysr-str   51
+florian-geyer straße 51
+weizengasse 2
+florian-geyerstraße 90
+florian-geyerstraße 90
+klosterstrasse 47
+rheinstrasse 45
+falkenberg 1913
+krausenstrasse 38
+falkenberg 118-120
+warschauer straße 41-42
+falkenberg 118
+falkenberg 118-120
+knobelsdorffstrasse  96
+warschauer straße 41-42
+warschauer straße 41-42
+reichenberger str   90
+brenne anlage 2013
+klosterstrasse 47
+gartentenstadtweg 93
+falkenberg 119
+belziger straße 25
+keithstrasse 2
+wendenschlossstrasse 331
+lschutz-carl-schurz-straße 2-6
+ortolfstrasse 182
+knobelsdorffstrasse 96
+wolfgartenstrasse 1-44
+berlin-gartenstadtweg 29-33
+berlin-gartenstadtweg 88
+berlin-gartenstadtweg 29-33
+berlin-gartenstadtweg 88
+falkenberg 118
+parchimer allee 81
+knobelsdorffstrasse 96
+falkenberg 118-120
+knobelsdorffstrasse 96
+knobelsdorffstrasse 96
+gustav-adolf-str   8
+klosterstrasse 47
+klosterstrasse 47
+ackenberg-35
+rohrlegerweg 45
+krausenstrasse 38
+karl-lade-str   32
+genossenschaftststrasse 40
+klosterstrasse 47
+genossenschaftststrasse 40
+genossenschaftststrasse 40
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+jüdenstrasse 1
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+lindenallee 11
+lindenallee 11
+lindenallee 11
+klosterstrasse 47
+genossenschaftsweg 54
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+siehe anlage 1
+lassenstrasse 23
+lassenstrasse 23
+dortustrasse 3
+kopenhagener straße 15
+kopenhagener straße 15
+kopenhagener straße 15
+bzstr 6
+wielandstrasse 13
+wielandstrasse 13
+gbr-lassenstrasse 23
+lassenstrasse 23
+beipreußenstrasse  45
+fasanenstrasse 77
+guldenhofer ufer 8-12
+guldenhofer ufer 8-12
+guldenhofer ufer 8-12
+glienickerstrasse 517
+schloßstrasse 48
+otto-francke-str   7-20
+toni-lessler-str   23
+klosterstrasse 47
+henkestrasse 10
+parkplatz 35
+washingtonplatz 2
+schöneweide 3
+koppenstrasse 3
+koppenstrasse 3
+klosterstrasse 47
+brückner str  40
+parkplatz 35
+bahnhofsvorplatz 26
+mühlenberger weg 59
+markgrafendamm 24
+kurfürstendamm 207-208
+markgrafendamm 24
+markgrafendamm 24
+glantzstrasse  12-17
+hasselwerder str   13
+hasselwerder str   13
+hasselwerder str   13
+hallesches ufer 74
+hallesches ufer 74
+hasselwerder str   15
+berlin-niederschöneweide 1
+hasselwerdetr str   15
+kurfürstendamm 65
+invalidenstrasse 43
+hasselwerder str   13-15
+kollwitzstrasse 78
+hasselwerder str   13-15
+hasselwerder str   13-15
+hasselwerder str   13-15
+hasselwerder str   13-15
+kollwitzstrasse 78
+klosterstrasse 47
+kollwitzstrasse 78
+eisenacher straße 19-20
+eisenacher str   19-20
+angermünder str  15
+hasselwerder straße 13-15
+kurfürstendamm 65
+hasselwerder str   13
+hasselwerder straße 13
+hasselwerder str   13-15
+britzerstrasse 9
+hauptstrasse 83
+hasselwerder str   1
+werbellinstrasse 12
+kaiserdamm 88
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+fliederweg 1
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+rykestrasse 8
+klosterstrasse 47
+klosterstrasse 47
+fasanenstrasse 87
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+fflorina-geyer-straße 108
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+warschauer str   70
+warschauer str   70
+warschauer str   70
+landhof 15
+heuberger weg 1
+heuberger weg 1
+heuberger weg 1
+heuberger weg 1
+heuberger weg 3
+heuberger weg 3
+heuberger weg 3
+heuberger weg 6
+heuberger weg 6
+-werner-str  4-7
+klosterstrasse 47
+-werner-str  4
+wohnanlage 604
+bundesratufer 4
+bundesratufer 4
+bundesratufer 4
+bundesratufer 4
+konstanzer strasse 55
+klosterstrasse 47
+klosterstrasse 47
+mecklenburgische straße 57
+gartenhof-kiefholzstrasse 403-
+mühlgraben 4
+chemnitzer str   99
+ndamm 14
+chemnitzer str   99
+schlesiche str   29-30
+waldvogelweg 10
+2008 anlage 1
+georg-knorr-str   4
+bürknersfelder str   7
+genthiner str   48
+genthiner str   48
+falkenbrunnstrasse 33
+klosterstrasse 59
+warschauer str   41-42
+platanenweg 20
+platanenweg 20
+kattegattstrasse 10
+in anlage 1
+erbbauberechtigte anlage 2
+siehe anlage 1
+genthiner straße 48
+klosterstrasse 59
+weigandufer 30
+2008 anlage 1
+platanenweg 20
+kiehnwerder allee 1-3
+sprosserweg 3
+kiehnwerder allee 1-3
+kiehnwerder allee 1-3
+sprosserweg 3
+1-kiehnwerderallee 1-3
+dammweg 69
+kiehnwerder allee 1-3
+damm-weg 106
+warschauer str   41-42
+krugallee 4
+dammweg 69
+junker-jörg str  31
+sprosserweg 3
+friedrichstrasse 45
+lichtsignalanlage 75
+warschauer straße 41-42
+kienwerder allee 2
+kienwerderallee 2
+friedrichstrasse 45
+friedrichstrasse 45
+kindlebenstrasse 8
+kiehnwerder allee 345-12
+kiehnwerder allee 597-12
+kiehnwerder allee 1-eie
+kiehnwerder allee 670-12
+sprosserweg 3
+finanzsenator 6
+klosterstrasse 59
+finanzsenator 6
+württembergische straße 6
+kiehnwerder allee 1-3
+klosterstrasse 59
+keibelstrasse 36
+keibelstrasse 36
+keibelstrasse 36
+parochialstrasse 1-3
+parochialstrasse 1-3
+schlesische straße 29-30
+schlesische straße 29-30
+schlesische straße 29-30
+schlesische straße 29-30
+schlesische straße 29
+schlesische straße 29
+friedrichstrasse 45
+warschauer straße 41-42
+warschauer straße 41-42
+genthiner str   48
+ulrichstrasse 19
+ulrichstrasse 19
+kienwerder allee 2
+ulrichstrasse 19
+alexanderplatz 50
+warschauer str   41-42
+friedrichstrasse 45
+warschauer straße 41-42
+sprosserweg 3
+dammweg 69
+warschauer str   41-42
+warschauer straße 41-42
+schlesische straße 27
+schlesische straße 27
+schlesische strasse 27
+württembergische str   6
+investor 2
+kölnische str   1-17
+der anlage 2
+luisenplatz 3
+prinzenallee 74
+fasanenstrasse 87
+simon-dach-str   26
+kölnische str   5
+briitzer str   5
+ruddower str   4
+köllnsiche str   5
+bundesratufer 4
+bundesratufer 4
+rudowerstr  4
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+-köllnische str   1-17
+klosterstrasse 47
+bundesratufer 4
+reichensteiner weg 19
+prinzenallee 74
+ieffenbachstrasse  33
+klosterstrasse 47
+köllnischen straße 9
+düsseldorfer straße 12
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+monitor 32
+klosterstrasse 47
+monitor 32
+monitor 32
+klosterstrasse 47
+heerstrasse 90
+kurfürstendamm 125
+kurfürstendamm 125
+lin-niederschöneweide 118
+kurfürstendamm 125
+kurfürstendamm 125
+prager straße 17
+prager straße 17
+prager straße 17
+prager straße 17
+neltestrasse 2
+neltestrasse 2
+neltestrasse 2
+schönhauser allee 74
+frankfurter tor 1
+pdf anlage 1
+kochstrasse 22-23
+landstrasse 78
+lianenweg 4
+berlin-köpenicker str 31
+heiligenberger str  20
+am berg 22
+lianenweg 15
+rheinstrasse 45
+heiligenberger straße 20
+württembergische str   6-107
+giesebrechtstrasse 10
+krugallee 4
+giesebrechtstrasse 10
+siehe anlage 1
+krugallee 4
+friedrich-ebert-straße 31
+württembergische str   6-107
+württembergische str   6-107
+mehringdamm 129
+klosterstrasse 47
+mehringdamm 129
+reichenweindamm 14
+160121 anlage 1
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+schlesische str   31
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+friedelstrasse 40
+klosterstrasse 47
+marienthaler straße 6
+behringstrasse-12437
+reichenberger straße 124
+reichenberger straße 124
+martin-hoffmann-straße 11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-straße 11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+martin-hoffmann-str   11
+martin-hoffmann-str  11
+martin-hoffmann-straße 11
+martin-hoffmann-str   11
+martin-hoffmann-straße 11
+martin-hoffmann-str   11
+martin-hoffmann-straße 11
+martin-hoffmann-str   11
+martin-hoffmann-str   11
+martin-hoffmann-straße 11
+martin-hoffmann-str   11
+martin-hoffmann-str  11
+martin-hoffmann-straße 11
+martin-hoffmann-straße 11
+martin-hoffmann-str   11
+martin-hoffmann-straße 11
+martin-hoffmann-str  11
+martin-hoffmann-str  11
+klosterstrasse 47
+alexanderplatz 9
+alexanderplatz 9
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+joachimstaler str   12
+klosterstrasse 47
+kulturverein brücke 7
+-brückner-str   1
+brückner str   1
+günauer str   1
+-brückner-strasse  1
+michel-brückner-str   1
+krugallee 4
+brückner straße 1
+schwechater straße 47
+puchanstrasse 12
+michael-brückner str  1-mie
+hasselwerder straße 38-40
+-brückner-str  1
+klosterstrasse 47
+brückner str   1
+brücknerstrasse 1
+brückner-str   1
+-brückner-str  1
+puchanstrasse 12
+-brückner-str  1
+michael-brückner str   1
+jüdenstrasse 1
+hasselwerder straße 1
+hasselwerder straße 1
+-brückner-str  10
+hasselwerder straße 1
+lesehof 9
+lehderstrasse 16-19
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+81 straße 9
+michael-brückner str   9
+krugallee 4
+krugallee 4
+krugallee 4
+otto-suhr-allee 26-28
+schlesische str   29-30
+krugallee 4
+krugallee 4
+friedrich-engels-str   39
+vicki-baum-str   90
+-brückner-str  9
+brückner str   9
+brückner str   9
+brunnenstrasse  188-190
+-brückner str   9
+sortieranlage 23
+august-bebel-straße 61
+bernhard-remmers-str   13
+schlesische str   29-30
+schlesische str   29-30
+hasselwerder straße 22
+-brückner-str , 9
+vicki-baum-str   90
+türanlage 2-flü
+lehderstrasse 16-19
+schlesische str   29-30
+sieglindestrasse 5
+rheinstrasse 45
+engerthstrasse 151-
+wagenhallentor 16
+wagenhallentor 17
+schlesische straße 29-30
+schlesische str   29-30
+schlesische str   29-30
+feuerwache 21
+schlesische str   29-30
+schlesische str   29-30
+schlesische straße 29-30
+krausenstrasse 38
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorferweg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+mariendorfer weg 4
+moosdstrasse  5-6
+hohenzollerndamm 5
+-hoffmann-str  11
+2001 anlage 2
+wallstrasse 61
+greifswalder str   212-213
+klosterstrasse 47
+greifwalder str   212-213
+greifswalder str   212-213
+schöneberger ufer 59
+reichenberger str   124
+schlesischen str   26
+schöneberger ufer 59
+pestalozzistrasse 57
+klosterstrasse 47
+reichenberger str   124
+reichenberger str   124
+reichenberger str   124
+reichenberger str   124
+reichenberger str   124
+schöneberger ufer 59
+schöneberger ufer 59
+krugallee 2-6
+finkenstrasse 8
+krugallee 2-6
+krugallee 4
+krugallee 4-68
+krugallee 4
+krugallee 4
+krugallee 2-6
+krugallee 4
+krugallee 4-tur
+krugallee 4
+eichborndamm 115
+eichborndamm 115-121
+krugallee 4
+dietrich-bonhoeffer-str   14
+dietrich-bonhoeffer-str   14
+krugallee 4
+bänschstrasse 46
+krugallee 4
+krugallee 2
+krugallee 2-6
+krugallee 4
+krugallee 2-6
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+friedensallee 21
+krugallee 4
+krugallee 8
+krugallee 210-230
+krugallee 222
+krugallee 228
+krugallee 24-30
+krugallee 24-30
+dammweg 56
+krugallee 32-52
+krugallee 32-52
+krugallee 32-52
+boxhagener str 78
+prenzlauer promenade 149-152
+krugaallee 32-52
+krugallee 32-52
+krugallee 32-52
+krugallee 32-52
+krugaallee 32-52
+krugaallee 32-52
+krugaallee 32-52
+krugallee 32-52
+krugallee 4
+markstädter straße 3
+markstädter str  3
+markstädter straße 3
+friedrich-list-straße 41
+friedrich-list-straße 41
+friedrich-list-straße 41
+friedrich-list-straße 41
+solaranlage-oststrasse 1
+list straße 41
+klosterstrasse 47
+nebengebäude-oststrasse 1
+klosterstrasse 47
+list str   41
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+friedrich-list-straße 41
+list str   41
+solaranlage-oststrasse 1
+solaranlage 480-12
+klosterstrasse 47
+ostrasse 1
+karl-marx-str 27
+siehe anlage 1
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+ostrstrasse 4
+klosterstrasse 47
+der anlage 2
+klosterstrasse 47
+herrenhausstrasse 7
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+enstererneuerung-oststrasse 57-fro
+forsthausallee 16
+duerener strasse 437
+leonhardtstrasse 20
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+heinrich-roller-str   17
+mainzer straße 19
+herbartstrasse 1
+-grube-str  48
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+z-friedrich-leopold-str   14
+z-friedrich-leopold-str   14
+z-friedrich-leopold-str   14
+lindenallee 38
+lindenallee 38
+z-friedrich-leopold-straße 14
+lindenallee 38
+lindenallee 38
+lindenallee 38
+lindenallee 38
+lindenallee 38
+lindenallee 38
+lindenallee 38
+plesserstrasse  7
+plesserstrasse  7
+kopenhagener straße 15
+kopenhagener straße 15
+kopenhagener straße 15
+krugallee 4
+kopenhagener straße 15
+klosterstrasse 47
+kopenhagener straße 15
+kopenhagener straße 15
+kopenhagener straße 15
+preussenstrasse 41-47
+preussenstrasse 41-47
+preussenstrasse 41-47
+preussenstrasse 41-47
+zur straße 11
+als anlage 1
+kopenhagener straße 15
+parsifalstrasse 66
+sophienweg 26
+kopenhagener str   15
+hstr 12
+oranienburger chaussee 31-33
+berliner str   117
+parsifalstrasse 66
+klosterstrasse 47
+klosterstrasse 47
+kopenhagener straße 15
+lassenstrasse  23
+bleichstrasse 12
+oranienburger chaussee 31-33
+oranienburger chaussee 31-33
+oranienburger chaussee 31-33
+parsifalstrasse 66
+parsifalstrasse 66
+lassenstrasse  23
+berliner str   117
+kopenhagener straße 15
+kopenhagener straße 15
+kopenhagener straße 15
+ringstrasse 105
+parsifalstrasse 66
+der anlage 2
+wernerstrasse 14
+parsifalstrasse 66
+kopenhagener straße 15
+semnonenweg 8
+berliner str   117
+lassenstrasse  23
+hubertusstrasse 54
+klosterstrasse 47
+klosterstrasse 47
+lassenstrasse  23
+klosterstrasse 47
+coloniaallee 23
+stich-preußenstrasse 39
+rössestrasse 550
+stich-preußenstrasse 39
+klosterstrasse 47
+klosterstrasse 47
+gambrinushof 8
+grob-berliner-damm 80
+groß-berliner-damm 80
+gambrinushof 8
+gambrinushof 8
+gambrinushof 8
+gambrinushof 8
+groß-berliner-damm 80
+-gambrinushof 8
+gambrinushof 8
+gambrinushof 8
+siehe anlage 1
+gambrinushof 8
+pusckinaallee 1-13
+klosterstrasse 47
+pusachkinallee 10-12
+klosterstrasse 47
+alexanderplatz 9
+klosterstrasse 47
+klosterstrasse 47
+pusckinaallee 1-13
+pusckinaallee 1-13
+pusckinaallee 1-13
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+colditzstrasse 33
+emser str   40-107
+rinkartstrasse 4
+emser str   40-107
+emser str   40-107
+hans-schmidt-str   18
+emser str   40-107
+emser str   40-107
+rinkartstrasse 4
+emser str   40-107
+emser str   40-107
+emser str   40-107
+hans-schmidt-str   18
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+krausenstrasse 38
+klosterstrasse 47
+klosterstrasse 47
+danziger str   56
+grundstückpuschkinallee 36-41
+siehe anlage 1
+ferdinand-rhode-str   12
+ferdinand-rhode-str   12
+treptower chaussee 48
+treptower chaussee 48
+klosterstrasse 47
+treptower chaussee 48
+libauer str   8
+nsembleteil-puschkinallee 49-vil
+klosterstrasse 47
+treptow-puschkinallee 49
+klosterstrasse 47
+kurfurstendamm 64
+krugallee 4
+krugallee 4
+simonshofer straße 15
+brotteroder straße 9
+simonshofer straße 15
+simonshofer straße 15
+simonshofer straße 15
+august-thyssen-straße 6
+simonshofer straße 15
+krugallee 4
+august-thyssen-straße 6
+grünanlage 2
+simonshofer straße 15
+simonshofer straße 15
+simonshofer straße 15
+petzower straße 4
+teschendorfer str  17
+teschendorfer str  17
+petzower straße 4
+petzower straße 4
+krugallee 4
+krugallee 4
+puschkiallee 50
+klosterstrasse 47
+klosterstrasse 47
+flutgraben 3
+josef-orlopp-str   54
+sonnenallee 282
+glogauer straße 21
+freiarchenbrücke 2
+glogauer straße 21
+flutgraben 3
+flutgraben 3
+flutgraben 3
+luxemburger str   10
+torstrasse 88
+flutgraben 3
+an brücke 630-12
+rheinstrasse 45
+radicke str  43
+radicke strasse  43
+hans-schmidt-str   18
+adlershof 3
+danzigerstrasse 56
+danzigerstrasse 56
+pariser str  44
+seghers-str   134-136
+-str  134
+krugallee 4
+märz straße 54
+märz straße 54
+klosterstrasse 47
+märz straße 54
+sucower str  4
+suckower str  4
+historischen brücke 16
+wassersportallee 50
+klosterstrasse 47
+falkenberg 1-3
+wassersportallee 50
+falkenberg 1
+klosterstrasse 47
+falkenberg 1
+falkenberg 1
+falkenberg 1
+klosterstrasse 47
+falkenberg 1
+falkenberg 1
+wassersportallee 50
+falkenberg 1-5
+falkenberg 1-3
+falkenberg 1-5
+falkenberg 1-5
+falkenberg 1-5
+falkenberg 1-5
+falkenberg 1-3
+falkenberg 1-3
+falkenberg 1-3
+falkenberg 1-3
+falkenberg 1-3
+klosterstrasse 47
+falkenberg 1-5
+falkenberg 1
+falkenberg 1
+falkenberg 1-gef
+wassersportallee 50
+falkenberg 1
+wassersportallee 50
+falkenberg 1
+klosterstrasse 47
+falkenberg 1
+falkenberg 1
+falkenberg 1
+falkenberg 1
+gartenanlage 1758
+klosterstrasse 47
+rostocker straße 41
+sybelstrasse 48
+klosterstrasse 47
+schleizer str   67
+sybelstrasse 48
+neukölln-sonnenallee 282
+klosterstrasse 47
+krugallee 210-230
+krugallee 210-230
+krugallee 210-230
+elevator 6
+ziegelstrasse 11
+gesamtanlage-rudower chaussee 5
+ziegelstrasse 11-12
+einstein str   5-9
+einstein str   5-9
+einstein str   5-9
+ziegelstrasse  12
+ziegelstrasse  12
+ziegelstrasse  12
+chaussee str   17
+kohlfurter str   41-43
+kohlfurter str   41-43
+schöneberger ufer 71
+kohlfurter str   41-43
+kohlfurter str   41-43
+taylor str   10
+waisenstrasse 28
+brook-taylorstrasse 10
+newton str   16
+klosterstrasse 47
+klosterstrasse 47
+é strasse 2
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+utrecht str   6
+libellenstrasse 9
+libellenstrasse 9
+thulestrasse 22
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+libellenstrasse 9
+salzufer 8
+salzufer 8
+salzufer 8
+salzufer 8
+salzufer 8
+salzufer 8
+salzufer 8
+salzufer 8
+adlershof 15
+salzufer 8
+salzufer 8
+salzufer 8
+schwedter str   263
+schwedter str   263
+salzufer 8
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+hochlandstrasse 7
+salzufer 8
+salzufer 8
+salzufer 8
+salzufer 8
+württembergische straße 6
+hochlandstrasse 7
+gmbh-volmerstrasse 9-124
+gmbh-volmerstrasse 9-124
+gmbh-volmerstrasse 9-124
 krausenstrasse 38-39
-roederstrasse 8-14
-roederstrasse 8-14
-zplstrasse  37-486
-roederstrasse 8-14
-zplstrasse  39-41
+hammerbrookstrasse 74
+heilbronner strasse 10
+gmbh-volmerstrasse 9-124
+hammerbrookstrasse 74
+hammerbrookstrasse 74
+gmbh-volmerstrasse 9-124
+walter-nern-str   1
+hammerbrookstrasse 74
+hammerbrookstrasse 74
+walther-nernst-str   1
+hammerbrookstrasse 74
+krausenstrasse 38-39
+heilbronner strasse 10
+heilbronner strasse 10
 klosterstrasse 47
-kilianistrasse 9
+te anlage 2002
 klosterstrasse 47
-hierzu anlage 1
-roederstrasse 8-14
-roederstrasse 8-14
-roederstrasse 8-14
-rödelstrasse 9
-dudenstrasse 10
-danckelmannstrasse 21
-sonnenallee 224
+heilbronner strasse 10
+heilbronner strasse 10
+adlershof-201
+adlershof-201
+adlershof-201
+adlershof-201
+ost-bahnhof 16
+in anlage 2
+waldvogelweg 10
+moriz-seeler straße 1
+kurfürstendamm 58
+barbara-mcclintock-straße 11
+milanstrasse 1
+berlin-adlershof 01
+rungestrasse 29
+schlesische straße 27
+schlesische straße 27
+schlesische straße 27
+rudowerstrasse  39
+thulestrasse 22
+thulestrasse 22
+rudowerstrasse  39
+klosterstrasse 47
+klosterstrasse 47
+rudowerstr  39
+plauener str   163-165
+kopernikusstrasse 23
+wustrower straße 20
+wustrower str   20
+wustrower str   20
+wustrower straße 20
+klosterstrasse 47
+kopernikusstrasse 23
+kopernikusstrasse 23
+kopernikusstrasse 23
+borussiastrasse 112
+schönhauser allee 40
+gutenbergstrasse 21
+schönhauser allee 40
+in anlage 1
+xaver-fuhr-straße 150
+schönhauser allee 40
+benannte anlage 1
+schönhauser allee 40
+schönhauser allee 40
+schönhauser allee 40
+gutenbergstrasse 21
+der anlage 1
+der anlage 1
+nach anlage 2
+nach anlage 2
+regerstrasse 60
+xaver-fuhr-straße 150
+krausenstrasse 38-39
+schönhauser allee 40
+schönhauser allee 40
+gemäß anlage 2
+faust-schönhauser allee 40-104
+gutenbergstrasse 21
+schneller straße 137
+er-kaiser-friedrich-straße 90-105
+er-kaiser-friedrich-straße 90-105
+er-kaiser-friedrich-straße 90-105
+er-kaiser-friedrich-straße 90-105
+er-kaiser-friedrich-straße 90-105
+schönhauser allee 40
+schönhauser allee 40
+schönhauser allee 40
+schönhauser allee 40
+schönhauser allee 40
+schönhauser allee 40
+treskowbrücke 26
+bundesallee 13-14
+klosterstrasse 47
+der anlage 15
+die anlage 15
+wiesenstrasse 46
+wiesenstrasse 46
+kantstrasse  25
+schaftskanzlei-mauerstrasse 83-84
+schaftskanzlei-mauerstrasse 83-84
+schlosserstrasse 24
+adalbertstrasse 50
+vorliegenden anlage 15
+de anlage 1
+de anlage 15
+schnellerstrasse-409
+gutenbergstrasse 21
+schönhauser allee 40
+giesebrechtstrasse 10
+der anlage 1
+vorhabenpläne anlage 2
+schönhauser allee 40
+schnellstrasse 137
+müller anlage 15
+schönhauser allee 40
+helmertstrasse 4-6
+rathenaustrasse 32
+xaver-fuhr-straße 150
+xaver-fuhr-straße 150
+petersberg 2002
+schönhauser allee 40
+xaver-fuhr-straße 150
+xaver-fuhr-straße 150
+hufelandstrasse 22
+der straße 1894
+fürbringerstrasse 20
+schönleinstrasse 5
+mühlberg 21
+giesebrechtstrasse 10
+schönhauser allee 40
+schönhauser allee 40
+hardenbergplatz 2
+hardenbergplatz 2
+helmertstrasse 4-6
+buschkrugallee 95
+schönhauser allee 40
+planstrasse 2
+planstrasse 2
+2 anlage 2
+gutenbergstrasse 21
+schönhauser allee 40
+schönhauser allee 40
+schönhauser allee 40
+heidelberg 688-12
+schönhauser allee 40
+helmertstrasse 4-6
+luxemburger str   10
+schlosserstrasse 24
+treskowbrücke 26
+bundesallee 13-14
+bundesallee 13-14
+schönhauser allee 40
+britzer allee 3
+krugallee 4
+hasselwerder straße 1
+fehrbelliner platz 1
+mecklenburgische str   27
+landstrasse 22
+heilbronner str   10
+helene-lange-str   18
+klosterstrasse 47
+friedhof 27
+schönfelder chaussee 100-ort
+groß-berliner damm 52
+groß-berliner damm 80
+rungestrasse 29
+segelflieger damm 1-45
+segelflieger damm 1-45
+krausenstrasse 38
+segelfliederdamm 1-45
+groß-berliner-damm 80-82
+martin-buber-straße 12
+kurfürstendamm 132
+groß-berlin damm 80
+segelflieger damm 1-45
+mädewalder weg 34
+katharinenstrasse 8
+groß-berliner damm 52
+lietzenburger str   44
+lietzenburger str   44
+groß-berliner damm 80
+groß-berliner damm 80
+rungestrasse 29
+rungestrasse 29
+siehe anlage 1
+siehe anlage 1
+rungestrasse 29
+pfuelstrasse 5
+groß-berliner damm 56
+rungestrasse 29
+rungestrasse 29
+rungestrasse 29
+rungestrasse 29
+rungestrasse 29
+rungestrasse 29
+rungestrasse 29
+segelflieger damm 1-45
+rungestrasse 29
+14-09-01 anlage 1
+katharinenstrasse 8
+groß-berliner damm 52
+groß-berlin damm 80
+katharinenstrasse 8
+segelfliederdamm 1-45
+rosenfelder str   15
+klosterstrasse 47
+semmelweißstrasse 10
+wilhelm-busch-str   12
+hackenbergstrasse  8
+hackenbergstrasse  8
+wilhelm-busch-str   12
+buckower damm 114
+falkenberg 32
+falkenberg 32
+busch straße 12
+hackenbergstrasse  8
+hackenbergstrasse  8
+schöneweide 378-13
+klosterstrasse 47
+hackenbergstrasse  8
+klosterstrasse 47
+garnisonkirchplatz 2
+kuschelberg 21
+kuschelberg 21
+kuschelberg 21
+kuschelberg 21
+zossener straße 41
+zossener straße 41
+ritterstrasse 38-40
+klosterstrasse 47
+baumschulenweg 1949
+baumschulenweg 1949
+klosterstrasse 47
+spaethstrasse 80
+thrasoltstrasse 11
+und straße 7
+warschauer str   41-42
+waldemarstrasse  79
+warschauer str   41-42
+brösener str   24
+warschauer straße 41-42
+megedestrasse 9
+julius-hölder-straße 14
+julius-hölder-straße 14
+lüderitzstrasse 19
+tempelhofer damm 149
+klingelhöferstrasse 4
+parkplatz 3
+heuberger weg 4-ges
+prenzlauer promenade 175
+klosterstrasse 47
+französische str   24
+2008-sterndamm 88-ver
+klosterstrasse 47
+strendamm 88
+dahmestrasse 89
+französische str   24
+französische str   24
+französische str   24
+heuberger weg 4
+heuberger weg 3
+klosterstrasse 47
+klosterstrasse 47
+französische str   24
+französische str   24
+klosterstrasse 47
+klosterstrasse 47
+prenzlauer promenade 175
+prenzlauer promenade 175
+dielkopfweg 34
+französische str   24
+oldenburger allee 26
+schlesische str   31
+ensemble-winckelmannstrasse 2
+werbellinstrasse 12
+beethovenweg 28
+heuberger weg 4-
+siehe anlage 5
+prenzlauer promenade 175
+bleibtreustrasse 33
+prenzlauer promenade 175
+elbchaussee 18
+bleibtreustrasse 33
+frank straße 38
+waldvogelweg 10
+elbchaussee 18
+waldvogelweg 10
+waldvogelweg 10
+waldvogelweg 10
+waldvogelweg 10
+waldvogelweg 10
+klosterstrasse 47
+waldvogelweg 10
+emser str   40-41
+emser straße 40-41
+klosterstrasse 47
+schleiermacherstrasse  8
+freidhof 27
+klosterstrasse 47
+groß-berliner-damm 80
+tiergartenstrasse 10
+mecklenburgische straße 57
+tiergartenstrasse 10
+babelsberger straße 40-41
+babelsberger straße 40-41
+babelsberger straße 40-41
+warschauer str   41-42
+warschauer str   41-42
+nimrodstrasse 68
+prenzlauer promenade 175
+warschauer str   41-42
+pdf anlage 1
+warschauer str   41-42
+warschauer straße 41-42
+babelsberger straße 40
+warschauer str   41-42
+prenzlauer promenade 175
+suedostallee 134
+zwieseler str   6-50
+hofstrasse  6
+dem ufer 196-14
+prenzlauer promenade 175
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+warschauer str   41-42
+warschauer str   41-42
+klosterstrasse 47
+pdf anlage 1
+hans-schmidt-str   18
+postbahnhof 23
+babelsberger straße 40-41
+1 anlage 5
+1 anlage 5
+-südostallee 134
+strokower strasse 129
+defregger str   12435
+rinkartstrasse 13
+parkstrasse  1
+colditzstrasse 31-33
+crellestrasse 30
+bambergerstrasse 41
+bambergerstrasse 41
+heidkrugstrasse  54
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+berliner damm 3
+rinkartstrasse 13
+brüderstrasse 13
+krugallee 4
+forster str   52
+rinkartstrasse 13
+krausenstrasse 38
+crellestrasse 30
+heerstrasse 90
+emser str   40-41
+der anlage 1
+krugallee 4
+krugallee 4
+krugallee 4
+gartenanlage 104-13
+klosterstrasse  47
+puschkin-allee 40-41
+rinkartstrasse 13
+klosterstrasse 47
+joachimstrasse  1-7
+klosterstrasse 47
+gartenanlage 458-12
+gartenanlage 461-464
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+gartenanlage 522-12
+gartenanlage 538-12
+gartenanlage 539-12
+krugallee 4
+gartenanlage 540-12
+schulweg 15
+gartenanlage 552-12
+wernsdorferstr 27
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+parkweg 2
+klosterstrasse 47
+gartenanlage 364-12
+gartenanlage 418-13
+park-puschkinallee 1
+gartenanlage 761-12
+rinkartstrasse 13
+rinkartstrasse 13
+krugallee 4
+krugallee 4
+heerstrasse 90
+heerstrasse 90
+krugallee 4
+heerstrasse 90
+heerstrasse 90
+schulweg 15
+schulweg 15
+defregger str   12435
+tiergartenstrasse 10
+rinkartstrasse 13
+tiergartenstrasse 10
+schulweg 1
+rinkartstrasse 13
+rinkartstrasse 13
+schulweg 15
+defregger str   12435
+dorotheenstrasse  1
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+schulweg 1
+rinkartstrasse 13
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+krugallee 4
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+heerstrasse 90
+crellestrasse 30
+heerstrasse 90
+rinkartstrasse 13
+schulweg 1
+colditzstrasse 31-33
+rinkartstrasse 13
+rinkartstrasse 13
+rinkartstrasse 13
+baustelle brücke 5
+krugallee 4
+schulweg 1
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+krugallee 4
+dernburgstrasse 7
+hans-schmidt-straße 6-8
+krugallee 4
+gneisenaustrasse 41
+dernburgstrasse 7
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+uferweg 60-543
+klosterstrasse 47
+crellestrasse 30
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+krugallee 4
+heerstrasse 90
+krugallee 4
+heerstrasse 90
+heerstrasse 90
+krugallee 4
+heerstrasse 90
+crellestrasse 29-30
+krugallee 4
+krugallee 4
+krugallee 4
+klosterstrasse 47
+crellestrasse 29-30
+crellestrasse 29-30
+crellestrasse 29-30
+schulweg 1
+schulweg 1
+schulweg 1
+schulweg 1
+klosterstrasse 47
+klosterstrasse 47
+heinrich-mann-allee 25
+gartenbauinspektor 1922
+crellestrasse 30
+heerstrasse 90
+rinkartstrasse 13
+crellestrasse 30
+rinkartstrasse 13
+rinkartstrasse 13
+rinkartstrasse 13
+heerstrasse 90
+crellestrasse 30
+georg-simon-ohm-str   50
+yorckstrasse 4-11
+colditzstrasse 31-33
+rinkartstrasse 13
+crellestrasse 30
+crellestrasse 30
+rinkartstrasse 13
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+klosterstrasse 47
+klosterstrasse 47
+klosterstrasse 47
+schulweg 1
+klosterstrasse 47
+klosterstrasse 47
+heerstrasse 90
+klosterstrasse 47
+crellestrasse 30
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+heerstrasse 90
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+treppenanlage 2
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+bleibtreustrasse  3
+heerstrasse 90
+crellestrasse 30
+crellestrasse 30
+klosterstrasse 47
+bleibtreustrasse  3
+crellestrasse 30
+crellestrasse 30
+crellestrasse 30
+klosterstrasse 47
+crellestrasse 30
+schulweg 1
+schulweg 1
+schulweg 1
+heerstrasse 90
+schulweg 1
+schulweg 1
+schulweg 1
+schulweg 1
+rinkartstrasse 13
+uv-entkeimungsanlage 3
+schulweg 1
+rinkartstrasse 13
+crellestrasse 30
+crellestrasse 30
+defregger str   12435
+schulweg 1
+schulweg 1
+schulweg 1
+defregger str   12435
+zeidler anlage 1
+krugallee 4
+crellestrasse 30
+crellestrasse 29-30
+pfuelstrasse 5
+pfuelstrasse 5
+pfuelstrasse 5
+pfuelstrasse 5
+krugallee 4
+pfuelstrasse 5
+anlagevorhandenezaunanlage 6893
+pfuelstrasse 5
+pfuelstrasse 5
+rinkartstrasse 13
+potsdamer str   68
+heerstrasse 90
+württembergische straße 6
+klosterstrasse 47
+gartenanlage 558-12
+klosterstrasse 47
+fehrbelliner platz 2
+columbiadamm 10
+columbiadamm 10
+columbiadamm 10
+fehrbelliner platz 2
+heerstrasse 90
+columbiadamm 10
+columbiadamm 10
+columbiadamm 10
+columbiadamm 10
+fehrbelliner platz 2
+fehrbelliner platz 2
+fehrbelliner platz 2
+fehrbelliner platz 2
+13-martin-luther-straße 105
+forster str   52
+brückenstrasse 6
+lennestrasse 12
+spielplatz 200802
+württembergische str   6
+spielplatz 200802
+forster strasse 52
+forster strasse 52
+forster strasse 52
+forster strasse 52
+forster strasse 52
+spielplatz 200802
+spielplatz 200802
+spielplatz 200802
+colditzstrasse 31-33
+heerstrasse 90
+treptow-eichenstrasse  4
+pfuelstr   5
+falkenberg 119
+klosterstrasse 47
+falkenberg 2
+falkenberg 2
+barfußstrasse 34
+falkenberg 1
+kurfürstendamm 151
+falkenberg 119
+falkenberg 119
+falkenberg 119
+falkenberg 119
+falkenberg 119
+falkenberg 119
+falkenberg 119
+falkenberg 119
+klosterstrasse 47
+falkenberg 1
+gerichtstrasse 23
+karl-liebknecht straße 13
+knobelsdorffstrasse 96
+falkenberg 1
+gerichtstrasse 23
+mecklenburgische straße 57
+de anlage 2
+denkmalgerecht anlage 2
+de anlage 2
+birgit anlage 2
+klosterstrasse 47
+müggelwerderweg 26
+klosterstrasse 47
+flutgraben 3
+flutgraben 3
+flutgraben 3
+flutgraben 3
+flutgraben 3
+die anlage 1
+mainzer straße 19
+jüdenstrasse 1
+jüdenstrasse 1
+-seghers-str  118
+karlsbader str   12
+karlsbader str   12
+jahnstrasse 22
+karlsbader str   12
+-werner-straße 22
+holzgasse 52
+neustrelitzer str   7
+westrasse 72
+klosterstrasse 47
+klosterstrasse 47
+westrasse 72
+westrasse 72
+westrasse 72
+westrasse 72
+wutzkyallee 51
+klosterstrasse 47
+höchste straße 4
+breiten weg 3-35
+breiten weg 3-35
+brandenburgische str   86-87
+brandenburgische str   86-87
+brandenburgische straße 86-87
+karl-marx-straße 83
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische str   86-87
+brandenburgische str   86-87
+klosterstrasse 47
+brandenburgische str   86-87
+brandenburgische str   86-87
+brandenburgische str   86-87
+brandenburgische straße 86-87
+brandenburgische str   86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische str   86-87
+brandenburgische str   86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+brandenburgische straße 86-87
+karl-marx-straße 83
+heuberger weg 3
+winkelmannstrasse 3-5
+winkelmannstr-3-5
+winkelmannstrasse 3-5
+klosterstrasse 47
+kurfürstendamm 61
+heinrich-roller-str   17
+mainzer straße 19
+habichtsplatz 3
+kurfürstendamm 61
+skalitzer str   28
+klosterstrasse 47
+der anlage 1
+der anlage 1
+brückenstrasse 1
+brückenstrasse 1
+landsberger str   370

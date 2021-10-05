@@ -31,10 +31,12 @@ uri = os.getenv("MONGO_CONNECTION")
 lib = os.getenv("DOCUMENT_URL")
 tab = os.getenv("DOCUMENT_TABLE")
 if uri == None:
-    uri = "mongodb+srv://semtation:SemTalk3!@cluster0.pumvg.mongodb.net/kibardoc?retryWrites=true&w=majority"
+    uri = "mongodb://localhost:27017"
 
-# uri = "mongodb+srv://semtation:SemTalk3!@cluster0.pumvg.mongodb.net/kibardoc?retryWrites=true&w=majority"
-uri = "mongodb://localhost:27017"
+# uri = "mongodb://localhost:27017"
+# uri =  os.getenv("MONGO_CONNECTION_ATLAS")
+# uri =  os.getenv("MONGO_CONNECTION_KLS")
+uri =  os.getenv("MONGO_CONNECTION_AZURE")
 
 myclient = pymongo.MongoClient(uri,
                                maxPoolSize=50,
@@ -44,8 +46,9 @@ mydb = myclient["kibardoc"]
 collist = mydb.list_collection_names()
 
 # metadatatable = "resolved"
-metadatatable = "metadata"
-metadatatable = "koepenick"
+# metadatatable = "metadata"
+# metadatatable = "koepenick"
+metadatatable = "treptow"
 if tab:
     metadatatable = tab
 

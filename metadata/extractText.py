@@ -23,7 +23,8 @@ def extract_meta(file_path, tika_url):
     return result
 
 def extractText(district: str, path: str, col: Collection, tika_url: str):
-    i = 100000
+    i = 0
+    # i = 100000
     m = 0
     col.delete_many({})
     for root, d_names, f_names in os.walk(path):
@@ -40,7 +41,8 @@ def extractText(district: str, path: str, col: Collection, tika_url: str):
                         continue
                         # txt = ""
                     print(i, " ", os.path.join(root, ff))
-                    met = extract_meta(ff, tika_url)
+                    # met = extract_meta(ff, tika_url)
+                    met = {}
                     try:
                         res = col.find_one_and_update({"file": f, "ext": ext, "path": root}, 
                             { "$set": {"meta": met, "text": txt, "district": district}})
